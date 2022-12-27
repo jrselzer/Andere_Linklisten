@@ -1,0 +1,86 @@
+# Ich habe einen Virenscanner, ich bin sicher
+## TL,DR
+nein
+## Langfassung
+- [Das Privacy-Handbuch zu Virenscannern](https://www.privacy-handbuch.de/handbuch_90a1.htm)
+Für 90% der Windows Nutzer ist ein Virenscanner ein unverzichtbares Sicherheitstool aber nur 7% der Security Experten halten Virenscanner für sinnvoll. Warum sind Sicherheits­experten so skeptisch und bezeichnen diese Produktgruppe als [Schlangenöl](https://de.wikipedia.org/wiki/Schlangen%C3%B6l)?
+- [Schutz oder Schlangenöl? Erneute Diskussion über die Daseinsberechtigung von Anti-Viren-Software](https://www.heise.de/select/ct/2017/5/1488560529789980)
+Schützt der Virenschutz tatsächlich oder handelt es sich bei den Angeboten der AV-Hersteller um minderwertige Produkte, die womöglich sogar durch eigene Sicherheitslücken noch Schaden anrichten? Von Fabian A. Scherschel
+- [Die Schlangenöl-Branche](https://www.golem.de/news/antivirensoftware-die-schlangenoel-branche-1612-125148.html)
+Antivirenprogramme gelten Nutzern und Systemadministratoren als unverzichtbar. Doch viele IT-Sicherheitsexperten sind extrem skeptisch. [Antivirensoftware](https://www.golem.de/specials/virenscanner/) ist oft selbst voller Sicherheitslücken - und hat sehr grundsätzliche Grenzen. Eine Analyse von [Hanno Böck](https://hboeck.de/) veröffentlicht am
+- [Virenschutz: Das digitale Schlangenöl](https://www.youtube.com/watch?v=ZxzvHXT0NXw)
+Virenschutz als aller erstes auf dem neuen Computer installieren! Ganz klar, erstmal irgendeine kostenlose aber bestimmt super-hilfreiche Antiviren-Software installieren! Man will ja auf Nummer Sicher gehen. Prost!
+- [Trügerische Sicherheit: Virenscanner-Apps sind schlichtweg überflüssig Link/URL](https://www.kuketz-blog.de/truegerische-sicherheit-virenscanner-apps-sind-schlichtweg-ueberfluessig/)
+Im vorliegenden Beitrag möchte ich aufzeigen, wie eingeschränkt der Funktionsumfang von Virenscanner-Apps auf mobilen Plattformen ist und wie wenig sie zum Schutz beitragen. Im Gegenteil: Die meisten Virenscanner-Apps können locker mit [Schadsoftware](https://de.wikipedia.org/wiki/Schadprogramm) mithalten, da sie mehr **Daten** an den Anbieter oder Marketing-Unternehmen übermitteln, als für die Funktionserbringung notwendig.
+- [Jetzt patchen! Antiviren-Software von Trend Micro unter Beschuss](https://www.heise.de/security/meldung/Jetzt-patchen-Antiviren-Software-von-Trend-Micro-unter-Beschuss-4685096.html)
+- [Leaked Documents Expose the Secretive Market for Your Web Browsing Data](https://www.vice.com/en/article/qjdkq7/avast-antivirus-sells-user-browsing-data-investigation)
+An Avast antivirus subsidiary sells 'Every search. Every click. Every buy. On every site.' Its clients have included Home Depot, Google, Microsoft, Pepsi, and McKinsey.
+- [Avira Crypto: Nach der Virenjagd Kryptowährung schürfen](https://www.heise.de/news/Avira-Crypto-Nach-der-Virenjagd-Kryptowaehrung-schuerfen-6321794.html)
+NortonLifeLock hat es erneut getan und unter Windows eine Antiviren-Software mit Krypto-Mining-Fähigkeiten ausgestattet.
+- [BSI warnt vor dem Einsatz von Kaspersky-Virenschutzprodukten](https://www.bsi.bund.de/DE/Service-Navi/Presse/Pressemitteilungen/Presse2022/220315_Kaspersky-Warnung.html)
+Antivirensoftware, einschließlich der damit verbundenen echtzeitfähigen Clouddienste, verfügt über weitreichende Systemberechtigungen und muss systembedingt (zumindest für Aktualisierungen) eine dauerhafte, verschlüsselte und nicht prüfbare Verbindung zu Servern des Herstellers unterhalten. Daher ist Vertrauen in die Zuverlässigkeit und den Eigenschutz eines Herstellers sowie seiner authentischen Handlungsfähigkeit entscheidend für den sicheren Einsatz solcher Systeme. Wenn Zweifel an der Zuverlässigkeit des Herstellers bestehen, birgt Virenschutzsoftware ein besonderes Risiko für eine zu schützende IT-Infrastruktur.
+- [Antivirus that mines Ethereum sounds a bit wrong, right? Norton has started selling it](https://www.theregister.com/2021/06/03/norton_crypto/)
+NortonLifeLock, the company that offers the consumer products Broadcom didn't want when it bought Symantec, has started to offer Ethereum mining as a feature of its Norton 360 security suite.
+- [Trend Micro Anti-Threat Toolkit could be used to run malware on Win PCs](https://securityaffairs.co/wordpress/92818/hacking/trend-micro-anti-threat-toolkit-flaw.html)
+A vulnerability in the Trend Micro Anti-Threat Toolkit (ATTK) can be exploited by attackers to run malware on targets' Windows systems.
+The security expert and bug-hunter John "hyp3rlinx" Page discovered an arbitrary code execution vulnerability, tracked as CVE-2019-9491, in the Trend Micro Anti-Threat Toolkit.
+- [Hackers Breach Avast Antivirus Network Through Insecure VPN Profile](https://www.bleepingcomputer.com/news/security/hackers-breach-avast-antivirus-network-through-insecure-vpn-profile/)
+Hackers accessed the internal network of Czech cybersecurity company Avast, likely aiming for a supply chain attack targeting CCleaner. Detected on September 25, intrusion attempts started since May 14.
+Following an investigation, the antivirus maker determined that the attacker was able to gain access using compromised credentials via a temporary VPN account.
+- [Blue Screen of Death: Symantec Endpoint Protection kann Windows-Abstürze verursachen](https://www.heise.de/security/meldung/Blue-Screen-of-Death-Symantec-Endpoint-Protection-kann-Windows-Abstuerze-verursachen-4558016.html)
+Ein Signaturupdate für Endpoint Protection von Symantec hat auf Windows-Systemen einen Blue Screen of Death ausgelöst. Nun gibt es ein Update.
+- [Kaspersky: Yes, we obtained NSA secrets. No, we didn't help steal them](https://arstechnica.com/information-technology/2017/11/kaspersky-yes-we-obtained-nsa-secrets-no-we-didnt-help-steal-them/)
+Moscow-based AV provider challenges claims it helped Russian spies.
+- [Critical Vulnerabilities in Trend Micro Deep Security Agent for Linux](https://www.modzero.com/advisories/MZ-21-02-Trendmicro.txt)
+Products known to be affected:
+    - Deep Security Agent 20.0.0-2740 for Ubuntu
+    - Deep Security Agent 20.0.0-2921 for Ubuntu
+The Trend Micro Deep Security Agent is an agent software for different operating systems, that connects with a server software to perform tasks related to virus protection. The Trend Micro Deep Security software suite consists of server and a client (agent) component. After an initial configuration (activation), the clients are managed by the server. Once installed as instructed by the vendor, the Trend Micro Deep Security agent is running as root user. A compromise of the agent results in high privileges on the system. If left unconfigured, a machine with the Deep Security agent installed is vulnerable to a privilege escalation attack, that allows a local attacker to run arbitrary code as root. This is due to a code injection vulnerability in the <tt>`ActivateAgent`</tt> command, which is sent by the server. An addition directory traversal vulnerability in the <tt>`GetCopiedFile`</tt> command allows a remote attacker to read arbitrary files from the filesystem.The Trend Micro Deep Security agent software is shipped with    hardcoded credentials such as private key material.
+- [Sicherheitsupdate Bitdefender: Websites könnten Schadcode auf PCs schleusen](https://www.heise.de/security/meldung/Sicherheitsupdate-Bitdefender-Websites-koennten-Schadcode-auf-PCs-schleusen-4792200.html)
+In einer aktualisierten Version von Bitdefender Internet Security haben die Entwickler eine Sicherheitslücke geschlossen. Das Angriffsrisiko gilt als hoch.
+- [Trend Micro antivirus zero-day used in Mitsubishi Electric hack](https://www.zdnet.com/article/trend-micro-antivirus-zero-day-used-in-mitsubishi-electric-hack/)
+Hackers exploited a Trend Micro OfficeScan zero-day to plant malicious files on Mitsubishi Electric servers.
+- [28 Antivirenprogramme konnten sich selbst zerstören](https://www.golem.de/news/sicherheitsluecke-28-antivirenprogramme-konnten-sich-selbst-zerstoeren-2004-148101.html)
+Ein einfacher Trick ließ [Antivirensoftware](https://www.golem.de/specials/virenscanner/) wichtige Dateien löschen.
+- [Sicherheitsupdate: Firmware-Bug gefährdet XG Firewalls von Sophos](https://www.heise.de/security/meldung/Sicherheitsupdate-Firmware-Bug-gefaehrdet-XG-Firewalls-von-Sophos-4790793.html)
+Angreifer könnten über ein Schlupfloch in Sophos XG Firewalls Schadcode in Netzwerken ausführen.
+- [Dateien löschbar und Schadcode-Attacken: Updates für Trend-Micro-Schutzsoftware](https://www.heise.de/news/Dateien-loeschbar-und-Schadcode-Attacken-Updates-fuer-Trend-Micro-Schutzsoftware-4964691.html)
+Schwachstellen in Trend Micro InterScan Web Security Virtual Appliance und Worry-Free Business Security gefährden Systeme.
+- [Kaspersky-Schutzsoftware senkt Sicherheit von SSL-Verbindungen](https://www.heise.de/security/meldung/Kaspersky-Schutzsoftware-senkt-Sicherheit-von-SSL-Verbindungen-2482344.html)
+Wer die Kaspersky-Funktion "Sichere Verbindungen untersuchen" aktiviert, macht sein System potenziell für den Poodle-Angriff auf SSLv3 anfällig.
+- [Virenwächter Webroot: Probleme durch fehlerhafte Signaturen](https://www.heise.de/newsticker/meldung/Virenwaechter-Webroot-Probleme-durch-fehlerhafte-Signaturen-3693480.html)
+Der Virenschutz-Anbieter Webroot hat ein Signatur-Update ausgespielt, mit dem der Virenwächte diverse harmlose Dateien in Quarantäne nimmt -- auch Windows-Systemdateien. Ein Patch dafür steht noch aus.
+- [Fehlalarm: Eset hält das Internet für infiziert](https://www.heise.de/security/meldung/Fehlalarm-Eset-haelt-das-Internet-fuer-infiziert-3120189.html)
+Durch eine fatale Panne stufen die Virenschutzprogramme von Eset derzeit etliche Websites als schädlich ein und verhindern den Zugriff darauf. Der Fehlalarm betrifft unter anderem Google, Amazon und auch heise.de
+- [Avast verdächtigt Windows-Bibliotheken als Trojaner](https://www.heise.de/security/meldung/Avast-verdaechtigt-Windows-Bibliotheken-als-Trojaner-2638093.html)
+Der Virenwächter Avast hat DLL-Dateien von Windows als gefährlich eingestuft und in Quarantäne verschoben. Danach liefen bei betroffenen Nutzern einige Programme nicht mehr.
+- [Achtung: Panda-Virenscanner zerschießt Windows, nicht Neustarten!](https://www.heise.de/security/meldung/Achtung-Panda-Virenscanner-zerschiesst-Windows-nicht-Neustarten-2573233.html)
+Die Virenschutz-Produkte von Panda Security haben wegen fehlerhaften Signaturen etliche Windows-Rechner lahm gelegt. Wer betroffen ist, soll die Füße still halten und das System nicht neu starten -- da es unter Umständen nicht mehr hochfährt.
+- [Offener Trojaner-Scanner kämpft mit Fehlalarmen](https://www.heise.de/security/meldung/Offener-Trojaner-Scanner-kaempft-mit-Fehlalarmen-2465417.html)
+Das Tool zur Suche nach Staatstrojanern produziert offenbar recht viele Fehlalarme -- unter anderem bei Antiviren-Software, die angeblich infiziert ist.
+- [Antiviren-Software AVG hielt Systemdatei für Trojaner](https://www.heise.de/security/meldung/Antiviren-Software-AVG-hielt-Systemdatei-fuer-Trojaner-1822950.html)
+Eine fälschlicherweise als Malware identifizierte Windows-DLL bescherte einigen AVG-Nutzern einen unruhigen Vormittag.
+- [Signaturfehler: Avira für Exchange fraß Mails](https://www.heise.de/security/meldung/Signaturfehler-Avira-fuer-Exchange-frass-Mails-1440809.html)
+Ein Signaturfehler führte in der vergangenen Nacht dazu, dass Avira AntiVir Exchange unverfängliche Mails in den Bad-Mail-Ordner verschob. Administratoren müssen die wegsortierten Mails per Hand wiederherstellen.
+- [Virenscanner infiziert Systeme mit Sality-Virus](https://www.heise.de/security/meldung/Virenscanner-infiziert-Systeme-mit-Sality-Virus-3237654.html)
+Durch ein Update des Virenscanners Rising landet eine infizierte Datei auf dem System, die sich dann daran macht, den Sality-Virus weiter zu verbreiten.
+- [Kasper-Spy: Kaspersky-Virenschutz gefährdet Privatsphäre der Nutzer](https://www.heise.de/ct/artikel/Kasper-Spy-Kaspersky-Virenschutz-gefaehrdet-Privatsphaere-der-Nutzer-4495127.html)
+Mit seiner Antiviren-Software verspricht Kaspersky Sicherheit und Datenschutz. Durch ein Datenleck konnten Dritte die Nutzer allerdings jahrelang beim Surfen ausspionieren.
+- [Virenscan-Dienste: Vertrauliche Nutzer-Dokumente öffentlich abrufbar](https://www.heise.de/hintergrund/Virenscan-Dienste-Vertrauliche-Nutzer-Dokumente-oeffentlich-abrufbar-6678047.html)
+Arztberichte, Arbeitsverträge, Bewerbungen, Unfallgutachten -- all das fanden wir auf Virenscan-Plattformen, arglos hochgeladen von Nutzern der Analysedienste.
+- [Researchers Disclose Years-Old Vulnerabilities in Avast and AVG Antivirus](https://thehackernews.com/2022/05/researchers-disclose-10-year-old.html)
+Two high-severity security vulnerabilities, which went undetected for several years, have been discovered in a [legitimate driver](https://docs.microsoft.com/en-us/windows-hardware/drivers/gettingstarted/what-is-a-driver-) that's part of Avast and AVG antivirus solutions.
+"These vulnerabilities allow attackers to escalate privileges enabling them to disable security products, overwrite system components, corrupt the operating system, or perform malicious operations unimpeded," SentinelOne researcher Kasif Dekel [said](https://s1.ai/avast) in a report shared with The Hacker News.
+- [10 Jahre alte Schwachstellen in Avast und AVG gefährden Millionen Nutzer Link/URL](https://www.borncity.com/blog/2022/05/05/10-jahre-alte-schwachstellen-in-avast-und-avg-gefhrden-millionen-nutzer/)
+Sicherheitsforscher von Sentinel One haben  in den Sicherheitsprodukten von Avast und AVG zwei seit 10 Jahren bestehende, schwerwiegende [Schwachstellen entdeckt](https://www.sentinelone.com/labs/10-year-old-vulnerabilities-in-avast-and-avg-put-millions-at-risk/), die Millionen von Nutzern gefährden. Die Schwachstellen stecken im *Anti Rootkit*-Treiber von Avast (der auch von AVG verwendet wird). Angreifern ermöglichen die Schwachstellen die Übernahme des zu schützenden Systems.
+- Golem: [Anti-Virensoftware: Kaspersky scheitert vor Oberverwaltungsgericht gegen Warnung ](https://www.golem.de/news/anti-virensoftware-kaspersky-scheitert-vor-oberverwaltungsgericht-gegen-warnung-2204-164957-rss.html)
+Dem BSI lägen hinreichende Beweise für seine Warnung vor Kaspersky-Produkten vor, hat das OVG entschieden․ Die Entscheidung ist nicht anfechtbar
+- Tagesschau: [IT-Sicherheit: Schwierige Warnung vor Kaspersky](https://www.tagesschau.de/investigativ/br-recherche/software-kaspersky-sicherheit-warnungen-101.html)
+- Heise: [BSI-Chef Schönbohm: Kaspersky als Gefahr für die nationale Sicherheit](https://www.heise.de/news/BSI-Chef-Schoenbohm-Kaspersky-als-Gefahr-fuer-die-nationale-Sicherheit-7151518.html) "Die Produktwarnung vor Kaspersky meine ich absolut ernst", betont BSI-Chef Schönbohm. Wer die russische Virenschutzsoftware nutzt, handle teils fahrlässig.
+- Heise: [BSI-Warnung vor Kaspersky: Interne Dokumente belegen politische Motivation](https://www.heise.de/news/Interne-Dokumente-BSI-Warnung-vor-Kaspersky-war-stark-politisch-motiviert-7205028.html) Nach dem militärischen Überfall Russlands auf die Ukraine blockte das BSI abrupt die Kommunikation mit Kaspersky und sprach sich mit dem Innenministerium ab.
+- Golem: [Wie das BSI Kaspersky zur Bedrohung erklärte](https://www.golem.de/news/antivirensoftware-wie-das-bsi-kaspersky-zur-bedrohung-erklaerte-2208-167502.html) Interne Dokumente des BSI zeigen, wie es zu der Warnung vor Kaspersky kam - inklusive eines Gefallens für GData.
+- Heise: [Virenscanner: Schwachstelle von McAfee erleichtert Angreifern das Einnisten](https://www.heise.de/news/Virenscanner-Schwachstelle-von-McAfee-erleichtert-Angreifern-das-Einnisten-7235809.html) Angreifer hätten aufgrund einer Sicherheitslücke im Virenschutz McAfee Security Scan Plus ihre Rechte erhöhen können. Das erleichterte das Einnisten im System.
+- 9to5google: [Google removes Avast, AVG extensions from Chrome Web Store after data collection concerns](https://9to5google.com/2019/12/17/chrome-avast-extensions-removed/)
+- Heise: [Virenscanner: Bitdefender-Sicherheitslücke ermöglicht Löschen von Registry-Keys](https://www.heise.de/news/Virenscanner-Bitdefender-Sicherheitsluecke-ermoeglicht-Loeschen-von-Registry-Keys-7327061.html)
+- Heise: [Virenschutz: Rechteausweitung durch Schwachstelle in AVG und Avast](https://www.heise.de/news/Virenschutz-Rechteausweitung-durch-Schwachstelle-in-AVG-und-Avast-7367529.html) Die Virenscanner von AVG und Avast hätten Angreifern ermöglichen können, ihre Rechte im System auszuweiten. Updates zum Beheben des Fehlers sind verfügbar.
+- [Wichtige Sicherheitsupdates für Avira Security, AVG Antivirus & Co.](https://www.heise.de/news/Wichtige-Sicherheitsupdates-fuer-Avira-Security-AVG-Antivirus-Co-7441040.html) Norton hat in seinem Portfolio von Anti-Viren-Software mehrere Sicherheitslücken geschlossen. Angreifer könnten sich höhere Nutzerrechte verschaffen.
