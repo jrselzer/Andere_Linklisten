@@ -196,6 +196,7 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
 
 ![](https://minio.daten.reisen/codimd/uploads/52b69f8f9cd41ac616f507e00.png)
 * [Berty](https://berty.tech/) kommuniziert über ein P2P-Netz. Leider gelingt es nicht zuverlässig, sich miteinander zu verknüpfen. Das gegenseitige Scannen von QR-Codes scheint noch halbwegs zu funktionieren, aber der Einladungslink führt zu einer Fehlermeldung. Auch der Nachrichtenaustausch schlägt häufig fehl. In unseren Tests gingen drei Viertel der Testnachrichten verloren.
+* [Zulip](https://zulip.com/)
 
 ## Alternative Suchmaschinen
 * [YaCy](https://yacy.net/) - eine verteilte Suchmaschine
