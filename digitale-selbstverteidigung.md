@@ -208,6 +208,7 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
 * [Neeva](https://neeva.com/) - kostenpflichtig, verlangt Anmeldung über Mailadresse
 * [Yandex](https://yandex.com/) - Bildersuchmaschine
 * [etools](https://www.etools.ch/) - Metasuchmaschine
+* [Ecosia](https://www.ecosia.org/)
 * Einschätzungen von [digitalcourage](https://digitalcourage.de/digitale-selbstverteidigung/es-geht-auch-ohne-google-alternative-suchmaschinen)
 
 ## Videokonferenzsysteme
