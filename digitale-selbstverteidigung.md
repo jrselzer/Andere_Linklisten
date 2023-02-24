@@ -443,7 +443,7 @@ Unter https://cloud.datenburg.org/s/csXbXDseep7Qo6N findest Du die Keepass-Daten
 * [Empfehlungsecke: OSINT-Tools](https://www.kuketz-blog.de/empfehlungsecke-osint-tools/)
 * [BleachBit](https://www.bleachbit.org/) When your computer is getting full, BleachBit quickly frees disk space. When your information is only your business, BleachBit guards your privacy. With BleachBit you can free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and discard junk you didn't know was there. Designed for Linux and Windows systems, it wipes clean thousands of applications including Firefox, Adobe Flash, Google Chrome, Opera, and more. Beyond simply deleting files, BleachBit includes advanced features such as shredding files to prevent recovery, wiping free disk space to hide traces of files deleted by other applications, and vacuuming Firefox to make it faster. Better than free, BleachBit is open source.
 * [Shennina - Automating Host Exploitation with AI](https://github.com/mazen160/shennina) Shennina is an automated host exploitation framework. The mission of the project is to fully automate the scanning, vulnerability scanning/analysis, and exploitation using Artificial Intelligence. Shennina is integrated with Metasploit and Nmap for performing the attacks, as well as being integrated with an in-house Command-and-Control Server for exfiltrating data from compromised machines automatically.
-
+* [Portmaster](https://safing.io/) is a free and open-source application firewall that does the heavy lifting for you. Restore privacy and take back control over all your computer's network activity.
 
 ## Allgemeine Tips
 * System und Apps aktuell halten
