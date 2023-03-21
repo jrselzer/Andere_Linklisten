@@ -254,6 +254,7 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
     * [Browserleaks](https://browserleaks.com/) 
     * [Schemeflood](https://schemeflood.com/) erkennt einen Computer browserübergreifend anhand der installierten Programme
     * [FPmon](https://github.com/fpmon/fingerprinting-monitor) für Chrome zeigt an, ob und wenn ja welche Fingerprinting-Techniken eine Webseite nutzt
+    * [fingerprint.com](https://fingerprint.com/) Powered by the most accurate device fingerprinting technology, Fingerprint enables engineers to prevent fraud, improve user experiences, and better understand their traffic.
 * [Tribler](https://www.tribler.org/)
 * [I2P](https://geti2p.net/de/)
 * [Freenet](https://freenetproject.org/)
