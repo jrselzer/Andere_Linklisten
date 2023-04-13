@@ -154,6 +154,7 @@ Die hier beschriebenen Werkzeuge arbeiten vor allem auf mechanischen Festplatten
 * [Unmasked: What 10 million passwords reveal about the people who choose them](https://wpengine.com/resources/passwords-unmasked-infographic/)
 * [Passworttipps](https://md.daten.reisen/waxrTnC0SzyO-JHcMXybsA?view#Allgemeine-Tips) finden sich auf dieser Seite weiter unten
 * [Passwörter: 64 Prozent der User verwenden Kennwörter mehrmals](https://www.heise.de/news/Passwoerter-64-Prozent-verwenden-Kennwoerter-mehrmals-7328871.html)
+* [AI password cracking](https://www.homesecurityheroes.com/ai-password-cracking/)
 
 ## Alternative Messenger
 * [Signal](https://signal.org/)
@@ -418,6 +419,7 @@ Unter https://cloud.datenburg.org/s/csXbXDseep7Qo6N findest Du die Keepass-Daten
 * [Burp suite](http://portswigger.net/burp/proxy.html) Auftrennen von SSL-Verbindungen, um den Datenverkehr von Apps zu untersuchen
 * [Kali Linux](https://www.kali.org/) is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering.
     * heise+: [Hacking-Tools: Hacking-Stick mit Kali Linux einrichten](https://www.heise.de/ratgeber/Hacking-Tools-Hacking-Stick-mit-Kali-Linux-einrichten-6223844.html)
+    * [Kali Linux Penetration Testing Tutorial: Step-By-Step Process](https://www.esecurityplanet.com/networks/kali-linux-tutorial/)
 * [IT-Sicherheit: Reverse Engineering von Android-Apps](https://www.heise.de/ratgeber/IT-Sicherheit-Reverse-Engineering-von-Android-Apps-4994208.html)
 * [Reverse Engineering von Android-Apps](https://www.heise.de/select/ct/2021/1/2031818243766930133)
 * [Android-Traffic unter der Lupe](https://www.heise.de/select/ct/2017/13/1497715250712891)
