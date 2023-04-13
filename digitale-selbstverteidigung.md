@@ -268,6 +268,7 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
 
 ## VPN
 * [Schnelles und einfaches VPN mit Wireguard](https://www.golem.de/news/open-source-schnelles-und-einfaches-vpn-mit-wireguard-2106-156912.html)
+  * [Rosenpass](https://rosenpass.eu/#start) Build post-quantum-secure VPNs with WireGuard
 * [Israeli firm Kape Technologies buys ExpressVPN raising privacy concerns](https://www.hackread.com/israeli-firm-kape-technologies-expressvpn-privacy/)
 * [Kape Technologies buys ExpressVPN for $936 mln](https://www.reuters.com/technology/kape-technologies-buys-expressvpn-936-mln-2021-09-13/)
 * [Sicheres Surfen: Britisch-israelische Firma Kape kauft ExpressVPN](https://www.heise.de/news/Sicheres-Surfen-Britisch-israelische-Firma-Kape-kauft-ExpressVPN-6192012.html)
