@@ -152,3 +152,4 @@ Geleakte Version auf netzpolitik.org
 * heise.de: [Chatkontrolle: Vorbild Australien?](https://www.heise.de/hintergrund/Vorbild-Australien-Chatkontrolle-durch-Mobbing-gegen-Provider-7526991.html)
 * netzpolitik.org: [Chatkontrolle: Studie zerlegt Pläne der EU-Kommission](https://netzpolitik.org/2023/chatkontrolle-studie-zerlegt-plaene-der-eu-kommission/)
 * heise.de: [Chatkontrolle: Studie zieht Wirksamkeit des EU-Vorschlags in Zweifel](https://www.heise.de/news/Chatkontrolle-Studie-zieht-Wirksamkeit-des-EU-Vorschlags-in-Zweifel-8949084.html)
+* netzpolitik.org: [Innenministerium setzt sich bei Chatkontrolle durch](https://netzpolitik.org/2023/bundesregierung-innenministerium-setzt-sich-bei-chatkontrolle-durch/)
