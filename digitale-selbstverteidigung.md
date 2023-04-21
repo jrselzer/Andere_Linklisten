@@ -347,6 +347,7 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
 
 ## Links
 * Linkliste der c't zum [Privatsphärenschutz](https://www.heise.de/select/ct/2022/16/softlinks/y46t)
+* [Datenschutzrechtliche Selbstauskunft](https://ct.de/ycyu)
 * [Ungewöhnliche IT-Sicherheits- und Datenschutztipps Teil 1](https://www.kuketz-blog.de/ungewoehnliche-it-sicherheits-und-datenschutztipps-teil1/)
 * [Ungewöhnliche IT-Sicherheits- und Datenschutztipps Teil 2](https://www.kuketz-blog.de/ungewoehnliche-it-sicherheits-und-datenschutztipps-teil2/)
 * [Werkzeuge zur digitalen Selbstverteidigung](https://flaschenpost.piratenpartei.de/2021/03/05/werkzeuge-zur-digitalen-selbstverteidigung/)
