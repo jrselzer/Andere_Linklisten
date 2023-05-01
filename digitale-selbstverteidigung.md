@@ -453,6 +453,7 @@ Unter https://cloud.datenburg.org/s/csXbXDseep7Qo6N findest Du die Keepass-Daten
 ## Allgemeine Tips
 * System und Apps aktuell halten
 * Backups anlegen
+* Abhängigkeiten vermeiden,nicht alles auf ein Pferd setzen
 * Passwörter
     * Lange Passwörter wählen. Je länger das Passwort, desto weniger komplex muss es sein, desto leichter lässt es sich merken.
     * Für jedes Konto ein eigenes Passwort wählen (kein Credential Stuffing). 
