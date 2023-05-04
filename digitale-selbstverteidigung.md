@@ -346,6 +346,22 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
 * [Neue Malware-Familie für Linux entdeckt](https://www.heise.de/news/Neue-Malware-Familie-fuer-Linux-entdeckt-6211764.html)
 * [Ist Kaspersky wirklich ein Problem?](https://www.spektrum.de/news/it-sicherheit-ist-kaspersky-wirklich-ein-problem/2000236) Das Bundesamt für Sicherheit in der Informationstechnik (BSI) warnt vor dem russischen Unternehmen. Doch wie berechtigt es ist, Kaspersky als unsicher zu bezeichnen, bleibt unklar.
 
+## Identitätsdiebstahl
+* Heise: [Identitätsdiebstahl: Erste Hilfe bei Onlinebetrug unter Ihrem Namen](https://www.heise.de/ratgeber/Identitaetsdiebstahl-Erste-Hilfe-bei-Onlinebetrug-unter-ihren-Namen-7452745.html) Kriminelle kaufen mit illegal erworbenen Login-Daten auf Ihre Rechnung ein oder posten Beschimpfungen in Ihrem Namen? Das sollten Sie jetzt tun.
+* Erstmaßnahmen
+  * Ein vertrauenswürdiges System verwenden.
+  * Passwörter ändern
+    * des gekaperten Accounts
+    * aller angeschlossenen Konten  
+  * Konto im Auge behalten. Rechnungen überprüfen
+  * Kreditkarten sperren lassen (116116)
+  * Eventuell Anzeige erstatten
+* Weitere Maßnahmen
+  * Mailkonto auf unbekannte Weiterleitungen prüfen.
+  * Ordner für gesendete Nachrichten überprüfen.
+  * Alle Mails nach sensiblen Informationen durchsehen (Namen, Anschriften, Telefonnummern, Geburtsdaten, Kontoinformationen). 
+  * System auf Schadsoftware scannen (beispielsweise mit [desinfec't](https://www.heise.de/download/product/desinfect-71642). Im Positivfall eventuell forensisch sichern lassen und neu aufsetzen
+
 ## Links
 * Linkliste der c't zum [Privatsphärenschutz](https://www.heise.de/select/ct/2022/16/softlinks/y46t)
 * [Datenschutzrechtliche Selbstauskunft](https://ct.de/ycyu)
