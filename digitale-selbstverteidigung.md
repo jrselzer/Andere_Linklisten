@@ -124,6 +124,7 @@ Die hier beschriebenen Werkzeuge arbeiten vor allem auf mechanischen Festplatten
     * [Passwortmanager-Apps im Privacy-Check](https://www.heise.de/ratgeber/Passwortmanager-Apps-im-Privacy-Check-5050304.html)
 * Bin ich von einem Datenleck betroffen?
     * [Have I been pwned?](https://haveibeenpwned.com/)
+      * [See your identity pieced together from stolen data](https://www.abc.net.au/news/2023-05-18/data-breaches-your-identity-interactive/102175688)
     * [HPI Identity Leak Checker](https://sec.hpi.de/ilc/)
 * Zwei-Faktor-Authentifizierung
     * tOTP
