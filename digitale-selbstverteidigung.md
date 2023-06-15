@@ -237,7 +237,7 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
     * [How to circumvent the Great Firewall and connect to Tor from China?](https://support.torproject.org/censorship/connecting-from-china/)
     * [What is Snowflake?](https://support.torproject.org/censorship/what-is-snowflake/)
     * [Dark Web Map](https://www.hyperiongray.com/dark-web-map/)
-    * [Tor Statistics](https://metrics.torproject.org/)
+    * [Tor Statistics](https://metrics.torproject.org/) The Tor network is one of the largest deployed anonymity networks, consisting of thousands of volunteer-run relays and millions of users. Users, advocates, relay operators, and journalists can better understand the Tor network through data and analysis made available by Tor Metrics. Analyzing a live anonymity system must be performed with great care so that the users' privacy is not put at risk. Any metrics collected must not undermine the anonymity or security properties of the Tor network.
     * [Missing Link: Wie sicher ist der Anonymisierungsdienst Tor?](https://www.heise.de/hintergrund/Missing-Link-Wie-sicher-ist-der-Anonymisierungsdienst-Tor-6272025.html)
     * [Dark Web Map](https://www.hyperiongray.com/dark-web-map/)
     * [Darknetlive](https://darknetlive.com/)
