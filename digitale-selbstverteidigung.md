@@ -238,6 +238,7 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
     * [OnionShare](https://onionshare.org/)
     * für iOS [Onionbrowser](https://onionbrowser.com/) (gratis mit Spendenmöglichkeit)
     * [Set TOR Exit Node – TOR Browser, Country Code, Specific Node](https://www.optimizationcore.com/security/set-tor-exit-node-tor-browser-country-code-specific-node/)
+    * [Anonsurf](https://linuxhint.com/anonsurf/) Send all your (Kali) Linux data trough Tor.
     * [How to circumvent the Great Firewall and connect to Tor from China?](https://support.torproject.org/censorship/connecting-from-china/)
     * [What is Snowflake?](https://support.torproject.org/censorship/what-is-snowflake/)
     * [Dark Web Map](https://www.hyperiongray.com/dark-web-map/)
