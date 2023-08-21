@@ -160,7 +160,9 @@ Die hier beschriebenen Werkzeuge arbeiten vor allem auf mechanischen Festplatten
 * [Passworttipps](https://md.daten.reisen/waxrTnC0SzyO-JHcMXybsA?view#Allgemeine-Tips) finden sich auf dieser Seite weiter unten
 * [Passwörter: 64 Prozent der User verwenden Kennwörter mehrmals](https://www.heise.de/news/Passwoerter-64-Prozent-verwenden-Kennwoerter-mehrmals-7328871.html)
 * [AI password cracking](https://www.homesecurityheroes.com/ai-password-cracking/)
-
+* LfDI Berlin: [Anforderungen an ein sicheres Passwort](https://www.datenschutz-berlin.de/buergerinnen-und-buerger/selbstdatenschutz/it-sicherheit/passwortsicherheit/)
+  * Ratgeber [Umgang mit Passwörtern](https://www.datenschutz-berlin.de/fileadmin/user_upload/pdf/broschueren/2020-BlnBDI-Ratgeber_Passwoerter.pdf) (PDF)
+ 
 ## Alternative Messenger
 * [Signal](https://signal.org/)
     * [veröffentlichter Server-Quellcode](https://github.com/signalapp/Signal-Server)
@@ -367,6 +369,8 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
   * Ordner für gesendete Nachrichten überprüfen.
   * Alle Mails nach sensiblen Informationen durchsehen (Namen, Anschriften, Telefonnummern, Geburtsdaten, Kontoinformationen). 
   * System auf Schadsoftware scannen (beispielsweise mit [desinfec't](https://www.heise.de/download/product/desinfect-71642). Im Positivfall eventuell forensisch sichern lassen und neu aufsetzen
+* LfDI Berlin: [Hilfe, mein Kundenkonto wurde gehackt! Was tun gegen Identitätsdiebstahl und Accountübernahme?](https://www.datenschutz-berlin.de/jahresbericht-2022#_idTextAnchor056) Identitätsmissbrauch im Onlinehandel ist ein großes Ärgernis für die betroffenen Personen. Auch in diesem Jahr haben wir wieder einige Beschwerden zu diesem Thema erhalten. Die gute Nachricht ist, dass betroffene Personen selbst etwas tun können, um sich vor Identitätsmissbrauch zu schützen. Aber auch die Unternehmen sind in der Pflicht, Maßnahmen zum Schutz ihrer Kund:innen zu ergreifen.
+
 
 ## Links
 * Linkliste der c't zum [Privatsphärenschutz](https://www.heise.de/select/ct/2022/16/softlinks/y46t)
