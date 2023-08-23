@@ -234,28 +234,35 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
 * [Materialsammlung zu Videokonferenzsystemen](https://md.daten.reisen/s/ry3Wk_Jkd)
 
 ## Anonymes Surfen
+### Tor
 * [Tor Project](https://torproject.org)
-    * [OnionShare](https://onionshare.org/)
-    * für iOS [Onionbrowser](https://onionbrowser.com/) (gratis mit Spendenmöglichkeit)
-    * [Set TOR Exit Node – TOR Browser, Country Code, Specific Node](https://www.optimizationcore.com/security/set-tor-exit-node-tor-browser-country-code-specific-node/)
-    * [Anonsurf](https://linuxhint.com/anonsurf/) Send all your (Kali) Linux data trough Tor.
-    * [How to circumvent the Great Firewall and connect to Tor from China?](https://support.torproject.org/censorship/connecting-from-china/)
-    * [What is Snowflake?](https://support.torproject.org/censorship/what-is-snowflake/)
-    * [Dark Web Map](https://www.hyperiongray.com/dark-web-map/)
-    * [Tor Statistics](https://metrics.torproject.org/) The Tor network is one of the largest deployed anonymity networks, consisting of thousands of volunteer-run relays and millions of users. Users, advocates, relay operators, and journalists can better understand the Tor network through data and analysis made available by Tor Metrics. Analyzing a live anonymity system must be performed with great care so that the users' privacy is not put at risk. Any metrics collected must not undermine the anonymity or security properties of the Tor network.
-    * [Missing Link: Wie sicher ist der Anonymisierungsdienst Tor?](https://www.heise.de/hintergrund/Missing-Link-Wie-sicher-ist-der-Anonymisierungsdienst-Tor-6272025.html)
-    * [Dark Web Map](https://www.hyperiongray.com/dark-web-map/)
-    * [Darknetlive](https://darknetlive.com/)
-        * [Darkweb Forums](https://darknetlive.com/forums/)
-    * [Anleitung](https://wiki.ubuntuusers.de/Tor/Programme_zur_Nutzung_von_Tor_konfigurieren/), um Thunderbird über Tor und Privoxy laufen zu lassen
+* [OnionShare](https://onionshare.org/)
+* für iOS [Onionbrowser](https://onionbrowser.com/) (gratis mit Spendenmöglichkeit)
+* [Set TOR Exit Node – TOR Browser, Country Code, Specific Node](https://www.optimizationcore.com/security/set-tor-exit-node-tor-browser-country-code-specific-node/)
+* [Anonsurf](https://linuxhint.com/anonsurf/) Send all your (Kali) Linux data trough Tor.
+* [How to circumvent the Great Firewall and connect to Tor from China?](https://support.torproject.org/censorship/connecting-from-china/)
+* [What is Snowflake?](https://support.torproject.org/censorship/what-is-snowflake/)
+* [Dark Web Map](https://www.hyperiongray.com/dark-web-map/)
+* [Tor Statistics](https://metrics.torproject.org/) The Tor network is one of the largest deployed anonymity networks, consisting of thousands of volunteer-run relays and millions of users. Users, advocates, relay operators, and journalists can better understand the Tor network through data and analysis made available by Tor Metrics. Analyzing a live anonymity system must be performed with great care so that the users' privacy is not put at risk. Any metrics collected must not undermine the anonymity or security properties of the Tor network.
+* [Missing Link: Wie sicher ist der Anonymisierungsdienst Tor?](https://www.heise.de/hintergrund/Missing-Link-Wie-sicher-ist-der-Anonymisierungsdienst-Tor-6272025.html)
+* [How to find the administrator of an onion site?](https://medium.com/@moon_osint/how-to-find-the-administrator-of-an-onion-site-89d176b0061a)
+  * [TOR Node List](https://www.dan.me.uk/tornodes) — This page contains a full TOR nodelist
+  * [ExoneraTor](https://metrics.torproject.org/exonerator.html) —Check IP if it is used as a TOR node
+  * [Onionite](https://github.com/lukechilds/onionite) — Node info, top nodes by consensus weight with search function
+  * [Collector Tor](https://collector.torproject.org/archive/relay-descriptors/microdescs/) — Archive of nodes IPs and ports
+* [Dark Web Map](https://www.hyperiongray.com/dark-web-map/)
+* [Darknetlive](https://darknetlive.com/)
+  * [Darkweb Forums](https://darknetlive.com/forums/)
+* [Anleitung](https://wiki.ubuntuusers.de/Tor/Programme_zur_Nutzung_von_Tor_konfigurieren/), um Thunderbird über Tor und Privoxy laufen zu lassen
     ![](https://minio.daten.reisen/codimd/uploads/52b69f8f9cd41ac616f507e0f.png)
-    * Englischsprachige [Anleitung](https://linuxconfig.org/install-tor-proxy-on-ubuntu-20-04-linux) zur Installation von Tor unter Ubuntu und der Möglichkeit, unter anderem die Shell über Tor kommunizieren zu lassen.
-    * [Warum das Darknet nicht nur für Kriminelle ist ](https://www.heise.de/news/Warum-das-Darknet-nicht-nur-fuer-Kriminelle-ist-7237406.html) Das Darknet hat einen miserablen Ruf, zu Unrecht. Schließlich kann man im Darknet auch viele sinnvolle Dinge anstellen. c't 3003 gibt Tipps.
+  * Englischsprachige [Anleitung](https://linuxconfig.org/install-tor-proxy-on-ubuntu-20-04-linux) zur Installation von Tor unter Ubuntu und der Möglichkeit, unter anderem die Shell über Tor kommunizieren zu lassen.
+  * [Warum das Darknet nicht nur für Kriminelle ist ](https://www.heise.de/news/Warum-das-Darknet-nicht-nur-fuer-Kriminelle-ist-7237406.html) Das Darknet hat einen miserablen Ruf, zu Unrecht. Schließlich kann man im Darknet auch viele sinnvolle Dinge anstellen. c't 3003 gibt Tipps.
         1. Install-Datei überprüfen
         1. Vorsicht mit eigenen Daten
         1. Vertraue niemandem
         1. Sicherheitsstufe einstellen
         1. Tails benutzen
+### Andere Netze
 * [ZeroNet](https://zeronet.io) ein zensurresistentes P2P-Netz, das erst durch Tor anonym wird
 * Wie gut ist mein Browser wiedererkennbar?
     * [Cover your Tracks](https://coveryourtracks.eff.org/) (früher Panopticlick)
