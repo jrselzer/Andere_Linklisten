@@ -263,6 +263,13 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
         1. Sicherheitsstufe einstellen
         1. Tails benutzen
 * Simplified Privacy: [How you can be deanonymized through Tor](https://simplifiedprivacy.com/how-you-can-be-deanonymized-through-tor/) Tor is an excellent tool for privacy, and we do not recommend you avoid it.  However, there are many limitations to be aware of and ways of using it that can compromise your anonymity on Tor.  This article will discuss just a few of the ways, but there may be others that the public is unaware of.  For example in 2017, the FBI dropped a case against a school worker accused of downloading child pornography because the FBI would have rather let him go than reveal the source code for how they deanonymitized him through Tor.  [1] If you really want to get your privacy game to the next level, consider subscribing for free to our new content by email, by Session messenger, RSS feed, or Nostr.
+   1. JavaScript based attacks
+   1. Cookies
+   1. Compromised Exit Nodes
+   1. Compromised Middle Relays
+   1. Compromised Entrance Guards
+   1. Opening Files Outside Tor
+   1. Ultrasonic Sounds
 ### Andere Netze
 * [ZeroNet](https://zeronet.io) ein zensurresistentes P2P-Netz, das erst durch Tor anonym wird
 * Wie gut ist mein Browser wiedererkennbar?
