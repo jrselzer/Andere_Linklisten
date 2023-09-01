@@ -81,6 +81,8 @@ Materialien zur digitalen Selbstverteidigung
 * [ecryptfs](http://ecryptfs.org/)
 * [CryFS](https://www.cryfs.org/) kommandozeilenbasiert, verschlüsselt Daten in Cloudspeichern
 * [Shufflecake: plausible deniability for multiple hidden filesystems on Linux](https://shufflecake.net/) Shufflecake is a tool for Linux that allows to create multiple hidden volumes on a storage device in such a way that it is very difficult, even under forensic inspection, to prove the existence of such volumes. This is useful for people whose freedom of expression is threatened by repressive authorities or dangerous criminal organizations, in particular: whistleblowers, investigative journalists, and activists for human rights in oppressive regimes. You can consider Shufflecake a "spiritual successor" of tools such as Truecrypt and Veracrypt, but vastly improved: it works natively on Linux, it supports any filesystem of choice, and can manage multiple nested volumes per device, so to make deniability of the existence of these partitions really plausible.
+* [rclone](https://rclone.org/) Rclone is a command-line program to manage files on cloud storage. It is a feature-rich alternative to cloud vendors' web storage interfaces. Over 70 cloud storage products support rclone including S3 object stores, business & consumer file storage services, as well as standard transfer protocols.
+  * [Cloudspeicher mit rclone verschlüsseln](https://gnulinux.ch/cloudspeicher-mit-rclone-verschluesseln) Das FLOSS Tool rclone eignet sich hervorragend zur Dateisynchronisierung zwischen unseren Rechnern und den Cloudanbietern unserer Wahl. Als Dreingabe ermöglicht rclone eine Ende-zu-Ende Verschlüsselung. Lesezeit: 30 Minuten
 
 ## Dateiverschlüsselung
 * [7-Zip](https://7-zip.org/)
