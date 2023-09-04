@@ -53,6 +53,7 @@ Materialien zur digitalen Selbstverteidigung
 * [Thunderbird](https://www.thunderbird.net/)
 * [GPG for Windows](https://gpg4win.de/)
 * [Einfach, sicher, kostenlos: DGNcert für sichere Mail-Kommunikation ](https://www.dgn.de/dgncert/so_funktionierts.html) Offene Punkte: Wo wird das Zertifikat erzeugt? Erzeugt DGN nicht nur die Signaturkette sondern gleich das ganze Zertifikat bei sich selbt, könnte es kompromitiert sein. Weiterhin ist die DGN-CA nicht in allen Mailclients im Lieferzustand enthalten, was zu einer Fehlermeldung führt, wenn jemand eine mit einem DGN-Zertifikat signierte Mail erhält, die aber mangels CA nicht überprüft werden kann.
+* Kagel Blog: [PGP Schlüssel generieren wie ein Experte](https://www.kagel.ch/artikel/pgp-schluessel-generieren-wie-ein-experte/) Normalerweise, wenn Sie einen Schlüssel generieren, erhalten Sie standardmässig einen RSA Schlüsselpaar (meistens mit einer Länge von 2048 oder 4096 Bits), wobei der Hauptschlüssel zertifizieren und signieren kann, und ein separater Unterschlüssel für die Verschlüsselung generiert wird. Standardmässig laufen keine der Schlüssel ab. Wir können das jedoch optimieren!
 
 ## Vertrauenswürdige Mailanbieter
 * [Posteo](https://posteo.de)
