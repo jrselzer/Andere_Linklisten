@@ -19,6 +19,9 @@
 - Aldous Huxley: [Brave New World](https://en.wikipedia.org/wiki/Brave_New_World)
 - Andreas Eschbach: [Nationales Sicherheits Amt](https://de.wikipedia.org/wiki/NSA_%E2%80%93_Nationales_Sicherheits-Amt)
 - Dave Eggers: [The Circle](https://en.wikipedia.org/wiki/The_Circle_(Eggers_novel))
+- John Brunner: [The Shockwave Rider](https://en.wikipedia.org/wiki/The_Shockwave_Rider)
+- Robert Shea, Robert Anton Wilson: [The Illuminatus! Trilogy](https://en.wikipedia.org/wiki/The_Illuminatus!_Trilogy)
+- William Gibson: [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer)
 
 ## Filme - Dokumentationen
 - Alles ist Eins - außer der 0.
@@ -32,6 +35,7 @@
 - Snowden
 - 23 - nichts ist so wie es scheint
 - Mr Robot
+- [Hackers - boot up or shut up](https://en.wikipedia.org/wiki/Hackers_(film))
 
 ## Vorträge
 - Linus Neumann: [Bullshit made in Germany](https://media.ccc.de/v/30C3_-_5210_-_de_-_saal_g_-_201312282030_-_bullshit_made_in_germany_-_linus_neumann)
