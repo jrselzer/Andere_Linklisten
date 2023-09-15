@@ -22,6 +22,7 @@
 - John Brunner: [The Shockwave Rider](https://en.wikipedia.org/wiki/The_Shockwave_Rider)
 - Robert Shea, Robert Anton Wilson: [The Illuminatus! Trilogy](https://en.wikipedia.org/wiki/The_Illuminatus!_Trilogy)
 - William Gibson: [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer)
+- Philip K Dick: [Do Androids Dream of Electric Sheep?](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)
 
 ## Filme - Dokumentationen
 - Alles ist Eins - außer der 0.
@@ -31,7 +32,8 @@
 - Pre Crime
 
 ## Spielfilme und Serien
-- Who am I
+- Who am I?
+- Blade Runner
 - Snowden
 - 23 - nichts ist so wie es scheint
 - Mr Robot
