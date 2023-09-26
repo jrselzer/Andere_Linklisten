@@ -12,7 +12,8 @@
 - Eric S. Raymond: The Cathedral And The Bazaar
 - Hacker für Moskau
 - Hackerbibel 1 und 2
-- Texte zur Theorie des Internets
+- Texte zur Theorie des Internets, Reclam
+- Eva Wolfangel: [Ein falscher Klick](https://www.penguin.de/Paperback/Ein-falscher-Klick/Eva-Wolfangel/Penguin/e602114.rhd)
 
 ## Romane
 - George Orwell: 1984
