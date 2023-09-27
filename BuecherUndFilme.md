@@ -24,6 +24,7 @@
 - Robert Shea, Robert Anton Wilson: [The Illuminatus! Trilogy](https://en.wikipedia.org/wiki/The_Illuminatus!_Trilogy)
 - William Gibson: [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer)
 - Philip K Dick: [Do Androids Dream of Electric Sheep?](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)
+- Marc Elsberg: [Blackout](https://marcelsberg.com/buecher?isbn=9783442380299)
 
 ## Filme - Dokumentationen
 - Alles ist Eins - außer der 0.
