@@ -5,6 +5,7 @@ Materialien zur digitalen Selbstverteidigung
 ===
 * Webseite der Cryptoparty Köln-Bonn https://crypto.koeln
 * Mailkontakt: kontakt@crypto.koeln ([PGP](https://pgp.mit.edu/pks/lookup?op=get&search=0xE51CD26133E2CC11) Fingerprint 8CB5 66A7 C55D 3D25 037A  533D E51C D261 33E2 CC11)
+* Fediverse: @cryptoparty@bonn.social
 ## Browser-Plugins
 * uBlock Origin
   * [Available Filter Templates](https://letsblock.it/filters) einige hilfreiche Filter
