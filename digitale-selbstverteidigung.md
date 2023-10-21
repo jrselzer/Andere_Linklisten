@@ -117,7 +117,6 @@ Die hier beschriebenen Werkzeuge arbeiten vor allem auf mechanischen Festplatten
     * [Keepass-Diff](https://github.com/Narigo/keepass-diff) A CLI-tool to diff Keepass (.kdbx) files. Useful, if syncing with Dropbox or NextCloud and getting multiple files due to conflicts. 
     * [KeepassXC](https://keepassxc.org/) ist eine optisch etwas modernere Version
       * Falls bei der Installation die Meldung “MSVCP140.dll fehlt” oder “VCRUNTIME140.dll fehlt” auftaucht:
-    ![](https://minio.daten.reisen/codimd/uploads/db52368664107d1ae565aba0c.png)
         [Lösung: MSVCP140.dll oder VCRUNTIME140.dll fehlt](https://www.giga.de/downloads/windows-10/tipps/msvcp140.dll-fehlt-so-behebt-ihr-den-fehler-auch-vcruntime140.dll/) aufrufen und https://aka.ms/vs/16/release/vc_redist.x64.exe (für 64-Bit-Windows) wählen
       * Unter Ubuntu tauchten Fehler bei Autotype auf. Auf einem Testsystem half die Installation von ```ydotool``` mittels ```sudo apt install ydotool```.
     * [Passwörter systemübergreifend verwalten und synchronisieren mit Keepass](https://www.heise.de/ratgeber/Passwoerter-systemuebergreifend-verwalten-und-synchronisieren-mit-Keepass-5064157.html)
@@ -126,7 +125,6 @@ Die hier beschriebenen Werkzeuge arbeiten vor allem auf mechanischen Festplatten
     * [KeePassDX: Magikeyboard und AutoFill im Android-Alltag nutzen – Passwörter Teil2](https://www.kuketz-blog.de/keepassdx-magikeyboard-und-autofill-im-android-alltag-nutzen-passwoerter-teil2/)
     * [Syncthing: KeePass-Datenbank zwischen PC und Android synchronisieren – Passwörter Teil3](https://www.kuketz-blog.de/syncthing-keepass-datenbank-zwischen-pc-und-android-synchronisieren-passwoerter-teil3/)
     * [Bitwarden](https://bitwarden.com/)
-        * [Bitwarden-Server des Kölner CCC](https://bitwarden.daten.reisen)
         * Unter Ubuntu ließ sich das Appimage nicht starten und stürzte mit einem Coredump ab. Abhilfe schaffte die Installation zweier Pakete mittels ```sudo apt install qt6-wayland``` sowie ```sudo apt install xcb```.
     * [Passwortmanager-Apps im Privacy-Check](https://www.heise.de/ratgeber/Passwortmanager-Apps-im-Privacy-Check-5050304.html)
 * Bin ich von einem Datenleck betroffen?
@@ -142,7 +140,6 @@ Die hier beschriebenen Werkzeuge arbeiten vor allem auf mechanischen Festplatten
         * [Solokeys](https://solokeys.com/)
         * [Yubikey](https://www.yubico.com/)
     * [2FA QR code generator](https://stefansundin.github.io/2fa-qr/) Secret zum Testen: JBSWY3DPEHPK3PXP
-    ![](https://minio.daten.reisen/codimd/uploads/upload_7da34d918d7b48a9282984db4a37846d.png)
     * [TOTP Token Generator](https://totp.danhersam.com/)
 * [List of the most common passwords](https://en.wikipedia.org/wiki/List_of_the_most_common_passwords)
 * [The to 500 worst passwords of all time](http://www.whatsmypass.com/the-top-500-worst-passwords-of-all-time)
@@ -161,7 +158,6 @@ Die hier beschriebenen Werkzeuge arbeiten vor allem auf mechanischen Festplatten
 * [Choosing a secure password](https://boingboing.net/2014/02/25/choosing-a-secure-password.html)
 * Bruce Schneier: [Why I hate password rules](https://www.schneier.com/blog/archives/2021/11/why-i-hate-password-rules.html)
 * [Unmasked: What 10 million passwords reveal about the people who choose them](https://wpengine.com/resources/passwords-unmasked-infographic/)
-* [Passworttipps](https://md.daten.reisen/waxrTnC0SzyO-JHcMXybsA?view#Allgemeine-Tips) finden sich auf dieser Seite weiter unten
 * [Passwörter: 64 Prozent der User verwenden Kennwörter mehrmals](https://www.heise.de/news/Passwoerter-64-Prozent-verwenden-Kennwoerter-mehrmals-7328871.html)
 * [AI password cracking](https://www.homesecurityheroes.com/ai-password-cracking/)
 * LfDI Berlin: [Anforderungen an ein sicheres Passwort](https://www.datenschutz-berlin.de/buergerinnen-und-buerger/selbstdatenschutz/it-sicherheit/passwortsicherheit/)
@@ -199,15 +195,13 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
     * [Grundlagen sicherer privater Kommunikation](https://www.heise.de/select/ct/2019/11/1558438564072031)
 * [Datenschutzfreundliche und sichere WhatsApp-Alternativen](https://www.kuketz-blog.de/datenschutzfreundliche-und-sichere-whatsapp-alternativen/)
 * [Messenger-Apps auf dem Smartphone – Digitaler Schutzschild Teil6](https://www.kuketz-blog.de/messenger-apps-auf-dem-smartphone-digitaler-schutzschild-teil6/)
-* [Linkliste zur Seminarreihe "Whatsapp-Alternativen"](https://md.daten.reisen/s/rJ-U2E1k_)
 * [Internes Dokument verrät, welche Daten das FBI von welchem Messenger erhält](https://www.derstandard.at/story/2000131585109/internes-dokument-verraet-welche-daten-das-fbi-von-welchem-messenger)
 * [FBI über Messenger: An welche Daten von WhatsApp & Co. US-Strafverfolger kommen ](https://www.heise.de/news/FBI-ueber-Messenger-An-welche-Daten-von-WhatsApp-Co-US-Strafverfolger-kommen-6282456.html)
 * [Goldbug](http://goldbug.sourceforge.net/)
 * heise+: [Messenger-IDs: Warum Messenger nach Ihrer Telefonnummer fragen](https://www.heise.de/hintergrund/Messenger-IDs-Warum-Messenger-nach-Ihrer-Telefonnummer-fragen-5066901.html?seite=all)
-* [SimpleX Chat](https://github.com/simplex-chat) Der Messenger wirbt mit Dezentralität sowie Vermeidung von Metadaten. Allerdings befindet sich das Projekt noch in einem sehr frühen Entwicklungsstadium und eignet sich nur für Technikaffine. Wer uns testweise kontaktieren möchte, kann dies unter [dieser Adresse:](https://simplex.chat/contact/#/?v=1&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2Fif9WJLaxuFXDC61EK6jzdw2vS8ufy_VK%23MCowBQYDK2VuAyEAGPjf6hkFpUronsxUOAlkJ-qjUy3muP58CmhjGwqhT1o%3D)![](https://minio.daten.reisen/codimd/uploads/upload_4706f404e633efe3cf8d0d15161490be.png)
+* [SimpleX Chat](https://github.com/simplex-chat) Der Messenger wirbt mit Dezentralität sowie Vermeidung von Metadaten. Allerdings befindet sich das Projekt noch in einem sehr frühen Entwicklungsstadium und eignet sich nur für Technikaffine. Wer uns testweise kontaktieren möchte, kann dies unter [dieser Adresse:](https://simplex.chat/contact/#/?v=1&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2Fif9WJLaxuFXDC61EK6jzdw2vS8ufy_VK%23MCowBQYDK2VuAyEAGPjf6hkFpUronsxUOAlkJ-qjUy3muP58CmhjGwqhT1o%3D))
 * [Link Previews: How a Simple Feature Can Have Privacy and Security Risks](https://www.mysk.blog/2020/10/25/link-previews/)
 
-![](https://minio.daten.reisen/codimd/uploads/52b69f8f9cd41ac616f507e00.png)
 * [Berty](https://berty.tech/) kommuniziert über ein P2P-Netz. Leider gelingt es nicht zuverlässig, sich miteinander zu verknüpfen. Das gegenseitige Scannen von QR-Codes scheint noch halbwegs zu funktionieren, aber der Einladungslink führt zu einer Fehlermeldung. Auch der Nachrichtenaustausch schlägt häufig fehl. In unseren Tests gingen drei Viertel der Testnachrichten verloren.
 * [Zulip](https://zulip.com/)
 * [Messenger- und Video-Dienste: Bundeskartellamt zu Datenschutz, Transparenz und Interoperabilität](https://www.bundeskartellamt.de/SharedDocs/Meldung/DE/Pressemitteilungen/2023/17_05_2023_SU_MD.html) [PDF](https://www.bundeskartellamt.de/SharedDocs/Publikation/DE/Sektoruntersuchungen/Sektoruntersuchung_MessengerVideoDienste.pdf?__blob=publicationFile&v=4)
@@ -231,12 +225,10 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
     * [BSI: Sicherer Einsatz von Jitsi Meet](https://www.allianz-fuer-cybersicherheit.de/SharedDocs/Downloads/Webs/ACS/DE/BSI-CS/BSI-CS_143.html) ([PDF](https://www.allianz-fuer-cybersicherheit.de/SharedDocs/Downloads/Webs/ACS/DE/BSI-CS/BSI-CS_143.pdf;jsessionid=DCE35917E34B411EF9D2AA345D26C2DA.internet472?__blob=publicationFile&v=4))
 * Big Blue Button ([Liste](https://pads.ccc.de/ep/pad/view/ro.e01-$L2cd/latest))
     * [Senfcall](https://www.senfcall.de/) (kommerzieller Anbieter)
-    * [Daten.reisen](https://bbb.daten.reisen)
     * [BigBlueButton Installationsanleitung (Version 2.5)](https://www.c-rieger.de/bigbluebutton-v-2-5-inkl-greenlight/)
 * [Alfaview](https://alfaview.com) (kommerzieller Anbieter)
 * [Mailbox.org](https://mailbox.org) (setzt auf Jitsi auf und kostet 3 € pro Monat)
 * [Sichere Videokonferenz](https://sichere-videokonferenz.de/) wirbt mit DSGVO-Konformität und Hosting in Deutschland
-* [Materialsammlung zu Videokonferenzsystemen](https://md.daten.reisen/s/ry3Wk_Jkd)
 
 ## Anonymes Surfen
 ### Tor
@@ -259,7 +251,6 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
 * [Darknetlive](https://darknetlive.com/)
   * [Darkweb Forums](https://darknetlive.com/forums/)
 * [Anleitung](https://wiki.ubuntuusers.de/Tor/Programme_zur_Nutzung_von_Tor_konfigurieren/), um Thunderbird über Tor und Privoxy laufen zu lassen
-    ![](https://minio.daten.reisen/codimd/uploads/52b69f8f9cd41ac616f507e0f.png)
   * Englischsprachige [Anleitung](https://linuxconfig.org/install-tor-proxy-on-ubuntu-20-04-linux) zur Installation von Tor unter Ubuntu und der Möglichkeit, unter anderem die Shell über Tor kommunizieren zu lassen.
   * [Warum das Darknet nicht nur für Kriminelle ist ](https://www.heise.de/news/Warum-das-Darknet-nicht-nur-fuer-Kriminelle-ist-7237406.html) Das Darknet hat einen miserablen Ruf, zu Unrecht. Schließlich kann man im Darknet auch viele sinnvolle Dinge anstellen. c't 3003 gibt Tipps.
         1. Install-Datei überprüfen
@@ -339,7 +330,7 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
  
 ## Kollaboratives Arbeiten
 * [Cryptpad](https://cryptpad.fr/)
-* [HackMD](https://hackmd.io/) ([Daten.reisen](https://md.daten.reisen))
+* [HackMD](https://hackmd.io/) 
 * [Obsidian](https://obsidian.md/)
 * [Taskcards](https://www.taskcards.de/) (Padlet-Alternative)
 * [Gobby](https://gobby.github.io/)
@@ -427,7 +418,7 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
 * Heise: [FAQ: Grundlagenwissen zu Cyberangriffen und wie sich Risiken verringern lassen](https://www.heise.de/ratgeber/Cyberangriffe-Welche-es-gibt-und-wie-sich-Risiken-verringern-lassen-7523370.html) Cyberangriffe können jeden betreffen, doch mit ein paar einfachen Maßnahmen können Sie Ihr persönliches Risiko zumindest minimieren
     
 ## Schnitzeljagd
-Unter https://cloud.datenburg.org/s/csXbXDseep7Qo6N findest Du die Keepass-Datenbank Netzwaerts.kdbx. Um sie öffnen zu können, brauchst Du ein Passwort. Suche hierzu im Netz nach einem Zitat von Alan Moore, das mit “People shouldn't be afraid of their government." beginnt. Der _zweite_ Satz (mit Groß- und Kleinschreibung, Freizeichen und Punkt, aber ohne Anführungsstriche) ist das Passwort, mit dem Du die Keepass-Datei geöffnet bekommst. Du findest dort einen einzigen Eintrag. Dieser Eintrag hat ein Kommentarfeld mit weiteren Anweisungen. Viel Erfolg!![](https://minio.daten.reisen/codimd/uploads/upload_f58b085898a603af42e1396172d5d359.png)
+Unter https://cloud.datenburg.org/s/csXbXDseep7Qo6N findest Du die Keepass-Datenbank Netzwaerts.kdbx. Um sie öffnen zu können, brauchst Du ein Passwort. Suche hierzu im Netz nach einem Zitat von Alan Moore, das mit “People shouldn't be afraid of their government." beginnt. Der _zweite_ Satz (mit Groß- und Kleinschreibung, Freizeichen und Punkt, aber ohne Anführungsstriche) ist das Passwort, mit dem Du die Keepass-Datei geöffnet bekommst. Du findest dort einen einzigen Eintrag. Dieser Eintrag hat ein Kommentarfeld mit weiteren Anweisungen. Viel Erfolg!)
 
 
 ## Cloudanbieter
