@@ -168,6 +168,7 @@ Die hier beschriebenen Werkzeuge arbeiten vor allem auf mechanischen Festplatten
     * [veröffentlichter Server-Quellcode](https://github.com/signalapp/Signal-Server)
     * [Signal-cli](https://github.com/AsamK/signal-cli/releases/tag/v0.8.4.1) Signal auf Kommandozeile
     * [Signal FOSS](https://www.twinhelix.com/apps/signal-foss/) Signal ohne Google-Bibliotheken
+    * Spektrum.de [Mythos Signal: Licht und Schatten beim nicht kommerziellen Messenger](https://www.spektrum.de/news/mythos-signal-licht-und-schatten-beim-nicht-kommerziellen-messenger/2190072) Lange galt Signal als Wunderwaffe gegen Überwachung. Teile der Tech-Community und der digitalen Zivilgesellschaft kritisieren die App jedoch wegen überraschender Datenflüsse, organisatorischer Intransparenz und undemokratischer Machtverhältnisse.
 * [Threema](https://threema.ch/)
 * [Wire](https://wire.com/)
 * [Element](https://element.io/) ([Matrix](https://matrix.org/docs/projects/client/element))
