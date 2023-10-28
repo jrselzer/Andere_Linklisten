@@ -35,6 +35,7 @@ Materialien zur digitalen Selbstverteidigung
 * Firefox Relay ermöglicht das Erstellen von Wegwerf-Mailadressen.
 * [Certificate Patrol](http://patrol.psyced.org/) CertPatrol implements ''pinning'' for Firefox/Mozilla/SeaMonkey roughly as now recommended in the User Interface Guidelines of the World Wide Web Consortium (W3C). Certificate pinning may be considered annoying, but actually it is frequently reminding you that you should be more careful and paranoid.
     * für [Firefox](https://addons.thunderbird.net/en-us/firefox/addon/certificate-patrol/)
+* [Ad nauseam - clicking ads so you don't have to](https://adnauseam.io/) As online advertising becomes ever more ubiquitous and unsanctioned, AdNauseam works to complete the cycle by automating ad clicks universally and blindly on behalf of its users
     
 ## Alternative Browser
 * [Contra Chrome](https://contrachrome.com/comic/page01/) erläutert in Comicform die Datenschutzprobleme in Googles Browser
