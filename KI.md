@@ -13,3 +13,4 @@
   die Bundeszentrale für politische Bildung aktualisiert diesbezüglich ständig. 
 * Alan Turing: 
   * https://redirect.cs.umbc.edu/courses/471/papers/turing.pdf (das Original) 
+* [Create Stories for Kids using AI](https://storybee.app/) Generate kids' Stories anytime with our AI-powered Story platform.
