@@ -15,6 +15,7 @@
 - Texte zur Theorie des Internets, Reclam
 - Eva Wolfangel: [Ein falscher Klick](https://www.penguin.de/Paperback/Ein-falscher-Klick/Eva-Wolfangel/Penguin/e602114.rhd)
 - Barton Gellman: [Der dunkle Spiegel – Edward Snowden und die globale Überwachungsindustrie](https://www.fischerverlage.de/buch/barton-gellman-der-dunkle-spiegel-edward-snowden-und-die-globale-ueberwachungsindustrie-9783103970463)
+- David Graeber: Bullshit Jobs
 
 ## Romane
 - George Orwell: 1984
