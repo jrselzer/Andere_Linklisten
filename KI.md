@@ -1,6 +1,7 @@
 # Künstliche Intelligenz
 * [Quillbot](https://quillbot.com/) QuillBot's AI-powered paraphrasing tool will enhance your writing
-* [GPT minus 1](https://www.gptminus1.com/) Fool GPT by randomly replacing words with synonyms in your text.
+* [GPT minus 1](https://www.gptminus1.com/) Fool GPT by randomly replacing words with synonyms in your text. Diese Seite wird von einigen Scannern als Malware gelistet. Bitte mit Vorsicht nutzen
+  * [GPT minus 1](https://ai-search.io/tool/gptminus1)
 * [Trickmenot.ai](https://trickmenot.ai/) tricks to avoid AI detection
 * [Originality.ai](https://originality.ai/) The most accurate Chat GPT, Bard, Paraphrasing, and GPT-4 AI checker built specifically for content marketers and SEOs.
 * [Prozess zur rechtskonformen Einführung / Einsatz von KI im Unternehmen](https://fbgw.h-da.de/forschung/chatgpt-dall-e-co/vorgehensmodell-ki-einfuehrung) Der KI-Einsatz sollte sorgfältig geplant sein, wichtig ist vor allem Transparenz sowohl hinsichtlich der Einbeziehung der KI, als auch der Qualitätssicherung der Trainingsdaten und Ergebnisse sowie der Einbindung von API-Schnittstellen. Ein verstärkter Einsatz in den Feldern ECM / DMS, ERP und E-Mail-Management ist zu beobachten, eine Ausweitung auf andere Felder – weit über Textgenerierungsfunktionen hinaus - steht in vielen Unternehmen bevor (siehe https://www.bitkom.org/Presse/Presseinformation/ChatGPT-Jedes-sechste-Unternehmen-plant-KI-Einsatz-Textgenerierung).
