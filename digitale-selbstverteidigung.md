@@ -171,6 +171,7 @@ Die hier beschriebenen Werkzeuge arbeiten vor allem auf mechanischen Festplatten
     * [Signal-cli](https://github.com/AsamK/signal-cli/releases/tag/v0.8.4.1) Signal auf Kommandozeile
     * [Signal FOSS](https://www.twinhelix.com/apps/signal-foss/) Signal ohne Google-Bibliotheken
     * Spektrum.de [Mythos Signal: Licht und Schatten beim nicht kommerziellen Messenger](https://www.spektrum.de/news/mythos-signal-licht-und-schatten-beim-nicht-kommerziellen-messenger/2190072) Lange galt Signal als Wunderwaffe gegen Überwachung. Teile der Tech-Community und der digitalen Zivilgesellschaft kritisieren die App jedoch wegen überraschender Datenflüsse, organisatorischer Intransparenz und undemokratischer Machtverhältnisse.
+    * [Why not Signal](https://dessalines.github.io/essays/why_not_signal.html) Während dieser Text sehr ausführlich die Nachteile Signals beschreibt, geht er leider händewedelnd über die Nachteile der aufgeführten Alternativen hinweg, beispielsweise den Umstand, dass die bei Matrix anfallenden Metadaten nicht gelöscht werden können oder dass Briar nicht nur kräftig die Akkulaufzeit verringert, sondern auch ständig online sein muss, um eventuell eintreffende Nachrichten zu empfangen, die anderfalls stillschweigend verloren gehen. Die lobenswerte Sorgfalt, die bei der Aufzählung der Signal-Mängel angewandt wurde, hätte der Analyse der Alternativen gut getan. 
 * [Threema](https://threema.ch/)
 * [Wire](https://wire.com/)
 * [Element](https://element.io/) ([Matrix](https://matrix.org/docs/projects/client/element))
