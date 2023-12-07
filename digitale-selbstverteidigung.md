@@ -126,7 +126,7 @@ Die hier beschriebenen Werkzeuge arbeiten vor allem auf mechanischen Festplatten
     * [KeePassXC: Auto-Type und Browser-Add-on im Alltag nutzen – Passwörter Teil1](https://www.kuketz-blog.de/keepassxc-auto-type-und-browser-add-on-im-alltag-nutzen-passwoerter-teil1/)
     * [KeePassDX: Magikeyboard und AutoFill im Android-Alltag nutzen – Passwörter Teil2](https://www.kuketz-blog.de/keepassdx-magikeyboard-und-autofill-im-android-alltag-nutzen-passwoerter-teil2/)
     * [Syncthing: KeePass-Datenbank zwischen PC und Android synchronisieren – Passwörter Teil3](https://www.kuketz-blog.de/syncthing-keepass-datenbank-zwischen-pc-und-android-synchronisieren-passwoerter-teil3/)
-    * [Bitwarden](https://bitwarden.com/)
+    * [Bitwarden](https://bitwarden.com/) verwaltet Passwörter zentral auf einem Server und gleicht die lokalen Kopien damit ab. Bei Bedarf kann auch ein eigener Server zum Speichern der Passwortdatenbank genommen werden. Bitwarden beherrscht inzwischen auch Passkeys.
         * Unter Ubuntu ließ sich das Appimage nicht starten und stürzte mit einem Coredump ab. Abhilfe schaffte die Installation zweier Pakete mittels ```sudo apt install qt6-wayland``` sowie ```sudo apt install xcb```.
     * [Passwortmanager-Apps im Privacy-Check](https://www.heise.de/ratgeber/Passwortmanager-Apps-im-Privacy-Check-5050304.html)
 * Bin ich von einem Datenleck betroffen?
