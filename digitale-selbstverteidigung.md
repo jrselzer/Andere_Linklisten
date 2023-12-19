@@ -147,6 +147,7 @@ Die hier beschriebenen Werkzeuge arbeiten vor allem auf mechanischen Festplatten
 * [The to 500 worst passwords of all time](http://www.whatsmypass.com/the-top-500-worst-passwords-of-all-time)
 * [Real-World Passwords](https://www.schneier.com/blog/archives/2006/12/realworld_passw.html)
 * [123456 – Deutschlands häufigste Passwörter im Jahr 2021](https://www.heise.de/news/123456-Deutschlands-haeufigste-Passwoerter-im-Jahr-2021-6297181.html)
+* t3n: [Das sind die beliebtesten unsicheren Passwörter 2023: Platz 1 werdet ihr leicht erraten](https://t3n.de/news/unsicherse-passwoerter-2023-1597613/) Herrlich einfach machen es sich immer noch viele Nutzerinnen und Nutzer bei der Wahl ihrer Passwörter – und müssen im Nachhinein feststellen: Das war wahnsinnig leichtsinnig.
 * [Cracking passwords, or why use password_hash()](https://www.michalspacek.com/talks/cracking-passwords-or-why-use-password_hash-phpce)
 * [1password alternatives](https://www.teampassword.com/blog/1password-alternatives)
 * [Passwortlisten](https://wiki.skullsecurity.org/index.php/Passwords)
