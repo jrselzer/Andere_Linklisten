@@ -272,6 +272,8 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
    1. Compromised Entrance Guards
    1. Opening Files Outside Tor
    1. Ultrasonic Sounds
+ * [Operation Liberty Lane (LE Running Gaurd and middle nodes to deanonymize HS users) ](https://www.reddit.com/r/TOR/comments/19benkx/operation_liberty_lane_le_running_gaurd_and/) Operation Liberty Lane (FBI/DHS joint operation) is a multi-national law enforcement operation that involves the United States, Brazil, Germany, and the United Kingdom, and targets users of illegal hidden services. It appears this once theoretical attack has been operationalized and has unmasked thousands of users. The NCA and FBI have jointly developed a software program called "Good Listener" that involves LE spinning up as many guard and middle nodes as possible, and then using a timing attack to correlate the IP at the malicious gaurd to the timing at the illegal HS. It appears that this is only possible once the HS has been identified and the traffic to it can be interecepted and fed into the program.There was a few posts previously about cases where users using TAILS and WHONIX were caught so a NIT was ruled out, we now have our answer. This next part is only a guess, but it's likely KAX17 was run by the German government in support of this operation. 
+ 
 ### Andere Netze
 * [ZeroNet](https://zeronet.io) ein zensurresistentes P2P-Netz, das erst durch Tor anonym wird
 * Wie gut ist mein Browser wiedererkennbar?
