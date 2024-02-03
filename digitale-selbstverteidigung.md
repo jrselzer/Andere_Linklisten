@@ -165,6 +165,7 @@ Die hier beschriebenen Werkzeuge arbeiten vor allem auf mechanischen Festplatten
 * [AI password cracking](https://www.homesecurityheroes.com/ai-password-cracking/)
 * LfDI Berlin: [Anforderungen an ein sicheres Passwort](https://www.datenschutz-berlin.de/buergerinnen-und-buerger/selbstdatenschutz/it-sicherheit/passwortsicherheit/)
   * Ratgeber [Umgang mit Passwörtern](https://www.datenschutz-berlin.de/fileadmin/user_upload/pdf/broschueren/2020-BlnBDI-Ratgeber_Passwoerter.pdf) (PDF)
+* [Das Authentifzierungsspiel](https://auth-game.fly.dev/) In diesem Spiel wollen wir euch zeigen, wie einfach es ist, einen Passwortmanager zu benutzen und auch, vor welchen Bedrohungen euch dieser schützen kann. Hierfür benötigt ihr am besten ein fertig eingerichteten Passwortmanager oder ein Notizbuch. Beides kann genutzt werden, um eure Passwörter an einem wiederfindbaren Ort zu sammeln. 
  
 ## Alternative Messenger
 * [Signal](https://signal.org/)
