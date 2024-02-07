@@ -24,3 +24,5 @@
 * [ChatGPT Is Hilariously Bad at Generating Random Numbers](https://futurism.com/the-byte/chatgpt-random-numbers) If you need random numbers generated, steer clear of ChatGPT. Unless you want responses to be less random and more poisoned by human preferences, that is.
 * ["Gesunder Menschenverstand" für Maschinen: Metas Weg zur allgemeinen KI](https://heise.de/-7153533) Wie Meta die lang erhoffte "Artificial General Intelligence" will, hatte der Leiter der Forschungsabteilung Yann LeCun im Sommer 2022 skizziert.
 * [Künstliche Allgemeine Intelligenz: Wissen, was wahr ist](https://heise.de/-5058948) Könnte der Traum von einer denkenden, menschenähnlichen Maschine wirklich wahr werden? Die Frage wird derzeit heftiger denn je diskutiert.
+* Kristian Koehntopp: [Wie ChatGPT funktioniert](https://blog.koehntopp.info/2024/02/06/wie-chatgpt-funktioniert.html)
+* Stephen Wolfram: [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
