@@ -113,11 +113,17 @@ Die hier beschriebenen Werkzeuge arbeiten vor allem auf mechanischen Festplatten
     * [EaseUS Data Recovery Wizard](https://www.easeus-software.com/de/datenrettung-software/datenrettung-assistent.html) Bei [heise.de](https://www.heise.de/download/specials/Software-zur-Datenrettung-6008456) gibt es einen Gutscheincode
     * [Disk Drill](https://www.cleverfiles.com/de/data-recovery-software.html)
     * [R-Studio](https://www.heise.de/download/product/r-studio-16902)
-    
+
+## Datenschutzeinstellungen bei Windows verbessern
+Es gibt mehrere Gratis-Programme, die versprechen, in Windows datenschutzrelevante Einstellungen zu verbessern. Die Erwartungen an die Leistungsfähigkeit dieser Programme sollten nicht zu hoch angesetzt werden, meint ein [Test in der c't](https://www.heise.de/select/ct/2017/1/1483282098626844) hinter einer Bezahlschranke. Getestet wurde
+* [O & O Shutup](https://www.oo-software.com/de/shutup10)
+* [Donotspy](https://pxc-coding.com/donotspy11/)
+* [W10privacy](https://www.w10privacy.de/)
+* [Windows 10 Privaxy.exe}(https://wiki.piratenpartei.de/WIN)
 ## Passwortverwaltung
 * [Keepass](https://keepass.info/)
     * [Keepass-Diff](https://github.com/Narigo/keepass-diff) A CLI-tool to diff Keepass (.kdbx) files. Useful, if syncing with Dropbox or NextCloud and getting multiple files due to conflicts. 
-    * [KeepassXC](https://keepassxc.org/) ist eine optisch etwas modernere Version
+    * [KeepassXC](https://keepassxc.org/) ist eine optisch etwas modernere Version, das auch über Browserplugins eingebunden werden kann
       * Falls bei der Installation die Meldung “MSVCP140.dll fehlt” oder “VCRUNTIME140.dll fehlt” auftaucht:
         [Lösung: MSVCP140.dll oder VCRUNTIME140.dll fehlt](https://www.giga.de/downloads/windows-10/tipps/msvcp140.dll-fehlt-so-behebt-ihr-den-fehler-auch-vcruntime140.dll/) aufrufen und https://aka.ms/vs/16/release/vc_redist.x64.exe (für 64-Bit-Windows) wählen
       * Unter Ubuntu tauchten Fehler bei Autotype auf. Auf einem Testsystem half die Installation von ```ydotool``` mittels ```sudo apt install ydotool```.
@@ -126,7 +132,7 @@ Die hier beschriebenen Werkzeuge arbeiten vor allem auf mechanischen Festplatten
     * [KeePassXC: Auto-Type und Browser-Add-on im Alltag nutzen – Passwörter Teil1](https://www.kuketz-blog.de/keepassxc-auto-type-und-browser-add-on-im-alltag-nutzen-passwoerter-teil1/)
     * [KeePassDX: Magikeyboard und AutoFill im Android-Alltag nutzen – Passwörter Teil2](https://www.kuketz-blog.de/keepassdx-magikeyboard-und-autofill-im-android-alltag-nutzen-passwoerter-teil2/)
     * [Syncthing: KeePass-Datenbank zwischen PC und Android synchronisieren – Passwörter Teil3](https://www.kuketz-blog.de/syncthing-keepass-datenbank-zwischen-pc-und-android-synchronisieren-passwoerter-teil3/)
-    * [Bitwarden](https://bitwarden.com/) verwaltet Passwörter zentral auf einem Server und gleicht die lokalen Kopien damit ab. Bei Bedarf kann auch ein eigener Server zum Speichern der Passwortdatenbank genommen werden. Bitwarden beherrscht inzwischen auch Passkeys.
+    * [Bitwarden](https://bitwarden.com/) verwaltet Passwörter zentral auf einem Server und gleicht die lokalen Kopien damit ab. Bei Bedarf kann auch ein eigener Server zum Speichern der Passwortdatenbank genommen werden. Zur bequemen Anbindung gibt es eine ganze Reihe Browser-Plugins. Bitwarden beherrscht inzwischen auch Passkeys.
         * Unter Ubuntu ließ sich das Appimage nicht starten und stürzte mit einem Coredump ab. Abhilfe schaffte die Installation zweier Pakete mittels ```sudo apt install qt6-wayland``` sowie ```sudo apt install xcb```.
     * [Passwortmanager-Apps im Privacy-Check](https://www.heise.de/ratgeber/Passwortmanager-Apps-im-Privacy-Check-5050304.html)
 * Bin ich von einem Datenleck betroffen?
