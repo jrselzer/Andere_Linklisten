@@ -339,9 +339,10 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
 
 ## Backups
 * [Duplicati](https://www.duplicati.com/) (Artikel in der [c't](https://www.heise.de/select/ct/2019/24/1573928793884407))
-* [restic](https://restic.net/)
+* [restic](https://restic.net/) kommandozeilenbasiert, erfordert Einarbeitung
 * [Bacula](https://www.bacula.org/)
 * [bareos](https://www.bareos.com/)
+* [Syncthing](https://syncthing.net/) Synchronisiert mehrere Rechner untereinander im Peer-to-Peer-Verfahren ohne zentralen Server. Braucht einen gewissen Einarbeitungsaufwand
  
 ## Kollaboratives Arbeiten
 * [Cryptpad](https://cryptpad.fr/)
