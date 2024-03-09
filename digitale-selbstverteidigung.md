@@ -367,7 +367,7 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
 * [Netguard](https://apps.apple.com/de/app/netguard/id446320156)
 * [Newpipe](https://newpipe.net/) ist ein alternativer Youtube-Client mit einigen Erweiterungsmöglichkeiten wie Werbeblockern
 
-## Schadsoftareabwehr
+## Schadsoftwareabwehr
 * [desinfec't](https://www.heise.de/download/product/desinfect-71642)
 * [virustotal](https://www.virustotal.com/gui/home/upload)
 * [ClamAV](https://www.clamav.net/) Open Source, im Vergleich zu kommerziellen Produkten langsame Versorgung mit Signaturenupdates und schlechte Erkennungsraten. Wird häufig auf Fileservern eingesetzt, um dort abgelege Windows-Programme auf Schadcode zu untersuchen
@@ -437,6 +437,7 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
 * [Datenanfragen](https://www.datenanfragen.de/) Unternehmen müssen Dir Auskunft über Deine Daten geben und sie wenn nötig berichtigen oder sogar löschen. Als gemeinnütziger Verein helfen wir Dir, diese Rechte zu nutzen – natürlich kostenlos und ohne Registrierung.
 * Heise: [FAQ: Grundlagenwissen zu Cyberangriffen und wie sich Risiken verringern lassen](https://www.heise.de/ratgeber/Cyberangriffe-Welche-es-gibt-und-wie-sich-Risiken-verringern-lassen-7523370.html) Cyberangriffe können jeden betreffen, doch mit ein paar einfachen Maßnahmen können Sie Ihr persönliches Risiko zumindest minimieren
 * Verbraucherzentrale Niedersachsen: [Fakeshop-Finder: Prüfen Sie, ob ein Online-Shop seriös ist](https://www.verbraucherzentrale-niedersachsen.de/fakeshop-finder) Mit dem Fakeshop-Finder können Sie einen kostenlosen URL-Check durchführen, um vor der Bestellung zu erfahren, ob ein unbekannter Online-Shop vielleicht ein Fakeshop sein könnte. Außerdem können Sie herausfinden, wie der Shop von anderen Verbraucherinnen und Verbrauchern bewertet wird.
+* [All your computers are beschlagnahmt](https://archive.org/details/de_beschlagnahmt-1.1.0/mode/2up) gibt nicht nur für den Fall einer Haudurchsuchung mit Hardwarebeschlagnahme einige Tipps zum Absichern der eigenen Systeme. Der Text ist nicht ganz aktuell und sollte daher nur als Ausgangspunkt weiterer Recherchen dienen.
     
 ## Schnitzeljagd
 Unter https://cloud.datenburg.org/s/csXbXDseep7Qo6N findest Du die Keepass-Datenbank Netzwaerts.kdbx. Um sie öffnen zu können, brauchst Du ein Passwort. Suche hierzu im Netz nach einem Zitat von Alan Moore, das mit “People shouldn't be afraid of their government." beginnt. Der _zweite_ Satz (mit Groß- und Kleinschreibung, Freizeichen und Punkt, aber ohne Anführungsstriche) ist das Passwort, mit dem Du die Keepass-Datei geöffnet bekommst. Du findest dort einen einzigen Eintrag. Dieser Eintrag hat ein Kommentarfeld mit weiteren Anweisungen. Viel Erfolg!)
