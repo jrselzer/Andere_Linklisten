@@ -26,3 +26,4 @@
 * [Künstliche Allgemeine Intelligenz: Wissen, was wahr ist](https://heise.de/-5058948) Könnte der Traum von einer denkenden, menschenähnlichen Maschine wirklich wahr werden? Die Frage wird derzeit heftiger denn je diskutiert.
 * Kristian Koehntopp: [Wie ChatGPT funktioniert](https://blog.koehntopp.info/2024/02/06/wie-chatgpt-funktioniert.html)
 * Stephen Wolfram: [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+* Input Consulting GmbH: [KI-Einsatz im Betrieb](https://www.input-consulting.de/publikationen.html?file=files/inpcon-DATA/download/2023_KI-Einsatz%20im%20Betrieb_FAQ%20Wedde.pdf) (PDF)
