@@ -120,6 +120,7 @@ Es gibt mehrere Gratis-Programme, die versprechen, in Windows datenschutzrelevan
 * [Donotspy](https://pxc-coding.com/donotspy11/)
 * [W10privacy](https://www.w10privacy.de/)
 * [Windows 10 Privaxy.exe}(https://wiki.piratenpartei.de/WIN)
+
 ## Passwortverwaltung
 * [Keepass](https://keepass.info/)
     * [Keepass-Diff](https://github.com/Narigo/keepass-diff) A CLI-tool to diff Keepass (.kdbx) files. Useful, if syncing with Dropbox or NextCloud and getting multiple files due to conflicts. 
@@ -231,6 +232,7 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
 * [Yandex](https://yandex.com/) - Bildersuchmaschine
 * [etools](https://www.etools.ch/) - Metasuchmaschine
 * [Ecosia](https://www.ecosia.org/)
+* [Pimeyes](https://pimeyes.com/) - Face Search Engine Reverse Image Search. Ob diese Suchmaschine datenschutzfreundlicher als die Konkurrenz sind, wird an dieser Stelle nicht bewertet. Es geht hier nur um die Möglichkeit der Rückwärtssuche nach Gesichtern.
 * Einschätzungen von [digitalcourage](https://digitalcourage.de/digitale-selbstverteidigung/es-geht-auch-ohne-google-alternative-suchmaschinen)
 
 ## Videokonferenzsysteme
@@ -363,10 +365,14 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
     * [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/) ermöglicht anonymes Installieren von Apps aus dem Google-Playstore und gibt genauere Auskunft über möglicherweise unerwünschte Eigenschaften.
 * [Blokada](https://blokada.org/)
 * [NetGuard Firewall – Android unter Kontrolle Teil 4](https://www.kuketz-blog.de/netguard-firewall-android-unter-kontrolle-teil4/)
+
 ### iOS
 * [Netguard](https://apps.apple.com/de/app/netguard/id446320156)
 * [Newpipe](https://newpipe.net/) ist ein alternativer Youtube-Client mit einigen Erweiterungsmöglichkeiten wie Werbeblockern
 
+## Dateiversand
+* [Wormhole](https://wormhole.app) Ende-zu-Ende-verschlüsselter Dateiversand
+  
 ## Schadsoftwareabwehr
 * [desinfec't](https://www.heise.de/download/product/desinfect-71642)
 * [virustotal](https://www.virustotal.com/gui/home/upload)
