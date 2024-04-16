@@ -7,11 +7,16 @@ Materialien zur digitalen Selbstverteidigung
 * Mailkontakt: kontakt@crypto.koeln ([PGP](https://pgp.mit.edu/pks/lookup?op=get&search=0xE51CD26133E2CC11) Fingerprint 8CB5 66A7 C55D 3D25 037A  533D E51C D261 33E2 CC11)
 * Fediverse: @cryptoparty@bonn.social
 ## Browser-Plugins
-* uBlock Origin
-  * [Available Filter Templates](https://letsblock.it/filters) einige hilfreiche Filter
-  * [The Ultimate Superuser’s Guide to uBlock Origin](https://www.maketecheasier.com/ultimate-ublock-origin-superusers-guide/)
-* [Privacy Badger](https://privacybadger.org/)
-* Disconnect
+* Adblocker
+  * [Werbeblocker im Vergleich: Zwölf Tools gegen störende Banner ](https://www.heise.de/ratgeber/Werbeblocker-im-Vergleich-Zwoelf-Tools-gegen-stoerende-Banner-9626680.html?seite=all) Im Kampf gegen aufdringliche Onlinewerbung haben die Browserhersteller aufgerüstet. Wir zeigen, wie gut Vivaldi, Brave & Co. ihre Nutzer vor Werbemüll schützen. 
+  * uBlock Origin
+    * [Available Filter Templates](https://letsblock.it/filters) einige hilfreiche Filter
+    * [The Ultimate Superuser’s Guide to uBlock Origin](https://www.maketecheasier.com/ultimate-ublock-origin-superusers-guide/)
+  * **uBlock Origin lite** wird mit dem Umstieg auf Manifest V3 ab Juni 2024 technisch bedingt die Nachfolge von uBlock Origin antreten
+    * [für Chrome](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh?pli=1)
+    * [für Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin-lite/)
+  * [Privacy Badger](https://privacybadger.org/)
+  * Disconnect
 * [Noscript](https://noscript.net/)
 * Clear URLs [Firefox](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) [Chrome](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) Entfernt Tracking-Felder aus URLs. Beispiele: 
     * Die Adresse <code>https://www.heise.de/news/Digitalstrategie-Oeffentliche-Hand-will-mit-Open-Source-digital-souveraen-werden-7164622.html?wt_mc=sm.red.ho.botti.messenger.link.link</code> mit dem Parameter <code>?wt_mc=sm.red.ho.botti.messenger.link.link</code> enthält den Hinweis, dass dieser Link aus dem Telegram-Channel des Heise-Verlags heraus aufgerufen wurde. Der Parameter ist für den Aufruf des Artikels nicht nötig und dient nur der Analyse, woher ein Seitenzugriff stammt.
