@@ -53,6 +53,7 @@ Materialien zur digitalen Selbstverteidigung
 * Fennec
 * Bromite
 * [Librewolf](https://librewolf.net/)
+* [Mullvad](https://mullvad.net/en/browser)
 
 ## Browser absichern
 [Mehr Sicherheit und Anonymität in Firefox über »about:config« erreichen](https://gnulinux.ch/mehr-sicherheit-und-anonymitaet-in-firefox-%C3%BCber-about-config-erreichen)
