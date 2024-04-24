@@ -495,14 +495,6 @@ Unter https://cloud.datenburg.org/s/csXbXDseep7Qo6N findest Du die Keepass-Daten
 * [Test Adblock](https://d3ward.github.io/toolz/adblock.html) prüft, ob die wichtigsten Werbetreibenden und Tracker browserseitig blockiert werden.
 * Exodus Privacy: [Welche App enthält wie viele Tracker?](https://reports.exodus-privacy.eu.org/en/reports/)
 * [Burp suite](http://portswigger.net/burp/proxy.html) Auftrennen von SSL-Verbindungen, um den Datenverkehr von Apps zu untersuchen
-* [Kali Linux](https://www.kali.org/) is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering.
-    * [Learn About the Best Features of Kali Linux](https://www.debugpoint.com/kali-linux-features/) Learn what the key best features and tools about Kali Linux and why it is so popular in the information security industry.
-    * heise+: [Hacking-Tools: Hacking-Stick mit Kali Linux einrichten](https://www.heise.de/ratgeber/Hacking-Tools-Hacking-Stick-mit-Kali-Linux-einrichten-6223844.html)
-    * [Kali Linux Penetration Testing Tutorial: Step-By-Step Process](https://www.esecurityplanet.com/networks/kali-linux-tutorial/)
-* [IT-Sicherheit: Reverse Engineering von Android-Apps](https://www.heise.de/ratgeber/IT-Sicherheit-Reverse-Engineering-von-Android-Apps-4994208.html)
-* [Reverse Engineering von Android-Apps](https://www.heise.de/select/ct/2021/1/2031818243766930133)
-* [Android-Traffic unter der Lupe](https://www.heise.de/select/ct/2017/13/1497715250712891)
-* [Raspberry Pi als Hacking-Werkzeug für SSL- und Man-in-the-Middle-Angriffe](https://www.heise.de/select/ct/2016/10/1463049049556018)
 * [mitmproxy](https://mitmproxy.org/)
 * [OWASP ZAP](https://www.zaproxy.org/)
 * [Cookie Consent Speed Run](https://cookieconsentspeed.run/) Wer schafft es am schnellsten, ein Cookie-Banner so zu beantworten, dass keine Cookies gespeichert werden? Das Spiel wäre lustiger, wenn es nicht aus lauter Tricksereien bestünde, die von realen Webseiten praktiziert werden.
@@ -511,23 +503,37 @@ Unter https://cloud.datenburg.org/s/csXbXDseep7Qo6N findest Du die Keepass-Daten
 * [Verschlüsselter Dateiversand mit ablaufenden Links](https://send.vis.ee/)
 * [Temporäre Telefonnummer für Verifikations-SMS-Empfang](https://sms24.me/)
 * [Tracktor.it](https://www.tracktor.it/) Hilfe beim Erstellen von Beschwerden gegen unzulässiges Tracking
-* Zusamenstellungen alternativer Dienste und Programme
-    * [Prism Break](https://prism-break.org/en/) 
-    * [Privacytools](https://www.privacytools.io)
-* Videostreams in der Konsole und ohne Werbung ansehen
-    * [Mein YouTube Terminal Workflow](https://paper.wf/kubikpixel/mein-youtube-terminal-workflow)
-    * [Mediatheken & TV im Terminal](https://paper.wf/kubikpixel/mediatheken-und-tv-im-terminal)
 * [Welche meiner Aktivitäten hat Google von mir gespeichert?](https://myactivity.google.com/myactivity)
 * [Sherloq](https://github.com/GuidoBartoli/sherloq) Forensische Bildanalyse, unter anderem zum Erkennen von Manipulationen
-* Geografischen Ort zu einer IP-Adresse bestimmen
-    * [IPLocation](https://www.iplocation.net/)
-    * [KeyCDN](https://tools.keycdn.com/geo)
-* [Empfehlungsecke: OSINT-Tools](https://www.kuketz-blog.de/empfehlungsecke-osint-tools/)
 * [BleachBit](https://www.bleachbit.org/) When your computer is getting full, BleachBit quickly frees disk space. When your information is only your business, BleachBit guards your privacy. With BleachBit you can free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and discard junk you didn't know was there. Designed for Linux and Windows systems, it wipes clean thousands of applications including Firefox, Adobe Flash, Google Chrome, Opera, and more. Beyond simply deleting files, BleachBit includes advanced features such as shredding files to prevent recovery, wiping free disk space to hide traces of files deleted by other applications, and vacuuming Firefox to make it faster. Better than free, BleachBit is open source.
 * [Shennina - Automating Host Exploitation with AI](https://github.com/mazen160/shennina) Shennina is an automated host exploitation framework. The mission of the project is to fully automate the scanning, vulnerability scanning/analysis, and exploitation using Artificial Intelligence. Shennina is integrated with Metasploit and Nmap for performing the attacks, as well as being integrated with an in-house Command-and-Control Server for exfiltrating data from compromised machines automatically.
 * [Portmaster](https://safing.io/) is a free and open-source application firewall that does the heavy lifting for you. Restore privacy and take back control over all your computer's network activity.
+### OSINT
+* [Empfehlungsecke: OSINT-Tools](https://www.kuketz-blog.de/empfehlungsecke-osint-tools/)
 * [Awesome OSINT](https://github.com/jivoi/awesome-osint?tab=readme-ov-file) A curated list of amazingly awesome open source intelligence tools and resources. Open-source intelligence (OSINT) is intelligence collected from publicly available sources. In the intelligence community (IC), the term "open" refers to overt, publicly available sources (as opposed to covert or clandestine sources)
-
+### Videostreams in der Konsole und ohne Werbung ansehen
+* [Mein YouTube Terminal Workflow](https://paper.wf/kubikpixel/mein-youtube-terminal-workflow)
+* [Mediatheken & TV im Terminal](https://paper.wf/kubikpixel/mediatheken-und-tv-im-terminal)
+### Geografischen Ort zu einer IP-Adresse bestimme
+* [IPLocation](https://www.iplocation.net/)
+* [KeyCDN](https://tools.keycdn.com/geo)
+### Alternative Dienste und Programme
+* [Prism Break](https://prism-break.org/en/) 
+* [Privacytools](https://www.privacytools.io)
+### Raspberry Pi
+* [Raspberry Pi als Hacking-Werkzeug für SSL- und Man-in-the-Middle-Angriffe](https://www.heise.de/select/ct/2016/10/1463049049556018)
+* [Eblocker](https://eblocker.org/) Die weltweit erste Plug & Play-Lösung für werbefreies, anonymes Surfen und Jugendschutz auf allen Geräten.
+* [Pi-hole](https://pi-hole.net/) The Pi-hole® is a DNS sinkhole that protects your devices from unwanted content, without installing any client-side software.
+### Kali Linux
+* [Kali Linux](https://www.kali.org/) is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering.
+    * [Learn About the Best Features of Kali Linux](https://www.debugpoint.com/kali-linux-features/) Learn what the key best features and tools about Kali Linux and why it is so popular in the information security industry.
+    * heise+: [Hacking-Tools: Hacking-Stick mit Kali Linux einrichten](https://www.heise.de/ratgeber/Hacking-Tools-Hacking-Stick-mit-Kali-Linux-einrichten-6223844.html)
+    * [Kali Linux Penetration Testing Tutorial: Step-By-Step Process](https://www.esecurityplanet.com/networks/kali-linux-tutorial/)
+### Android
+* [Reverse Engineering von Android-Apps](https://www.heise.de/select/ct/2021/1/2031818243766930133)
+* [Android-Traffic unter der Lupe](https://www.heise.de/select/ct/2017/13/1497715250712891)
+* [IT-Sicherheit: Reverse Engineering von Android-Apps](https://www.heise.de/ratgeber/IT-Sicherheit-Reverse-Engineering-von-Android-Apps-4994208.html)
+  
 ## Allgemeine Tips
 * System und Apps aktuell halten
 * Backups anlegen
