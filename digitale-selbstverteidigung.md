@@ -514,7 +514,7 @@ Unter https://cloud.datenburg.org/s/csXbXDseep7Qo6N findest Du die Keepass-Daten
 ### Videostreams in der Konsole und ohne Werbung ansehen
 * [Mein YouTube Terminal Workflow](https://paper.wf/kubikpixel/mein-youtube-terminal-workflow)
 * [Mediatheken & TV im Terminal](https://paper.wf/kubikpixel/mediatheken-und-tv-im-terminal)
-### Geografischen Ort zu einer IP-Adresse bestimme
+### Geografischen Ort zu einer IP-Adresse bestimmen
 * [IPLocation](https://www.iplocation.net/)
 * [KeyCDN](https://tools.keycdn.com/geo)
 ### Alternative Dienste und Programme
