@@ -492,6 +492,7 @@ Unter https://cloud.datenburg.org/s/csXbXDseep7Qo6N findest Du die Keepass-Daten
 * [PrivacyBot](https://privacybot.io/) - A free and open source way to delete your data from an exhaustive list of data brokers and people search services.
 
 ## Werkzeuge
+* [Datensparsames Android mit der Android Debug Bridge](https://gnulinux.ch/datensparsames-android-mit-der-android-debug-bridge-teil1-samsung-phablet) Der Artikel beschreibt den Versuch, unter Android durch Umbau mittels der Android Debug Bridge (ADB), ohne Root soweit wie möglich an das Datenschutzniveau besserer Android Custom ROMs heranzukommen. Es ist der erste Teil einer voraussichtlich dreiteiligen Serie. Im ersten Teil wird der Ansatz für ein aktuelles Samsung Android (Stock-ROM) mit Android 14 demonstriert.
 * [Test Adblock](https://d3ward.github.io/toolz/adblock.html) prüft, ob die wichtigsten Werbetreibenden und Tracker browserseitig blockiert werden.
 * Exodus Privacy: [Welche App enthält wie viele Tracker?](https://reports.exodus-privacy.eu.org/en/reports/)
 * [Burp suite](http://portswigger.net/burp/proxy.html) Auftrennen von SSL-Verbindungen, um den Datenverkehr von Apps zu untersuchen
