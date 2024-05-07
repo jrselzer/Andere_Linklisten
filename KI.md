@@ -1,4 +1,5 @@
 # Künstliche Intelligenz
+* [Geospy AI](https://geospy.ai/) Welcome to GeoSpy Public Demo. Photo location prediction using AI. Take a picture or select an existing one.
 * [Quillbot](https://quillbot.com/) QuillBot's AI-powered paraphrasing tool will enhance your writing
 * [GPT minus 1](https://www.gptminus1.com/) Fool GPT by randomly replacing words with synonyms in your text. Diese Seite wird von einigen Scannern als Malware gelistet. Bitte mit Vorsicht nutzen
   * [GPT minus 1](https://ai-search.io/tool/gptminus1)
