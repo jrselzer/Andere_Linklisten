@@ -42,6 +42,7 @@ Materialien zur digitalen Selbstverteidigung
     * für [Firefox](https://addons.thunderbird.net/en-us/firefox/addon/certificate-patrol/)
 * [Ad nauseam - clicking ads so you don't have to](https://adnauseam.io/) As online advertising becomes ever more ubiquitous and unsanctioned, AdNauseam works to complete the cycle by automating ad clicks universally and blindly on behalf of its users
 * [Bypass Paywalls Clean combines all soft paywall hacks into one neat package](https://linuximpact.com/bypass-paywalls-clean-combines-all-soft-paywall-hacks-into-one-neat-package/) We've all been there. You've clicked on a fascinating link, and been sucked into the witty intro. A few seconds later, usually just as you've almost made it to the end of the first sentence of the second paragraph, the text blurs, and a pop-up appears in the centre of your vision. Yes, you've hit the soft paywall, and now your day is ruined. You'll have to stop randomly cruising from article to article or exploring a website's deep archives, and do some actual work instead. Fortunately, there's an easy way to quickly bypass most soft paywalls.
+* dnip.ch: [Tracking, nein danke!](https://dnip.ch/2023/12/20/tracking-nein-danke/) Die vergangene Woche war Tracking durch Webseiten ein Dauerthema. Niemand scheint unseren Willen nach Privatsphäre respektieren zu wollen. Da muss doch irgendwie Abhilfe möglich sein? Wir zeigen, wie.
     
 ## Alternative Browser
 * [Contra Chrome](https://contrachrome.com/comic/page01/) erläutert in Comicform die Datenschutzprobleme in Googles Browser
