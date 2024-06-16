@@ -242,6 +242,7 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
 * [Ecosia](https://www.ecosia.org/)
 * [Pimeyes](https://pimeyes.com/) - Face Search Engine Reverse Image Search. Ob diese Suchmaschine datenschutzfreundlicher als die Konkurrenz sind, wird an dieser Stelle nicht bewertet. Es geht hier nur um die Möglichkeit der Rückwärtssuche nach Gesichtern.
 * Einschätzungen von [digitalcourage](https://digitalcourage.de/digitale-selbstverteidigung/es-geht-auch-ohne-google-alternative-suchmaschinen)
+* [A look at search engines with their own indexes](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
 
 ## Videokonferenzsysteme
 * Jitsi ([Liste](https://pads.ccc.de/ep/pad/view/jitsiliste/latest))
