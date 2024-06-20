@@ -3,6 +3,7 @@ tags: Linkliste, Chatkontrolle, Netzpolitik
 ---
 Linkliste zur Chatkontrolle
 ===
+Vorbemerkung: Da ich die Chatkontrolle für unvereinbar mit Grundrechten halte, führe ich hier überwiegend Quellen auf, die sich ablehnend dazu äußern. Ich habe aber auch Texte aufgenommen, die nicht meine Meinung wiedergeben, aber in meinen Augen Informationen zur Debatte beisteuern. Da gerade bei nahenden Entscheidungen die publizistische Schnappatmung zunimmt, habe ich aber nicht jede Mutmaßung, was welches Gremium gerade aushecken mag und nicht jeden Protestaufruf gelistet, sondern konzentriere mich auf Artikel, die weniger schnell altern.
 * Netzpolitik.org [Proposal for a regulation of the European parliament and of the council laying down rules to prevent and combat child sexual abuse](https://cdn.netzpolitik.org/wp-upload/2022/05/eu-kommission-verordnung-gegen-kindesmissbrauch.pdf)
 Geleakte Version auf netzpolitik.org
 * [Gesetzentwurf der Kommission zur Chatkontrolle](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A52022PC0209&from=EN)
@@ -228,3 +229,4 @@ wired: [Apple’s Decision to Kill Its CSAM Photo-Scanning Tool Sparks Fresh Con
 * Netzpolitik.org: [Client-Side-Scanning: Die Chatkontrolle ist Überwachungsstaat pur](https://netzpolitik.org/2024/client-side-scanning-die-chatkontrolle-ist-ueberwachungsstaat-pur/) Die geplante Chatkontrolle macht die Welt unsicherer und autoritärer, denn sie richtet sich gegen private und verschlüsselte Kommunikation. Um das Projekt durchzusetzen arbeiten die Befürworter mit Desinformation, Lügen und Taschenspielertricks. Doch noch kann die Chatkontrolle gestoppt werden. Ein Kommentar.
 * Netzpolitik.org: [Massenüberwachung: 
 Deutschland will Chatkontrolle im Rat nicht zustimmen – aber ist das ein „Nein“?](https://netzpolitik.org/2024/massenueberwachung-deutschland-will-chatkontrolle-im-rat-nicht-zustimmen-aber-ist-das-ein-nein/) Justizminister Buschmann sagt, dass Deutschland der Chatkontrolle „nicht zustimmen“ werde. Doch ob das ein „Nein“ ist oder eine Enthaltung wollen weder das Justizministerium noch das Innenministerium sagen.
+* tagesschau: [Kommt die "Chatkontrolle" in der EU?](https://www.tagesschau.de/ausland/europa/eu-gesetz-kindesmissbrauch-100.html) Die EU unternimmt einen neuen Versuch, IT-Konzerne zur strengeren Kontrolle von Nutzern zu verpflichten. Ziel ist der bessere Schutz von Kindern vor sexualisierter Gewalt. Aus Deutschland kommen kritische Stimmen.
