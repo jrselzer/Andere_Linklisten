@@ -374,6 +374,8 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
     * [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/) ermöglicht anonymes Installieren von Apps aus dem Google-Playstore und gibt genauere Auskunft über möglicherweise unerwünschte Eigenschaften.
 * [Blokada](https://blokada.org/)
 * [NetGuard Firewall – Android unter Kontrolle Teil 4](https://www.kuketz-blog.de/netguard-firewall-android-unter-kontrolle-teil4/)
+* Alternative Bildschirmtastaturen
+  * [FUTO Keyboard](https://gitlab.futo.org/alex/keyboard-wiki/-/wikis/FUTO-Keyboard) FUTO Keyboard is a keyboard being developed, forked from the AOSP keyboard. The goal is to create a good, customizable keyboard that doesn't sacrifice on privacy or freedoms.
 
 ### iOS
 * [Netguard](https://apps.apple.com/de/app/netguard/id446320156)
