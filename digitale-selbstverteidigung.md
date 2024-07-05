@@ -383,6 +383,7 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
 * [NetGuard Firewall – Android unter Kontrolle Teil 4](https://www.kuketz-blog.de/netguard-firewall-android-unter-kontrolle-teil4/)
 * Alternative Bildschirmtastaturen
   * [FUTO Keyboard](https://gitlab.futo.org/alex/keyboard-wiki/-/wikis/FUTO-Keyboard) FUTO Keyboard is a keyboard being developed, forked from the AOSP keyboard. The goal is to create a good, customizable keyboard that doesn't sacrifice on privacy or freedoms.
+  * [HeliBoard](https://f-droid.org/packages/helium314.keyboard/) HeliBoard ist eine datenschutzbewusste quelloffene Tastatur, die auf AOSP / OpenBoard basiert. Verwendet keine Internetberechtigung und ist daher zu 100 % offline.
 
 ### iOS
 * [Netguard](https://apps.apple.com/de/app/netguard/id446320156)
