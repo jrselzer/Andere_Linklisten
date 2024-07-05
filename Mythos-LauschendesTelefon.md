@@ -33,3 +33,4 @@ TL,DR: höchstwahrscheinlich nicht
 * Slashdot [Why Phones That Secretly Listen To Us Are a Myth](https://yro.slashdot.org/story/19/09/06/168214/why-phones-that-secretly-listen-to-us-are-a-myth)
 * New Atlas [Facebook isn’t secretly listening to your conversations, but the truth is much more disturbing](https://newatlas.com/computers/facebook-not-secretly-listening-conversations/)
 * CCCHH: [Lauscht mein Smartphone heimlich mit?](https://media.ccc.de/v/ccchh-extras-56164-lauscht-mein-smartpho)
+* heise [Ticket-App der UEFA teilt Standortdaten der Nutzer mit Polizeibehörden](https://www.heise.de/news/Ticket-App-der-UEFA-teilt-Standortdaten-der-Nutzer-mit-Polizeibehoerden-9790495.html) Die für den Stadioneinlass notwendige Ticket-App der UEFA trackt die Nutzer und teilt den Standort mit Polizeibehörden. Die App-Stores erwähnen dies aber nicht.
