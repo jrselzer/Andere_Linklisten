@@ -143,6 +143,7 @@ Es gibt mehrere Gratis-Programme, die versprechen, in Windows datenschutzrelevan
     * [Bitwarden](https://bitwarden.com/) verwaltet Passwörter zentral auf einem Server und gleicht die lokalen Kopien damit ab. Bei Bedarf kann auch ein eigener Server zum Speichern der Passwortdatenbank genommen werden. Zur bequemen Anbindung gibt es eine ganze Reihe Browser-Plugins. Bitwarden beherrscht inzwischen auch Passkeys.
         * Unter Ubuntu ließ sich das Appimage nicht starten und stürzte mit einem Coredump ab. Abhilfe schaffte die Installation zweier Pakete mittels ```sudo apt install qt6-wayland``` sowie ```sudo apt install xcb```.
     * [Passwortmanager-Apps im Privacy-Check](https://www.heise.de/ratgeber/Passwortmanager-Apps-im-Privacy-Check-5050304.html)
+    * t3n: [Sicher im Netz: Diese 7 Passwortmanager musst du kennen ](https://t3n.de/news/passwortmanager-sicherheit-1634480/) Eine alte Information-Security-Weisheit lautet: Ein Passwortmanager ist besser als kein Passwortmanager. Wir stellen sieben beliebte Optionen vor. 
 * Bin ich von einem Datenleck betroffen?
     * [Have I been pwned?](https://haveibeenpwned.com/)
       * [See your identity pieced together from stolen data](https://www.abc.net.au/news/2023-05-18/data-breaches-your-identity-interactive/102175688)
