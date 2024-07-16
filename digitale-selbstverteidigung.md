@@ -616,6 +616,7 @@ Unter https://cloud.datenburg.org/s/csXbXDseep7Qo6N findest Du die Keepass-Daten
 * [Uncensored Library](https://www.uncensoredlibrary.com/de)
 
 ## Fallbeispiele
+* Netzpolitik.org: [Die große Datenhändler-Recherche im Überblick](https://netzpolitik.org/2024/databroker-files-die-grosse-datenhaendler-recherche-im-ueberblick/) Der unkontrollierte Datenhandel der Online-Werbeindustrie ist eine Gefahr für den Datenschutz von Abermillionen Menschen und für die nationale Sicherheit Deutschlands. Das zeigen Recherchen von netzpolitik.org und dem Bayerischen Rundfunk. Die Databroker Files im Überblick.
 ### Staatstrojaner
 * [Entwurf eines Gesetzes zur Anpassung des Verfassungsschutzrechts](https://dserver.bundestag.de/btd/19/247/1924785.pdf)
 * [(Verfassungsblog) Staatstrojaner für Nachrichtendienste: Zur Einführung der Quellen-Telekommunikationsüberwachung im Artikel 10-Gesetz](https://verfassungsblog.de/staatstrojaner-nachrichtendienste/)
