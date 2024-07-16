@@ -682,6 +682,58 @@ Date: Sun, 20 Nov 2022 21:13:11 +0000 (GMT)
 
 Die Zeile ```From: =?UTF-8?B??= <mail@koeln.ccc.de>``` sorgt dafür, dass die Mailadresse des Kölner CCC als Absender erscheint. Diesen Eintrag kann allerdings jede erzeugen. Sie könnte ```olaf.scholz@bundeskanzleramt.de``` dort hinschreiben. So lange ihr Mailserver diese Angabe nicht prüft, geht die Mail in dieser Form erst einmal raus. Erst der empfangende Mailserver könnte prüfen, ob der sendende überhaupt befugt ist, unter dieser Adresse Nachrichten zu verschicken. Vergleichen Sie es, wenn als Absender eines Briefs der Präsident der USA auf dem Umschlag steht, die Briefmarke aber eine der Deutschen Post ist und der Brief laut Stempel in Hamburg eingeworfen wurde. Bei dieser Mail weisen die Zeilen ```Received: by mail.thetiestudio.com (Postfix, from userid 10002)``` sowie ```Message-Id: <20221120211311.F132E51246@mail.thetiestudio.com>``` darauf hin, dass die Mail nicht wie beim oberflächlichen Betrachten behauptet vom CCC Köln, sondern von ```thetiestudio.com``` stammt, auf dessen Seiten es wahrscheinlich eine Sicherheitslücke gibt, die es erlaubt, mit Hilfe eines PHP-Skripts (```X-PHP-Originating-Script: 10002:mails.php```) unter beliebigen Absendenamen Mails zu verschicken.
 
+### Meine Bank hat mir geschrieben, mit meinem Konto sei etwas nicht in Ordnung
+Sehen wir uns auch diese Mail genauer an:
+
+```
+Content-Transfer-Encoding: quoted-printable
+content-type: text/html; charset="utf-8"
+X-RT-Original-Encoding: ascii
+Content-Length: 3933
+
+<!doctype html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<p><img alt="" src="data:image/png;base64,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" /></p>
+
+<p>&nbsp;</p>
+
+<p><strong>Sehr geehrter VOLKSBANK-Kunde</strong></p>
+
+<p>Bitte lesen Sie diesen Hinweis sorgf&auml;ltig durch</p>
+
+<p>Die Limits Ihrer gesperrten Konten m&uuml;ssen aktualisiert werden.<br />
+Sie haben weiterhin Zugriff auf Ihre Konten, alle Kredit-, Debit- und Zahlungstransaktionen sind jedoch vor&uuml;bergehend ausgesetzt.<br />
+Bitte entfernen Sie diese Einschr&auml;nkungen, indem Sie sich unten anmelden:</p>
+
+<p><a href="https://piraeus-connect.org/VR/"><span style="color:#000099;"><strong>LIMIT &ndash; VR</strong></span></a></p>
+
+<p><br />
+<span style="color:#ff6600;"><strong>*Wenn Sie SecureGo Plus haben</strong></span></p>
+
+<p>&nbsp;Zur Regulierung Ihrer Zahlungslimits werden Transaktionssimulationen durchgef&uuml;hrt.</p>
+
+<p>Sie erhalten Validierungsbenachrichtigungen von Ihrer SecureGo Plus-Anwendung.<br />
+&nbsp;Diese Vorg&auml;nge dienen der Freischaltung Ihres Zahlungslimits und werden nicht in Ihrem Guthaben ber&uuml;cksichtigt.</p>
+
+<p><span style="color:#FF8C00;"><strong>&nbsp;</strong></span><span style="color:#ff6600;"><strong>*Wenn Sie diesen Hinweis ignorieren, k&ouml;nnen Ihre Vertr&auml;ge ausgesetzt werden.</strong></span></p>
+
+<p>&nbsp;</p>
+
+<p><strong>VOLKSBANK TECHNISCHES ZENTRUM</strong></p>
+</body>
+</html>
+```
+
+Diese Mail enthält typische Merkmale einer Phishing-Nachricht:
+- Eine namentliche Anrede findet nicht statt. Dazu hätte sich der Angreifer Mühe geben müssen.
+- Der Text baut Druck auf ("Wenn Sie diesen Hinweis ignorieren, können Ihre Verträge ausgesetzt werden.").
+- Der alles entscheidende Hinweis versteckt sich jedoch hinter dem Link "LIMIT-VR". Dieser Link verweist auf eine Adresse, die nichts mit der betroffenen Bank zu schaffen hat.
+- Speziell diese Mail ist besonders lieblos zusammengeschmiert und enthält nicht einmal die üblichen Hinweise auf Kontaktadressen, Steuernummer und Vorstand.
+
 ## Schlussbemerkung
 Alle hier vorgestellten Maßnahmen sind notwendigerweise unvollständig. Perfekte Sicherheit kann es prinzipbedingt nicht geben. Der Aufwand, sie zu erreichen, steigt exponentiell. Wir können allenfalls die Schwelle für einen Angriff so hoch legen, dass er sich nicht mehr lohnt. Am Ende ist es ein reines Kräftemessen.
 
