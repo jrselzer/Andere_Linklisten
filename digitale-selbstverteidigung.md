@@ -501,10 +501,12 @@ Unter https://cloud.datenburg.org/s/csXbXDseep7Qo6N findest Du die Keepass-Daten
 * [Diaspora](https://diasporafoundation.org/)
 
 ## Konten löschen
+Allgemein werden Dienste, welche die automatische Löschung der eigenen Daten bei einer ganzen Reihe von Unternehmen anbieten, kritisch gesehen. Erstens verlangen diese Angebote ihrerseits personenbezogene Daten, was kritisch wird, wenn diese Anbieter die Seiten wechseln, zweitens orientieren sie sich häufig am US-Datenschutzrecht und nicht an der DSGVO, drittens verfahren sie grobschlächtig, indem sie auch Dienste ansprechen, bei denen gar keine Daten gespeichert sind und viertens sind ihre Erfolgsquoten mäßig. Nach derzeitigem Kenntnisstand ist es besser, sich direkt mit den datensammelnden Unternehmen in Verbindung zu setzen, als eine Vermittlungsinstanz dazwischenzuschalten.
 * [Facebook komplett löschen - so geht's](https://www.heise.de/tipps-tricks/Facebook-komplett-loeschen-so-geht-s-4061586.html])
 * [Wie Sie vergessene Accounts finden und löschen](https://www.t-online.de/digital/internet/id_86098254/wie-sie-vergessene-accounts-finden-und-loeschen.html)
-* [Just delete me](https://backgroundchecks.org/justdeleteme/)
+* [Just delete me](https://backgroundchecks.org/justdeleteme/) liefert Kontaktadressen und Anleitungen, wie beim Löschen zu verfahren ist
 * [PrivacyBot](https://privacybot.io/) - A free and open source way to delete your data from an exhaustive list of data brokers and people search services.
+* [Aboalarm](aboalarm.de)
 
 ## Werkzeuge
 * [Datensparsames Android mit der Android Debug Bridge](https://gnulinux.ch/datensparsames-android-mit-der-android-debug-bridge-teil1-samsung-phablet) Der Artikel beschreibt den Versuch, unter Android durch Umbau mittels der Android Debug Bridge (ADB), ohne Root soweit wie möglich an das Datenschutzniveau besserer Android Custom ROMs heranzukommen. Es ist der erste Teil einer voraussichtlich dreiteiligen Serie. Im ersten Teil wird der Ansatz für ein aktuelles Samsung Android (Stock-ROM) mit Android 14 demonstriert.
