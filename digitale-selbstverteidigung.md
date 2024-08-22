@@ -393,6 +393,9 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
 
 ## Dateiversand
 * [Wormhole](https://wormhole.app) Ende-zu-Ende-verschlüsselter Dateiversand
+
+## Steganografie
+* [Stegosuite](https://codeberg.org/tob/stegosuite) Stegosuite is a free steganography tool written in Java. With Stegosuite you can hide information in image files.
   
 ## Schadsoftwareabwehr
 * [desinfec't](https://www.heise.de/download/product/desinfect-71642)
