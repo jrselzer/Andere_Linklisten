@@ -611,6 +611,8 @@ Allgemein werden Dienste, welche die automatische Löschung der eigenen Daten be
 * [Don't fall for tricky URLs](https://datadetoxkit.org/en/security/trickyURLs/)
 * [unredacter](https://github.com/BishopFox/unredacter) liest verpixelten Text
 * LfDI Berlin: [Wie sicher ist dein Smartphone? (PDF)](https://www.datenschutz-berlin.de/fileadmin/user_upload/pdf/publikationen/informationsmaterialien/2020-BlnBDI-Ratgeber_Smartphone.pdf)
+* Netzpolitik.org: [So geht sichere Kommunikation](https://netzpolitik.org/2024/digitale-selbstverteidigung-so-geht-sichere-kommunikation/) Wie man Informationen so übers Internet weitergibt, dass nur die Zielpersonen sie erfahren. Und wie man sein Telefon gegen Staatstrojanerangriffe abhärten kann.
+  * Apple.com: [About Lockdown Mode](https://support.apple.com/en-us/105120) Lockdown Mode helps protect devices against extremely rare and highly sophisticated cyber attacks.
 
 ## Organisationen
 * [Chaos Computer Club](https://ccc.de)
