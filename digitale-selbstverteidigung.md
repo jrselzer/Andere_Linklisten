@@ -144,7 +144,13 @@ Es gibt mehrere Gratis-Programme, die versprechen, in Windows datenschutzrelevan
         * Unter Ubuntu ließ sich das Appimage nicht starten und stürzte mit einem Coredump ab. Abhilfe schaffte die Installation zweier Pakete mittels ```sudo apt install qt6-wayland``` sowie ```sudo apt install xcb```.
     * [Passwortmanager-Apps im Privacy-Check](https://www.heise.de/ratgeber/Passwortmanager-Apps-im-Privacy-Check-5050304.html)
     * t3n: [Sicher im Netz: Diese 7 Passwortmanager musst du kennen ](https://t3n.de/news/passwortmanager-sicherheit-1634480/) Eine alte Information-Security-Weisheit lautet: Ein Passwortmanager ist besser als kein Passwortmanager. Wir stellen sieben beliebte Optionen vor. 
-* Bin ich von einem Datenleck betroffen?
+* Passkeys
+  * [Passkeys: Wie ein Account ohne Passwort funktioniert](https://www.heise.de/hintergrund/Bestandsaufnahme-Passwort-Nachfolger-Passkeys-9048722.html) Passwörter adieu! Mit dem Nachfolger Passkeys können Sie sich passwortlos aber dennoch sicher und komfortabel einloggen – seit Kurzem auch bei Google-Diensten.
+  * [Funktionsweise von Passkeys im Detail erklärt](https://www.heise.de/ratgeber/Funktionsweise-von-Passkeys-im-Detail-erklaert-9659204.html?seite=all) Passkeys sind in allen Belangen sicherer als Passwörter. Warum das so ist, schlüsseln wir in diesem Deep Dive in die Funktionsweise von Passkeys auf.
+  * [Passkeys: Die passende Schlüsselverwaltung auswählen](https://www.heise.de/ratgeber/Passkeys-Die-passende-Schluesselverwaltung-auswaehlen-9660336.html?seite=all) Wer seine Internetkonten per Passkey absichern möchte, muss eine Variante der Schlüsselverwaltung bemühen. Wir zeigen, welche für Sie die richtige ist.
+  * [FAQ: Fragen und Antworten zu Passkeys](https://www.heise.de/ratgeber/FAQ-Fragen-und-Antworten-zu-Passkeys-9756135.html) Der Passwort-Nachfolger Passkeys soll das Einloggen im Netz so einfach machen, wie nie – wir beantworten die häufigsten Leserfragen zum Thema.
+  * [Passkey Revolution: Google Syncs Passkeys to Apple & Windows Devices](https://www.corbado.com/blog/google-passkeys-sync-windows-macos) Google Password Manager now syncs passkeys across Chrome on Windows, macOS and Android, which is ground-breaking as Google solves cross-platform passkey issues.
+*  Bin ich von einem Datenleck betroffen?
     * [Have I been pwned?](https://haveibeenpwned.com/)
       * [See your identity pieced together from stolen data](https://www.abc.net.au/news/2023-05-18/data-breaches-your-identity-interactive/102175688)
     * [HPI Identity Leak Checker](https://sec.hpi.de/ilc/)
