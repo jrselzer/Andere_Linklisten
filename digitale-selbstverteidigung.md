@@ -712,7 +712,7 @@ Die Zeile ```From: =?UTF-8?B??= <mail@koeln.ccc.de>``` sorgt dafür, dass die Ma
 #### Woher kennt die Betrügerin Ihr Passwort?
 Wahrscheinlich wurde eines Ihrer Onlinekonten tatsächlich geknackt und Ihr Passwort so das vieler anderer listenweise auf dem Schwarzmarkt angeboten. Das sollten Sie ernst nehmen und Ihr Passwort ändern. Sehen Sie auf [Have I been pwned](https://haveibeenpwned.com) oder dem [HPI Identity Leak Checker](https://sec.hpi.de/ilc/search?lang=de) nach. Sie sollten dort Treffer haben. Ändern Sie deswegen (falls nicht schon geschehen) die Passworte Ihrer betroffenen Onlinezugänge sowie die der damit verbundenen Konten (beispielsweise, wenn Sie Ihr Mailkonto als Wiederherstellungsadresse für Ihren Social-Media-Zugang hinterlegt haben). Wählen Sie ein gutes Passwort, im Zweifelsfall also keins, das Sie sich selbst ausdenken, sondern sich durch einen Zufallsgenerator erzeugen lassen. Wenn Sie sich das Passwort nicht merken können, erwägen Sie die Benutzung eines Passwortmanagers.
 
-Lassen Sie sich nicht unter Zeitdruck setzen. Die Drohung ist nur in sehr seltenen Fällen wahr. Fragen Sie um Rat, gern auch [uns](kontakt@crypto.koeln).
+Lassen Sie sich nicht unter Zeitdruck setzen. Die Drohung ist nur in sehr seltenen Fällen wahr. Fragen Sie um Rat, gern auch [uns](mailto:kontakt@crypto.koeln).
 
 Weitere Hinweise gibt es unter [“Hello pervert” sextortion scam includes new threat of Pegasus—and a picture of your home](https://www.malwarebytes.com/blog/news/2024/09/hello-pervert-sextortion-scam-includes-new-threat-of-pegasus-and-a-picture-of-your-home) von Malwarebytes.
 
