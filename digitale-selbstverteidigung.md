@@ -673,6 +673,14 @@ Allgemein werden Dienste, welche die automatische Löschung der eigenen Daten be
 
 ## Oft gestellte Fragen - FAQ
 ### Mein Rechner wurde gehackt und ich beim Betrachten zweifelhafter Seiten gefilmt
+Symptome:
+* Auf den ersten Blick habe ich mir die Mail selbst geschickt-
+* Es ist immer die gleiche Drohung: Sie haben angeblich Schmuddelseiten oder sogar Seiten pädokriminellen Inhalts besucht. Das Erste ist unangenehm, das Zweite nach [§ 184b StGB](https://www.gesetze-im-internet.de/stgb/__184b.html) sogar haftbewehrt.
+* Um die Drohkulisse zu verstärken, wird gern der Name "Pegasus" fallengelassen, ein in der Tat mächtiges Angriffswerkzeug, das aus Presseberichten bekannt ist, aber vor allem von Regierungen und Ermittlungsbehörden eingesetzt wird. Die Spionagesoftware kann geradezu magische Dinge und hat angeblich Ihre komplette Infrastruktur übernommen.
+* In fortgeschrittenen Versionen kennt die Angreiferin Ihr Passwort.
+* Die Betrügerin baut zeitlichen Druck auf und droht mit der Veröffentlichung des Ihnen unangenehmen Wissens. Die Fristen sind meistens sehr kurz gesetzt und beginnen mit dem Öffnen der Mail, das angeblich registriert wird.
+* Gelegentlich ist die Drohbotschaft als Bild oder PDF angehängt, um Spamfilter zu umgehen.
+  
 Kurze Antwort: mit an Sicherheit grenzender Wahrscheinlichkeit nein
 Lange Antwort: Sehen wir uns den Header einer an den Kölner CCC verschickten Mail an:
 
@@ -700,6 +708,13 @@ Date: Sun, 20 Nov 2022 21:13:11 +0000 (GMT)
 ```
 
 Die Zeile ```From: =?UTF-8?B??= <mail@koeln.ccc.de>``` sorgt dafür, dass die Mailadresse des Kölner CCC als Absender erscheint. Diesen Eintrag kann allerdings jede erzeugen. Sie könnte ```olaf.scholz@bundeskanzleramt.de``` dort hinschreiben. So lange ihr Mailserver diese Angabe nicht prüft, geht die Mail in dieser Form erst einmal raus. Erst der empfangende Mailserver könnte prüfen, ob der sendende überhaupt befugt ist, unter dieser Adresse Nachrichten zu verschicken. Vergleichen Sie es, wenn als Absender eines Briefs der Präsident der USA auf dem Umschlag steht, die Briefmarke aber eine der Deutschen Post ist und der Brief laut Stempel in Hamburg eingeworfen wurde. Bei dieser Mail weisen die Zeilen ```Received: by mail.thetiestudio.com (Postfix, from userid 10002)``` sowie ```Message-Id: <20221120211311.F132E51246@mail.thetiestudio.com>``` darauf hin, dass die Mail nicht wie beim oberflächlichen Betrachten behauptet vom CCC Köln, sondern von ```thetiestudio.com``` stammt, auf dessen Seiten es wahrscheinlich eine Sicherheitslücke gibt, die es erlaubt, mit Hilfe eines PHP-Skripts (```X-PHP-Originating-Script: 10002:mails.php```) unter beliebigen Absendenamen Mails zu verschicken.
+
+#### Woher kennt die Betrügerin Ihr Passwort?
+Wahrscheinlich wurde eines Ihrer Onlinekonten tatsächlich geknackt und Ihr Passwort so das vieler anderer listenweise auf dem Schwarzmarkt angeboten. Das sollten Sie ernst nehmen und Ihr Passwort ändern. Sehen Sie auf [Have I been pwned](https://haveibeenpwned.com) oder dem [HPI Identity Leak Checker](https://sec.hpi.de/ilc/search?lang=de) nach. Sie sollten dort Treffer haben. Ändern Sie deswegen (falls nicht schon geschehen) die Passworte Ihrer betroffenen Onlinezugänge sowie die der damit verbundenen Konten (beispielsweise, wenn Sie Ihr Mailkonto als Wiederherstellungsadresse für Ihren Social-Media-Zugang hinterlegt haben). Wählen Sie ein gutes Passwort, im Zweifelsfall also keins, das Sie sich selbst ausdenken, sondern sich durch einen Zufallsgenerator erzeugen lassen. Wenn Sie sich das Passwort nicht merken können, erwägen Sie die Benutzung eines Passwortmanagers.
+
+Lassen Sie sich nicht unter Zeitdruck setzen. Die Drohung ist nur in sehr seltenen Fällen wahr. Fragen Sie um Rat, gern auch [uns](kontakt@crypto.koeln).
+
+Weitere Hinweise gibt es unter [“Hello pervert” sextortion scam includes new threat of Pegasus—and a picture of your home](https://www.malwarebytes.com/blog/news/2024/09/hello-pervert-sextortion-scam-includes-new-threat-of-pegasus-and-a-picture-of-your-home) von Malwarebytes.
 
 ### Meine Bank hat mir geschrieben, mit meinem Konto sei etwas nicht in Ordnung
 Sehen wir uns auch diese Mail genauer an:
