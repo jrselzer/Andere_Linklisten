@@ -209,6 +209,7 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
     * [Conversations](https://conversations.im/)
 * [Briar](https://briarproject.org/) versendet Nachrichten über das Tor-Netz und kann im Extremfall komplett ohne Internet Daten via Bluetooth übertragen
 * [Delta Chat](https://delta.chat/) (SMTP)
+* [Ricochet](https://www.ricochetrefresh.net/) Ricochet Refresh is a peer-to-peer messenger app that uses Tor to connect clients. When you start Ricochet Refresh it creates a Tor hidden service on your computer. The address of this hidden service is your anonymous identity on the Tor network and how others will be able to communicate with you
 * Messenger-Vergleiche
     * [Freie Messenger](https://www.freie-messenger.de/)
     * [Messenger-Matrix von Mike Kuketz](https://www.messenger-matrix.de)
