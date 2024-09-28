@@ -719,7 +719,7 @@ Wahrscheinlich wurde eines Ihrer Onlinekonten tatsächlich geknackt und Ihr Pass
 
 Lassen Sie sich nicht unter Zeitdruck setzen. Die Drohung ist nur in sehr seltenen Fällen wahr. Fragen Sie um Rat, gern auch [uns](mailto:kontakt@crypto.koeln).
 
-Weitere Hinweise gibt es unter [“Hello pervert” sextortion scam includes new threat of Pegasus—and a picture of your home](https://www.malwarebytes.com/blog/news/2024/09/hello-pervert-sextortion-scam-includes-new-threat-of-pegasus-and-a-picture-of-your-home) von Malwarebytes.
+Weitere Hinweise gibt es unter [“Hello pervert” sextortion scam includes new threat of Pegasus—and a picture of your home](https://www.malwarebytes.com/blog/news/2024/09/hello-pervert-sextortion-scam-includes-new-threat-of-pegasus-and-a-picture-of-your-home) von Malwarebytes sowie [New Email Scam Includes Pictures of Your House. Don’t Fall For It.](https://www.eff.org/deeplinks/2024/09/new-email-scam-includes-pictures-your-house-dont-fall-it) der EFF.
 
 ### Meine Bank hat mir geschrieben, mit meinem Konto sei etwas nicht in Ordnung
 Sehen wir uns auch diese Mail genauer an:
