@@ -32,3 +32,26 @@
 * Input Consulting GmbH: [KI-Einsatz im Betrieb](https://www.input-consulting.de/publikationen.html?file=files/inpcon-DATA/download/2023_KI-Einsatz%20im%20Betrieb_FAQ%20Wedde.pdf) (PDF)
 * heise: [Wie man KI-generierte Texte erkennen kann](https://www.heise.de/hintergrund/Wie-man-KI-generierte-Texte-erkennen-kann-7434812.html) Immer häufiger tauchen im Netz von Textgeneratoren erstellte Inhalte auf. Neue Werkzeuge müssen her, um sie zu erkennen. 
 * Springer: [ChatGPT is bullshit](https://link.springer.com/article/10.1007/s10676-024-09775-5) Recently, there has been considerable interest in large language models: machine learning systems which produce human-like text and dialogue. Applications of these systems have been plagued by persistent inaccuracies in their output; these are often called “AI hallucinations”. We argue that these falsehoods, and the overall activity of large language models, is better understood as bullshit in the sense explored by Frankfurt (On Bullshit, Princeton, 2005): the models are in an important way indifferent to the truth of their outputs. We distinguish two ways in which the models can be said to be bullshitters, and argue that they clearly meet at least one of these definitions. We further argue that describing AI misrepresentations as bullshit is both a more useful and more accurate way of predicting and discussing the behaviour of these systems.
+### 22.10.
+* https://www.theregister.com/2024/10/20/asia_tech_news_roundup/
+* https://www.heise.de/news/Von-KI-und-Freiheit-Hannah-Arendt-Tage-2024-in-Hannover-9989213.html
+* https://t3n.de/news/ki-als-mediator-studie-1652682/
+* https://www.youtube.com/watch?v=0fq1jlWcUv8
+* https://arstechnica.com/tech-policy/2024/10/bytedance-intern-fired-for-planting-malicious-code-in-ai-models/
+* https://youtu.be/pOuBCk8XMC8?si=tSJHgpG06uc6DnV0
+* https://www.spiegel.de/netzwelt/30-jahre-spiegel-de-ein-blick-ins-jahr-2054-a-b79b8ee3-f5b9-4438-884d-ef49d2c12c1f
+* https://newrepublic.com/article/187203/ai-radiology-geoffrey-hinton-nobel-prediction
+* https://www.heise.de/news/Vision-Language-Modelle-versagen-bei-einfachen-Bildtests-9995946.html
+* https://www.heise.de/hintergrund/Auslegungssache-109-Das-KI-DSGVO-Dilemma-9721822.html
+* https://www.heise.de/news/Reasoning-Fail-Gaengige-LLMs-scheitern-an-kinderleichter-Aufgabe-9755034.html
+* https://www.heise.de/news/Apple-Studie-Logisches-Denken-von-KI-kaum-nachweissbar-und-sehr-fragil-9980855.html
+* https://www.giga.de/tech/externe-festplatte-fuers-gehirn-forscher-entdecken-revolutionaeres-system-0--01JAZ3MBBDZ3XREWG260XVDX04
+* https://marketoonist.com/2024/03/potential-of-ai.html
+* https://www.youtube.com/watch?v=fmwOu-C1AmI
+* https://www.spiegel.de/auto/frankreich-vorsicht-vor-den-neuen-super-radarfallen-a-1b703b19-22f7-4baf-89e8-72d43c0d1203
+* https://www.upi.com/Top_News/World-News/2024/11/01/Ireland-AI-fake-Halloween-parade-hoax/2311730467734/
+* https://ebildungslabor.de/blog/fuenf-erkundungen-zur-neuen-such-funktion-von-chatgpt/
+* https://dnip.ch/2024/10/29/wie-gut-verstehen-llms-die-welt/
+* https://www.heise.de/news/KI-Technik-koennte-Elektroschrott-Menge-steigen-lassen-9997283.html
+* https://www.derstandard.de/story/3000000207848/am-kopf-kratzen-bringt-380-euro-strafe-ki-versagt-als-strassenpolizist
+* https://gizmodo.com/facial-recognition-that-tracks-suspicious-friendliness-is-coming-to-a-store-near-you-2000519190?utm_source=pocket-newtab-en-us
