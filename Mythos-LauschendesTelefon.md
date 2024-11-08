@@ -32,7 +32,9 @@ TL,DR: höchstwahrscheinlich nicht
 * CCCHH [Lauscht mein Smartphone heimlich mit?](https://media.ccc.de/v/ccchh-extras-56164-lauscht-mein-smartpho)
 * heise [Ticket-App der UEFA teilt Standortdaten der Nutzer mit Polizeibehörden](https://www.heise.de/news/Ticket-App-der-UEFA-teilt-Standortdaten-der-Nutzer-mit-Polizeibehoerden-9790495.html) Die für den Stadioneinlass notwendige Ticket-App der UEFA trackt die Nutzer und teilt den Standort mit Polizeibehörden. Die App-Stores erwähnen dies aber nicht.
 * heise [Alexa, hör nicht zu: Verschwörungstheorien um Technologie kein Randphänomen](https://www.heise.de/news/Studie-Technik-geraet-zunehmend-in-den-Fokus-von-Verschwoerungstheorien-9818483.html) Mit dem Einzug von smarter Technik in den Alltag steigt auch das Misstrauen gegenüber Geräten wie Herstellern. Verschwörungstheorien spielt das in die Hände.
-* Digital Rights Bytes [Is my phone listening to me?](https://www.digitalrightsbytes.org/topics/is-my-phone-listening-to-me) People sometimes worry that advertisers are secretly listening to us through our phones, especially when we see ads that seem based on our private conversations. But experts say there’s no evidence that this is happening. We agree. 
+* Digital Rights Bytes [Is my phone listening to me?](https://www.digitalrightsbytes.org/topics/is-my-phone-listening-to-me) People sometimes worry that advertisers are secretly listening to us through our phones, especially when we see ads that seem based on our private conversations. But experts say there’s no evidence that this is happening. We agree.
+* CBS News [Are smartphones eavesdropping and targeting us with ads?
+](https://www.cbsnews.com/video/are-smartphones-eavesdropping-and-targeting-us-with-ads/) Some people can't shake the feeling that their phones may be picking up their conversations, even when they're not making a call – especially if you're getting online ads for things you never searched for online. Tony Dokoupil puts it to the test.
 
 #### La-Liga-App
 * Zeit [Offizielle Liga-App aktiviert Handy-Mikrofone](https://www.zeit.de/digital/datenschutz/2018-06/la-liga-app-spanien-fussball-dsgvo-pay-tv-lizenz-betrug)
