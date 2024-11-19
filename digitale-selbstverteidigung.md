@@ -121,12 +121,17 @@ Die hier beschriebenen Werkzeuge arbeiten vor allem auf mechanischen Festplatten
     * [Disk Drill](https://www.cleverfiles.com/de/data-recovery-software.html)
     * [R-Studio](https://www.heise.de/download/product/r-studio-16902)
 
-## Datenschutzeinstellungen bei Windows verbessern
+## Datenschutzeinstellungen verbessern
+* [Datenschutz: utiq-Tracking in drei Schritten deaktivieren/verhindern}(https://www.kuketz-blog.de/datenschutz-utiq-tracking-in-drei-schritten-deaktivieren-verhindern/) Das neue Tracking-Verfahren nutzt das Wissen der Telekommunikationskonzerne darüber, wem welcher Internetanschluss gehört, um Websites und Online-Werbung zu personalisieren. Die Methode wird von den Machern bewusst als europäische und datenschutzfreundliche Alternative in der AdTech-Branche positioniert. „Utiq ist der authentische Einwilligungs-Service, der verantwortungsvolles digitales Marketing ermöglicht.“
+* Mike Kuketz [Für Anfänger/Bequeme: Werbung und Tracker unter iOS/Android systemweit verbannen](https://www.kuketz-blog.de/fuer-anfaenger-bequeme-werbung-und-tracker-unter-ios-android-systemweit-verbannen/) Die meisten Apps aus den Stores von Google und Apple beinhalten Software-Bausteine von Drittanbietern, die dem Nutzer Werbung einblenden oder seine Aktivität auf Schritt und Tritt verfolgen. Als Nutzer hat man allerdings keinen Einblick in die App bzw. sieht ihr von »außen« nicht an, wie sehr die Werbe- und Trackingbausteine die Sicherheit und den Datenschutz gefährden. Nachfolgend möchte ich eine einfache Lösung für Android- und iOS-Nutzer vorstellen, um sich vor dieser (größtenteils rechtswidrigen) Datensammlung zu schützen. Zunächst wird kurz erläutert, wie der Schutz vor Werbung und Trackern technisch funktioniert. Anschließend wird für beide Plattformen eine bebilderte Anleitung bereitgestellt, um die Schutzmaßnahme umzusetzen. Nach erfolgter Umsetzung werden Werbung, Tracker und Co. sowohl beim Surfen im Internet (via Browser) als auch in allen Apps gefiltert/blockiert.
+### Windows
 Es gibt mehrere Gratis-Programme, die versprechen, in Windows datenschutzrelevante Einstellungen zu verbessern. Die Erwartungen an die Leistungsfähigkeit dieser Programme sollten nicht zu hoch angesetzt werden, meint ein [Test in der c't](https://www.heise.de/select/ct/2017/1/1483282098626844) hinter einer Bezahlschranke. Getestet wurde
 * [O & O Shutup](https://www.oo-software.com/de/shutup10)
 * [Donotspy](https://pxc-coding.com/donotspy11/)
 * [W10privacy](https://www.w10privacy.de/)
 * [Windows 10 Privaxy.exe}(https://wiki.piratenpartei.de/WIN)
+ ### Android
+ ### iOS
 
 ## Passwortverwaltung
 * [Keepass](https://keepass.info/)
