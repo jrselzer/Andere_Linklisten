@@ -55,3 +55,11 @@
 * https://www.heise.de/news/KI-Technik-koennte-Elektroschrott-Menge-steigen-lassen-9997283.html
 * https://www.derstandard.de/story/3000000207848/am-kopf-kratzen-bringt-380-euro-strafe-ki-versagt-als-strassenpolizist
 * https://gizmodo.com/facial-recognition-that-tracks-suspicious-friendliness-is-coming-to-a-store-near-you-2000519190?utm_source=pocket-newtab-en-us
+* DNIP:[Petzt die KI? Schlimm?](https://dnip.ch/2024/09/26/petzt-die-ki/) Es gibt viel Unsicherheit über Datenschutz und Datensicherheit rund um KI-Textgeneratoren wie ChatGPT oder Gemini. Was darf man ihnen anvertrauen? Was soll man lieber für sich selbst behalten? Eine Einordnung.
+* DNIP: [Wie funktioniert eigentlich ChatGPT?](https://dnip.ch/2023/01/30/wie-funktioniert-eigentlich-chatgpt/)
+* DNIP: [Die Gefahr der faulen KI-Kritik](https://dnip.ch/2024/05/02/die-gefahr-der-faulen-ki-kritik/)
+* DNIP: [Die dunklen Daten-Geheimnisse der KI}(https://dnip.ch/2024/01/12/die-dunklen-daten-geheimnisse-der-ki/)
+* DNIP: [Machine Learning: Künstliche Faultier-Intelligenz](https://dnip.ch/2022/08/16/machine-learning-kuenstliche-faultier-intelligenz/)
+* DNIP: {Marcel pendelt: «KI» und «Vertrauen»](https://dnip.ch/2023/12/11/marcel-pendelt-ki-und-vertrauen/)
+* DNIP: [KI ist kein Zufall](https://dnip.ch/2023/05/08/ki-ist-kein-zufall/)
+* Deutschlandfunk: [Allgemeine KI -Wie weit noch bis zur Superintelligenz?](https://www.deutschlandfunk.de/wie-weit-noch-bis-zur-superintelligenz-dlf-a11e4806-100.html) Selbst Fachleute sind erstaunt über Fähigkeiten von KI, die in großen Sprachmodellen entstehen, ohne dass sie hineinprogrammiert wurden. Was passiert da gerade? Sind wir auf dem Weg in die maschinelle Superintelligenz – und muss uns das beunruhigen?
