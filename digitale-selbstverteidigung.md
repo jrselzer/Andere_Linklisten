@@ -379,6 +379,7 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
     * [Warnings: Tails is safe but not magic!](https://tails.boum.org/doc/about/warnings/)
 * [Anleitungsheft bei Capulcu](https://capulcu.blackblogs.org/neue-texte/bandi/)
 * heise+: [Hochsicherheits-Linux auf USB-Stick: Geschützt surfen und arbeiten mit Tails](https://www.heise.de/ratgeber/Security-Mit-Tails-sicher-im-Internet-unterwegs-6289028.html?seite=all)
+* c't 3003: [Tails: Dieses sichere Betriebssystem solltet ihr kennen](https://www.youtube.com/watch?v=GCqB2YntLwU) Wir zeigen euch, wie ihr in 5 Minuten Tails OS auf einem USB-Stick installiert und dann super anonym unterwegs seid. 
 
 ## Whonix
 * [Whonix](https://www.whonix.org/)
