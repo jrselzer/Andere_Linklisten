@@ -10,17 +10,18 @@ This is a messy list of links I'm picking up in course of a security training. I
   * [Nessus for Education](https://www.tenable.com/tenable-for-education/nessus-essentials?edu=true) To register to use Nessus Essentials for education, please complete the following form. There is no cost for students and instructors.
 # Enumeration
 * [smtp-user-enum](https://github.com/cytopia/smtp-user-enum) SMTP user enumeration via VRFY, EXPN and RCPT with clever timeout, retry and reconnect functionality.
-* https://github.com/hegusung/RPCScan
-* https://nmap.org/book/idlescan.html
+* [RPCScan](https://github.com/hegusung/RPCScan) Tool to communicate with RPC services and check misconfigurations on NFS shares
+* [TCP Idle Scan (-sI)](https://nmap.org/book/idlescan.html)
 * https://nmap.org/book/scan-methods-null-fin-xmas-scan.html
 * https://www.geeksforgeeks.org/tcp-3-way-handshake-process/
 * http://www.visualroute.com/
-* https://angryip.org/
-* https://github.com/ElevenPaths/FOCA
-* [OSINT Framework](https://osintframework.com/) OSINT framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources. Some of the sites included might require registration or offer more data for $$$, but you should be able to get at least a portion of the available information for no cost.
-I originally created this framework with an information security point of view. Since then, the response from other fields and disciplines has been incredible. I would love to be able to include any other OSINT resources, especially from fields outside of infosec. Please let me know about anything that might be missing!
-* https://github.com/lanmaster53/recon-ng
-* https://hackertarget.com/recon-ng-tutorial/
+* [Unicornscan](https://www.kali.org/tools/unicornscan/) Unicornscan is a new information gathering and correlation engine built for and by members of the security research and testing communities. It was designed to provide an engine that is Scalable, Accurate, Flexible, and Efficient. It is released for the community to use under the terms of the GPL license.
+* [MASSCAN: Mass IP port scanner](https://github.com/robertdavidgraham/masscan) TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
+* [Angry IP Scanner](https://angryip.org/) Angry IP Scanner (or simply ipscan) is an open-source and cross-platform network scanner designed to be fast and simple to use. It scans IP addresses and ports as well as has many other features. It is widely used by network administrators and just curious users around the world, including large and small enterprises, banks, and government agencies. It runs on Linux, Windows, and Mac OS X, possibly supporting other platforms as well.
+* [OSINT Framework](https://osintframework.com/) OSINT framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources. Some of the sites included might require registration or offer more data for $$$, but you should be able to get at least a portion of the available information for no cost. I originally created this framework with an information security point of view. Since then, the response from other fields and disciplines has been incredible. I would love to be able to include any other OSINT resources, especially from fields outside of infosec. Please let me know about anything that might be missing!
+* [ReconDog](https://github.com/s0md3v/ReconDog) Reconnaissance Swiss Army Knife
+* [The Recon-ng Framework](https://github.com/lanmaster53/recon-ng) Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources.
+  * [econ-NG Tutorial](https://hackertarget.com/recon-ng-tutorial/) In this recon-ng tutorial, discover open source intelligence and easily pivot to new results. Using a modular approach, collect and dig deeper into extracted data.
 # Tracking Links
 * https://linklyhq.com/create-tracking-links
 * https://bitly.com/blog/tracking-link/
