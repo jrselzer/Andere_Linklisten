@@ -11,6 +11,7 @@ This is a messy list of links I'm picking up in course of a security training. I
   * [Greenbone Community Documentation[https://greenbone.github.io/docs/latest/background.html]
 * [Tenable Nessus® Essentials](https://www.tenable.com/products/nessus/nessus-essentials) As part of the Tenable Nessus family, Tenable Nessus Essentials allows you to scan your environment (up to 16 IP addresses per scanner) with the same high-speed, in-depth assessments and agentless scanning convenience that Nessus subscribers enjoy.
   * [Nessus for Education](https://www.tenable.com/tenable-for-education/nessus-essentials?edu=true) To register to use Nessus Essentials for education, please complete the following form. There is no cost for students and instructors.
+  * [GFI LanGuard](https://gfi.ai/products-and-solutions/network-security-solutions/languard) Patch management, vulnerability scanning, and network auditing - GFI LanGuard enables you to manage and maintain end-point protection across your network. It provides visibility into all the elements in your network, helps you assess where there may be potential vulnerabilities, and enables you to patch them. The patch management and network auditing solution is easy-to-use and easy-to-deploy.
 # Enumeration
 * [smtp-user-enum](https://github.com/cytopia/smtp-user-enum) SMTP user enumeration via VRFY, EXPN and RCPT with clever timeout, retry and reconnect functionality.
 * [RPCScan](https://github.com/hegusung/RPCScan) Tool to communicate with RPC services and check misconfigurations on NFS shares
