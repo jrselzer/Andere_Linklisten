@@ -27,6 +27,7 @@ This is a messy list of links I'm picking up in course of a security training. I
 * https://de.indeed.com/?r=us
 * https://www.netcraft.com/
 * https://github.com/aboul3la/Sublist3r
+* https://www.social-searcher.com/
 * https://www.shodan.io/
 * https://attack.mitre.org/
 * https://www.pcisecuritystandards.org/standards/
@@ -45,4 +46,10 @@ This is a messy list of links I'm picking up in course of a security training. I
 * https://www.softwaresecured.com/post/comparison-of-stride-dread-pasta
 * https://cis.temple.edu/~qzeng/cis4360-spring17/papers/Praetorian_Threat_Modeling_Presentation.pdf
 * https://www.itsecurityguru.org/2015/06/10/risk-analysis-how-to/
-* 
+* https://www.eccouncil.org/cybersecurity-exchange/ethical-hacking/what-is-ethical-hacking/
+* https://apps.dtic.mil/sti/citations/ADA586960
+* https://apps.dtic.mil/sti/pdfs/ADA586960.pdf
+* https://www.boxpiper.com/posts/google-dork-list
+* https://gbhackers.com/latest-google-dorks-list/
+* https://www.exploit-db.com/
+* https://search.censys.io/
