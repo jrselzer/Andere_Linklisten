@@ -58,7 +58,7 @@ multiple public resources
 * https://de.indeed.com
 # Subdomain Enumeration
 * https://www.netcraft.com/
-* https://github.com/aboul3la/Sublist3r
+* [Sublist3r](https://github.com/aboul3la/Sublist3r) Sublist3r is a python tool designed to enumerate subdomains of websites using OSINT. It helps penetration testers and bug hunters collect and gather subdomains for the domain they are targeting. Sublist3r enumerates subdomains using many search engines such as Google, Yahoo, Bing, Baidu and Ask. Sublist3r also enumerates subdomains using Netcraft, Virustotal, ThreatCrowd, DNSdumpster and ReverseDNS.
 * https://www.social-searcher.com/
 * https://www.shodan.io/
 * https://who.is/
@@ -92,3 +92,8 @@ multiple public resources
 * https://gbhackers.com/latest-google-dorks-list/
 * https://www.exploit-db.com/
 * https://search.censys.io/
+# Attack types
+* DDOS
+  * [Slow Loris](https://www.cloudflare.com/learning/ddos/ddos-attack-tools/slowloris/)
+  * [Pulsewave](https://www.keysight.com/blogs/en/tech/nwvs/2024/08/01/pulsewave-ddos-attacks
+)
