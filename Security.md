@@ -95,5 +95,5 @@ multiple public resources
 # Attack types
 * DDOS
   * [Slow Loris](https://www.cloudflare.com/learning/ddos/ddos-attack-tools/slowloris/)
-  * [Pulsewave](https://www.keysight.com/blogs/en/tech/nwvs/2024/08/01/pulsewave-ddos-attacks
-)
+  * [Pulsewave](https://www.keysight.com/blogs/en/tech/nwvs/2024/08/01/pulsewave-ddos-attacks)
+* [Smashing the Stack for Fun and Profit](https://inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf)
