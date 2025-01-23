@@ -17,11 +17,20 @@ This is a messy list of links I'm picking up in course of a security training. I
 * http://www.visualroute.com/
 * [Unicornscan](https://www.kali.org/tools/unicornscan/) Unicornscan is a new information gathering and correlation engine built for and by members of the security research and testing communities. It was designed to provide an engine that is Scalable, Accurate, Flexible, and Efficient. It is released for the community to use under the terms of the GPL license.
 * [MASSCAN: Mass IP port scanner](https://github.com/robertdavidgraham/masscan) TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
+* [hping3](https://www.kali.org/tools/hping3/) hping3 is a network tool able to send custom ICMP/UDP/TCP packets and to display target replies like ping does with ICMP replies. It handles fragmentation and arbitrary packet body and size, and can be used to transfer files under supported protocols. Using hping3, you can test firewall rules, perform (spoofed) port scanning, test network performance using different protocols, do path MTU discovery, perform traceroute-like actions under different protocols, fingerprint remote operating systems, audit TCP/IP stacks, etc. hping3 is scriptable using the Tcl language.
+* [Metasploit](https://www.metasploit.com/) The world’s most used penetration testing framework. Knowledge is power, especially when it’s shared. A collaboration between the open source community and Rapid7, Metasploit helps security teams do more than just verify vulnerabilities, manage security assessments, and improve security awareness; it empowers and arms defenders to always stay one step (or two) ahead of the game.
+  * [About the Metasploit Meterpreter](https://www.offsec.com/metasploit-unleashed/about-meterpreter/) Meterpreter is an advanced, dynamically extensible payload that uses in-memory DLL injection stagers and is extended over the network at runtime. It communicates over the stager socket and provides a comprehensive client-side Ruby API. It features command history, tab completion, channels, and more.
 * [Angry IP Scanner](https://angryip.org/) Angry IP Scanner (or simply ipscan) is an open-source and cross-platform network scanner designed to be fast and simple to use. It scans IP addresses and ports as well as has many other features. It is widely used by network administrators and just curious users around the world, including large and small enterprises, banks, and government agencies. It runs on Linux, Windows, and Mac OS X, possibly supporting other platforms as well.
 * [OSINT Framework](https://osintframework.com/) OSINT framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources. Some of the sites included might require registration or offer more data for $$$, but you should be able to get at least a portion of the available information for no cost. I originally created this framework with an information security point of view. Since then, the response from other fields and disciplines has been incredible. I would love to be able to include any other OSINT resources, especially from fields outside of infosec. Please let me know about anything that might be missing!
 * [ReconDog](https://github.com/s0md3v/ReconDog) Reconnaissance Swiss Army Knife
 * [The Recon-ng Framework](https://github.com/lanmaster53/recon-ng) Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources.
   * [econ-NG Tutorial](https://hackertarget.com/recon-ng-tutorial/) In this recon-ng tutorial, discover open source intelligence and easily pivot to new results. Using a modular approach, collect and dig deeper into extracted data.
+ 
+# Monitoring
+* [PRTG Network Monitor](https://www.paessler.com/prtg) NetScanTools Pro is an integrated collection of internet information gathering and network troubleshooting utilities for Network Professionals. Research IPv4 addresses, IPv6 addresses, hostnames, domain names, email addresses and URLs automatically** or with manual tools. It is designed for the Windows operating system GUI. **Automated tools are started interactively by the user.
+* [Omnipeek](https://www.liveaction.com/products/omnipeek/) Get network protocol analyzer capabilities, on your Windows machine, to quickly conduct deep packet analysis to resolve network and security issues.
+* [NetScanTools® Pro](https://www.netscantools.com/nstpromain.html) 
+
 # Tracking Links
 * https://linklyhq.com/create-tracking-links
 * https://bitly.com/blog/tracking-link/
@@ -46,6 +55,7 @@ multiple public resources
 * https://www.social-searcher.com/
 * https://www.shodan.io/
 * https://who.is/
+* [subfinder](https://github.com/projectdiscovery/subfinder) ast passive subdomain enumeration tool.
 # 
 * https://attack.mitre.org/
 * https://www.pcisecuritystandards.org/standards/
