@@ -1,7 +1,10 @@
 # Note
 This is a messy list of links I'm picking up in course of a security training. I will structure it when I got time, so please be patient.
 # Security Sources
-* https://www.first.org/cvss/
+* [Common Vulnerability Scoring System SIG](https://www.first.org/cvss/) The CVSS SIG continues to work on gathering feedback and updating CVSS v4.0. The CVSS documentation, including the User Guide, FAQ, and Examples have seen updates since the initial release in November 2023. Currently, the CVSS SIG is developing a roadmap for future updates to the standard. To that end, the CVSS SIG has created a survey to understand the usage of CVSS in general and the new CVSS v4.0 in particular.
+* [CVE](https://cve.mitre.org/)
+* [National Vulnerability Database](https://nvd.nist.gov/) The NVD is the U.S. government repository of standards based vulnerability management data represented using the Security Content Automation Protocol (SCAP). This data enables automation of vulnerability management, security measurement, and compliance. The NVD includes databases of security checklist references, security-related software flaws, product names, and impact metrics. For information on how to cite the NVD, including the database's Digital Object Identifier (DOI), please consult NIST's Public Data Repository.
+* [Common Weaknes Enumeration](https://cwe.mitre.org/) The 2024 CWE Top 25 is here! Often easy to find and exploit, these can lead to exploitable vulnerabilities that allow adversaries to completely take over a system, steal data, or prevent applications from working. The Top 25 highlights the most severe and prevalent weaknesses behind the 31,770 CVE® Records in this year’s dataset. 
 # Vulnerability Scanners
 * [OpenVAS](https://tryhackme.com/r/room/openvas) OpenVAS, an application used to scan endpoints and web applications to identify and detect vulnerabilities. It is commonly used by corporations as part of their mitigation solutions to quickly identify any gaps in their production or even development servers or applications. This is not an end all be all solution but can help to get rid of any common vulnerabilities that may have slipped through the cracks.  
   * [OpenVAS on Github](https://github.com/greenbone/) This repository contains the scanner component for Greenbone Community Edition.
@@ -12,6 +15,9 @@ This is a messy list of links I'm picking up in course of a security training. I
 * [smtp-user-enum](https://github.com/cytopia/smtp-user-enum) SMTP user enumeration via VRFY, EXPN and RCPT with clever timeout, retry and reconnect functionality.
 * [RPCScan](https://github.com/hegusung/RPCScan) Tool to communicate with RPC services and check misconfigurations on NFS shares
 * [TCP Idle Scan (-sI)](https://nmap.org/book/idlescan.html)
+* [Sysinternals Active Directory Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/adexplorer) Active Directory Explorer (AD Explorer) is an advanced Active Directory (AD) viewer and editor. You can use AD Explorer to easily navigate an AD database, define favorite locations, view object properties and attributes without having to open dialog boxes, edit permissions, view an object's schema, and execute sophisticated searches that you can save and re-execute.
+* [Softerra LDAP Administrator](https://www.ldapadministrator.com/) LDAP Administrator allows you to manage multiple directories with ease. Quick navigation, handy attribute editors, bulk object modification, and plenty of other features provide for an intuitive and efficient LDAP server management experienc
+* [Python LDAP 3](https://ldap3.readthedocs.io/en/latest/) ldap3 is a pure Python LDAP 3 client library strictly conforming to RFC4510 and is released under the LGPL v3 open source license. RFC4510 is the current LDAP specification (June 2006) from IETF and obsoletes the previous LDAP RFCs 2251, 2830, 3771 (December 1997).
 * https://nmap.org/book/scan-methods-null-fin-xmas-scan.html
 * https://www.geeksforgeeks.org/tcp-3-way-handshake-process/
 * http://www.visualroute.com/
@@ -56,6 +62,7 @@ multiple public resources
 * https://www.shodan.io/
 * https://who.is/
 * [subfinder](https://github.com/projectdiscovery/subfinder) ast passive subdomain enumeration tool.
+* [gobuster](https://github.com/OJ/gobuster) Gobuster is a tool used to brute-force: URIs (directories and files) in web sites, DNS subdomains (with wildcard support), Virtual Host names on target web servers, Open Amazon S3 buckets, Open Google Cloud buckets, TFTP servers
 # 
 * https://attack.mitre.org/
 * https://www.pcisecuritystandards.org/standards/
