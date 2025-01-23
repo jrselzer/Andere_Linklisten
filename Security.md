@@ -32,4 +32,17 @@ This is a messy list of links I'm picking up in course of a security training. I
 * https://www.pcisecuritystandards.org/standards/
 * https://www.itgovernance.co.uk/iso27001
 * https://www.hhs.gov/hipaa/index.html
+* https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act
+* https://www.copyright.gov/dmca/
+* https://security.cms.gov/learn/federal-information-security-modernization-act-fisma
+* https://www.cisa.gov/topics/cyber-threats-and-advisories/federal-information-security-modernization-act
+* https://gdpr-info.eu/
+* https://www.gov.uk/data-protection
+* https://www.opentext.com/products/forensic
+* https://www.autopsy.com/download/
+* https://www.exterro.com/digital-forensics-software/forensic-toolkit
+* https://medium.com/@kryptologyst/incident-response-preparation-6f24d776d8ee
+* https://www.softwaresecured.com/post/comparison-of-stride-dread-pasta
+* https://cis.temple.edu/~qzeng/cis4360-spring17/papers/Praetorian_Threat_Modeling_Presentation.pdf
+* https://www.itsecurityguru.org/2015/06/10/risk-analysis-how-to/
 * 
