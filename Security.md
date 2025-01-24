@@ -139,3 +139,4 @@ multiple public resources
 
 # Assessment
 * [tenable one}(https://www.tenable.com/products/tenable-one) The world’s only AI-powered exposure management platform - Tenable One radically unifies security visibility, insight and action across the attack surface, equipping modern organizations to isolate and eradicate priority cyber exposures from IT infrastructure to cloud environments to critical infrastructure and everywhere in between.
+* [Redscan](https://www.redscan.com/)
