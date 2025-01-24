@@ -47,7 +47,9 @@ This is a messy list of links I'm picking up in course of a security training. I
 # "Darknets"
 * https://staging.freenetproject.org/index.html
 * https://retroshare.cc/
-* 
+* [Whonix](https://www.whonix.org/)
+* [Tails](https://tails.net/) Tails is a portable operating system that protects against surveillance and censorship.
+  
 # Social Engineerng
 * [theHarvester](https://github.com/laramies/theHarvester) theHarvester is a simple to use, yet powerful tool designed to be used during the reconnaissance stage of a red
 team assessment or penetration test. It performs open source intelligence (OSINT) gathering to help determine
