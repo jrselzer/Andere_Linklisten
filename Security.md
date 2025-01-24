@@ -1,10 +1,12 @@
 # Note
 This is a messy list of links I'm picking up in course of a security training. I will structure it when I got time, so please be patient.
 # Security Sources
+* [Grayhat Warfare](https://grayhatwarfare.com/)
 * [Common Vulnerability Scoring System SIG](https://www.first.org/cvss/) The CVSS SIG continues to work on gathering feedback and updating CVSS v4.0. The CVSS documentation, including the User Guide, FAQ, and Examples have seen updates since the initial release in November 2023. Currently, the CVSS SIG is developing a roadmap for future updates to the standard. To that end, the CVSS SIG has created a survey to understand the usage of CVSS in general and the new CVSS v4.0 in particular.
 * [CVE](https://cve.mitre.org/)
 * [National Vulnerability Database](https://nvd.nist.gov/) The NVD is the U.S. government repository of standards based vulnerability management data represented using the Security Content Automation Protocol (SCAP). This data enables automation of vulnerability management, security measurement, and compliance. The NVD includes databases of security checklist references, security-related software flaws, product names, and impact metrics. For information on how to cite the NVD, including the database's Digital Object Identifier (DOI), please consult NIST's Public Data Repository.
-* [Common Weaknes Enumeration](https://cwe.mitre.org/) The 2024 CWE Top 25 is here! Often easy to find and exploit, these can lead to exploitable vulnerabilities that allow adversaries to completely take over a system, steal data, or prevent applications from working. The Top 25 highlights the most severe and prevalent weaknesses behind the 31,770 CVE® Records in this year’s dataset. 
+* [Common Weaknes Enumeration](https://cwe.mitre.org/) The 2024 CWE Top 25 is here! Often easy to find and exploit, these can lead to exploitable vulnerabilities that allow adversaries to completely take over a system, steal data, or prevent applications from working. The Top 25 highlights the most severe and prevalent weaknesses behind the 31,770 CVE® Records in this year’s dataset.
+* [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/search/%23c2)
 # Vulnerability Scanners
 * [OpenVAS](https://tryhackme.com/r/room/openvas) OpenVAS, an application used to scan endpoints and web applications to identify and detect vulnerabilities. It is commonly used by corporations as part of their mitigation solutions to quickly identify any gaps in their production or even development servers or applications. This is not an end all be all solution but can help to get rid of any common vulnerabilities that may have slipped through the cracks.  
   * [OpenVAS on Github](https://github.com/greenbone/) This repository contains the scanner component for Greenbone Community Edition.
@@ -45,6 +47,7 @@ This is a messy list of links I'm picking up in course of a security training. I
 # "Darknets"
 * https://staging.freenetproject.org/index.html
 * https://retroshare.cc/
+* 
 # Social Engineerng
 * [theHarvester](https://github.com/laramies/theHarvester) theHarvester is a simple to use, yet powerful tool designed to be used during the reconnaissance stage of a red
 team assessment or penetration test. It performs open source intelligence (OSINT) gathering to help determine
@@ -56,6 +59,7 @@ multiple public resources
 * [FOCA (Fingerprinting Organizations with Collected Archives)](https://github.com/ElevenPaths/FOCA) FOCA is a tool used mainly to find metadata and hidden information in the documents it scans. These documents may be on web pages, and can be downloaded and analysed with FOCA.
 
 * https://de.indeed.com
+
 # Subdomain Enumeration
 * https://www.netcraft.com/
 * [Sublist3r](https://github.com/aboul3la/Sublist3r) Sublist3r is a python tool designed to enumerate subdomains of websites using OSINT. It helps penetration testers and bug hunters collect and gather subdomains for the domain they are targeting. Sublist3r enumerates subdomains using many search engines such as Google, Yahoo, Bing, Baidu and Ask. Sublist3r also enumerates subdomains using Netcraft, Virustotal, ThreatCrowd, DNSdumpster and ReverseDNS.
@@ -65,8 +69,10 @@ multiple public resources
 * [subfinder](https://github.com/projectdiscovery/subfinder) ast passive subdomain enumeration tool.
 * [gobuster](https://github.com/OJ/gobuster) Gobuster is a tool used to brute-force: URIs (directories and files) in web sites, DNS subdomains (with wildcard support), Virtual Host names on target web servers, Open Amazon S3 buckets, Open Google Cloud buckets, TFTP servers
 # 
-* https://attack.mitre.org/
+* [ATT&CK](https://attack.mitre.org/) MITRE ATT&CK® is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.
+  * [Software](https://attack.mitre.org/software/) Software is a generic term for custom or commercial code, operating system utilities, open-source software, or other tools used to conduct behavior modeled in ATT&CK. Some instances of software have multiple names associated with the same instance due to various organizations tracking the same set of software by different names. The team makes a best effort to track overlaps between names based on publicly reported associations, which are designated as “Associated Software” on each page (formerly labeled “Aliases”), because we believe these overlaps are useful for analyst awareness.
 * https://www.pcisecuritystandards.org/standards/
+  
 # Standards and Laws
 * https://www.itgovernance.co.uk/iso27001
 * https://www.hhs.gov/hipaa/index.html
@@ -76,9 +82,16 @@ multiple public resources
 * https://www.cisa.gov/topics/cyber-threats-and-advisories/federal-information-security-modernization-act
 * https://gdpr-info.eu/
 * https://www.gov.uk/data-protection
+* [S.2521 - Federal Information Security Modernization Act of 2014](https://www.congress.gov/bill/113th-congress/senate-bill/2521) Federal Information Security Modernization Act of 2014 - Amends the Federal Information Security Management Act of 2002 (FISMA) to: (1) reestablish the oversight authority of the Director of the Office of Management and Budget (OMB) with respect to agency information security policies and practices, and (2) set forth authority for the Secretary of Homeland Security (DHS) to administer the implementation of such policies and practices for information systems.
+* [Digital Millenium Copyright Act](https://www.congress.gov/105/plaws/publ304/PLAW-105publ304.pdf) To amend title 17, United States Code, to implement the World Intellectual Property Organization Copyright Treaty and Performances and Phonograms Treaty, and for other purposes
+* [Payment Card Industry Data Security Standard](https://docs-prv.pcisecuritystandards.org/PCI%20DSS/Standard/PCI-DSS-v4_0_1.pdf) The Payment Card Industry Data Security Standard (PCI DSS) was developed to encourage and enhance payment account data security and facilitate the broad adoption of consistent data security measures globally. PCI DSS provides a baseline of technical and operational requirements designed to protect account data. While specifically designed to focus on environments with payment account data, PCI DSS can also be used to protect against threats and secure other elements in the payment ecosystem. 
+
+# Threat Modeling
+* [Cyber Threat Modeling](https://www.eccouncil.org/threat-modeling/) 
+
 # Forensic
 * https://www.opentext.com/products/forensic
-* https://www.autopsy.com/download/
+* [Autopsy Digital Forensics](https://www.autopsy.com/download/) Autopsy® is the premier end-to-end open source digital forensics platform. Built by Sleuth Kit Labs with the core features you expect in commercial forensic tools, Autopsy is a fast, thorough, and efficient hard drive investigation solution that evolves with your needs.
 * https://www.exterro.com/digital-forensics-software/forensic-toolkit
 * https://medium.com/@kryptologyst/incident-response-preparation-6f24d776d8ee
 * https://www.softwaresecured.com/post/comparison-of-stride-dread-pasta
@@ -87,13 +100,36 @@ multiple public resources
 * https://www.eccouncil.org/cybersecurity-exchange/ethical-hacking/what-is-ethical-hacking/
 * https://apps.dtic.mil/sti/citations/ADA586960
 * https://apps.dtic.mil/sti/pdfs/ADA586960.pdf
+* [REMnux: A Linux Toolkit for Malware Analysis](https://remnux.org/) REMnux® is a Linux toolkit for reverse-engineering and analyzing malicious software. REMnux provides a curated collection of free tools created by the community. Analysts can use it to investigate malware without having to find, install, and configure the tools.
+* [C.A.IN.E. Computer Aided Investigative Environment](https://www.caine-live.net/) CAINE (Computer Aided INvestigative Environment) is an Italian GNU/Linux live distribution created as a Digital Forensics project Currently the project manager is Nanni Bassetti (Bari - Italy). CAINE offers a complete forensic environment that is organized to integrate existing software tools as software modules and to provide a friendly graphical interface
+* [Best Digital Forensics Software](https://www.g2.com/categories/digital-forensics) Digital forensics software is used to investigate and examine IT systems after security incidents or for security-related preventive maintenance. These tools help businesses perform in-depth analysis of IT systems to identify the cause of security incidents, outline vulnerabilities, and assist security teams in facilitating incident response processes. These tools aggregate security information from hardware, network logs, and files to present security professionals with a full picture of the likely causes of security incidents. From there, many tools identify the steps necessary to remediate the vulnerability and update policies and configurations to prevent the situation from arising again.
+  
 # Google Dorks
 * https://www.boxpiper.com/posts/google-dork-list
 * https://gbhackers.com/latest-google-dorks-list/
 * https://www.exploit-db.com/
 * https://search.censys.io/
+
 # Attack types
 * DDOS
   * [Slow Loris](https://www.cloudflare.com/learning/ddos/ddos-attack-tools/slowloris/)
   * [Pulsewave](https://www.keysight.com/blogs/en/tech/nwvs/2024/08/01/pulsewave-ddos-attacks)
 * [Smashing the Stack for Fun and Profit](https://inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf)
+* [Heyoka Backdoor](https://attack.mitre.org/software/S1027/) Heyoka Backdoor is a custom backdoor--based on the Heyoka open source exfiltration tool--that has been used by Aoqin Dragon since at least 2013.
+
+# DNS tunnel 
+* [Ron Bowes iagox86](https://github.com/iagox86)
+  * [dnscat2](https://github.com/iagox86/dnscat2) This tool is designed to create an encrypted command-and-control (C&C) channel over the DNS protocol, which is an effective tunnel out of almost every network.
+* [yarrick](https://github.com/yarrick)
+  * iodine DNS tunnel
+  * pingfs stores your data in ICMP packets
+  * turbomem incomplete Linux driver for Intel Turbo Memory Controller ("Robson") PCIe card
+  * scsniff Linux tool for sniffing smartcard communication between card and reader using season interface
+  * lwip-tcpip/lwip lwIP mirror from http://git.savannah.gnu.org/cgit/lwip.git
+  * scsniff Linux tool for sniffing smartcard communication between card and reader using season interface.
+
+# Pentest
+* [BlackArch Linux](https://github.com/BlackArch) lackArch Linux is an Arch Linux-based distribution for penetration testers and security researchers.
+ 
+# Webshell
+* [BlackArch Webshells](https://github.com/BlackArch/webshells) Various webshells. We accept pull requests for additions to this collection.
