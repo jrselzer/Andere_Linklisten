@@ -116,6 +116,7 @@ multiple public resources
   * [Pulsewave](https://www.keysight.com/blogs/en/tech/nwvs/2024/08/01/pulsewave-ddos-attacks)
 * [Smashing the Stack for Fun and Profit](https://inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf)
 * [Heyoka Backdoor](https://attack.mitre.org/software/S1027/) Heyoka Backdoor is a custom backdoor--based on the Heyoka open source exfiltration tool--that has been used by Aoqin Dragon since at least 2013.
+* [Evil twin (wireless networks)](https://en.wikipedia.org/wiki/Evil_twin_(wireless_networks)) An evil twin is a fraudulent Wi-Fi access point that appears to be legitimate but is set up to eavesdrop on wireless communications.[1] The evil twin is the wireless LAN equivalent of the phishing scam.
 
 # DNS tunnel 
 * [Ron Bowes iagox86](https://github.com/iagox86)
