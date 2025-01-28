@@ -3,6 +3,9 @@ This is a messy list of links I'm picking up in course of a security training. I
 # Security Sources
 * [Grayhat Warfare](https://grayhatwarfare.com/)
 * [Common Vulnerability Scoring System SIG](https://www.first.org/cvss/) The CVSS SIG continues to work on gathering feedback and updating CVSS v4.0. The CVSS documentation, including the User Guide, FAQ, and Examples have seen updates since the initial release in November 2023. Currently, the CVSS SIG is developing a roadmap for future updates to the standard. To that end, the CVSS SIG has created a survey to understand the usage of CVSS in general and the new CVSS v4.0 in particular.
+  * [CVSS Vector Strings](https://qualysguard.qg2.apps.qualys.com/qwebhelp/fo_portal/setup/cvss_vector_strings.htm) CVSS Base and Temporal scores are represented as a numeric value and also as a vector string. The vector string is a textual representation of the metric values used to determine the score.
+
+
 * [CVE](https://cve.mitre.org/)
 * [National Vulnerability Database](https://nvd.nist.gov/) The NVD is the U.S. government repository of standards based vulnerability management data represented using the Security Content Automation Protocol (SCAP). This data enables automation of vulnerability management, security measurement, and compliance. The NVD includes databases of security checklist references, security-related software flaws, product names, and impact metrics. For information on how to cite the NVD, including the database's Digital Object Identifier (DOI), please consult NIST's Public Data Repository.
 * [Common Weaknes Enumeration](https://cwe.mitre.org/) The 2024 CWE Top 25 is here! Often easy to find and exploit, these can lead to exploitable vulnerabilities that allow adversaries to completely take over a system, steal data, or prevent applications from working. The Top 25 highlights the most severe and prevalent weaknesses behind the 31,770 CVE® Records in this year’s dataset.
