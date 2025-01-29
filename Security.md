@@ -24,6 +24,7 @@ This is a messy list of links I'm picking up in course of a security training. I
 * [Acunetix](https://www.acunetix.com/) Introducing API Security with discovery: cover more ground by finding and testing APIs without breaking development workflows. Discover, test and patch vulnerabilities in your web applications and APIs from a single solution, helping you stay continuously secure with ease.
 * [Zed Attack Proxy (ZAP)](https://www.zaproxy.org/) [ZAP at Github](https://github.com/zaproxy/zaproxy) The Zed Attack Proxy (ZAP) by Checkmarx is the world’s most widely used web app scanner. Free and open source. A community based GitHub Top 1000 project that anyone can contribute to. It can help you automatically find security vulnerabilities in your web applications while you are developing and testing your applications. It's also a great tool for experienced pentesters to use for manual security testing.
 * [Quark Engine](https://quark-engine.readthedocs.io/en/latest/) [Github repository](https://github.com/quark-engine/quark-engine) Quark Engine is an open source software for automating analysis of suspicious Android application. To do so it makes use of custom Dalvik Bytecode Loader and unique scoring system that detect malicious behaviors and calculate threat level within seconds.
+* [THC - The Hacker's Choice](https://www.thc.org/) We are a group of international hackers. We do IT security work. We are not for hire. All of our work is for the public. We research and publish tools and academic papers to expose fishy IT security that just isn’t secure. We also develop and publish tools to help the IT Security movement.
 
 
 # Enumeration
@@ -158,6 +159,7 @@ multiple public resources
 * https://crack.sh/
 * [selfhash](https://github.com/snowytoxa/selfhash) SyScan'14 release - Selfhash allows you to get password hashes of the current user. This tool doesn't requere high privileges i.e. SYSTEM, but on another hand it returns NTLM Challenge Response, so you could crack it later.
 * https://hashcat.net/hashcat/
+* [thc-hydra](https://github.com/vanhauser-thc/thc-hydra) Number one of the biggest security holes are passwords, as every password security study shows. This tool is a proof of concept code, to give researchers and security consultants the possibility to show how easy it would be to gain unauthorized access from remote to a system.
     
 # Webshell
 * [BlackArch Webshells](https://github.com/BlackArch/webshells) Various webshells. We accept pull requests for additions to this collection.
