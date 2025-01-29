@@ -157,3 +157,6 @@ multiple public resources
 # Assessment
 * [tenable one}(https://www.tenable.com/products/tenable-one) The world’s only AI-powered exposure management platform - Tenable One radically unifies security visibility, insight and action across the attack surface, equipping modern organizations to isolate and eradicate priority cyber exposures from IT infrastructure to cloud environments to critical infrastructure and everywhere in between.
 * [Redscan](https://www.redscan.com/)
+
+# (Windows) Authentication
+* [Kerberos Authentication Explained | A deep dive](https://www.youtube.com/watch?v=5N242XcKAsM) Kerberos explained in easy to understand terms with intuitive diagrams. Starting with a high-level overview and then a deep dive into all the messages that are passed between the User, Authentication Server, Ticket Granting Server and the Service. Including the contents of messages, Authenticators, the encryption used and the validation that is performed to achieve mutual authentication. 
