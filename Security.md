@@ -155,6 +155,7 @@ multiple public resources
 * [John the Ripper password cracker](https://www.openwall.com/john/) John the Ripper is an Open Source password security auditing and password recovery tool available for many operating systems. John the Ripper jumbo supports hundreds of hash and cipher types, including for: user passwords of Unix flavors (Linux, *BSD, Solaris, AIX, QNX, etc.), macOS, Windows, "web apps" (e.g., WordPress), groupware (e.g., Notes/Domino), and database servers (SQL, LDAP, etc.); network traffic captures (Windows network authentication, WiFi WPA-PSK, etc.); encrypted private keys (SSH, GnuPG, cryptocurrency wallets, etc.), filesystems and disks (macOS .dmg files and "sparse bundles", Windows BitLocker, etc.), archives (ZIP, RAR, 7z), and document files (PDF, Microsoft Office's, etc.) These are just some of the examples - there are many more.
 * [mimikatz](https://github.com/gentilkiwi/mimikatz) It's now well known to extract plaintexts passwords, hash, PIN code and kerberos tickets from memory. mimikatz can also perform pass-the-hash, pass-the-ticket or build Golden tickets.
   * [mimikatz](https://github.com/ParrotSec/mimikatz)
+* https://crack.sh/
     
 # Webshell
 * [BlackArch Webshells](https://github.com/BlackArch/webshells) Various webshells. We accept pull requests for additions to this collection.
