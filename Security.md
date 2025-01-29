@@ -131,6 +131,7 @@ multiple public resources
 * [Smashing the Stack for Fun and Profit](https://inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf)
 * [Heyoka Backdoor](https://attack.mitre.org/software/S1027/) Heyoka Backdoor is a custom backdoor--based on the Heyoka open source exfiltration tool--that has been used by Aoqin Dragon since at least 2013.
 * [Evil twin (wireless networks)](https://en.wikipedia.org/wiki/Evil_twin_(wireless_networks)) An evil twin is a fraudulent Wi-Fi access point that appears to be legitimate but is set up to eavesdrop on wireless communications.[1] The evil twin is the wireless LAN equivalent of the phishing scam.
+* [LLMNR poisoning}(https://www.prosec-networks.com/en/blog/llmnr-poisoning/) Link-local multicast name resolution (LLMNR) Poisoning causes data traffic on a network to be intercepted and modified. This can be done using various tools without much knowledge and can lead to great damage. The goal is usually to collect information, obtain password hashes or exploit other gaps in the network. The whole thing falls under Man-In-The-Middle attack techniques and opens up many new attack vectors.
 
 # DNS tunnel 
 * [Ron Bowes iagox86](https://github.com/iagox86)
