@@ -160,6 +160,7 @@ multiple public resources
 * [selfhash](https://github.com/snowytoxa/selfhash) SyScan'14 release - Selfhash allows you to get password hashes of the current user. This tool doesn't requere high privileges i.e. SYSTEM, but on another hand it returns NTLM Challenge Response, so you could crack it later.
 * https://hashcat.net/hashcat/
 * [thc-hydra](https://github.com/vanhauser-thc/thc-hydra) Number one of the biggest security holes are passwords, as every password security study shows. This tool is a proof of concept code, to give researchers and security consultants the possibility to show how easy it would be to gain unauthorized access from remote to a system.
+* [ncrack](https://github.com/nmap/ncrack) Ncrack network authentication tool - [Deprecation Notice](https://nmap.org/ncrack/)
     
 # Webshell
 * [BlackArch Webshells](https://github.com/BlackArch/webshells) Various webshells. We accept pull requests for additions to this collection.
