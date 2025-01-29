@@ -161,6 +161,14 @@ multiple public resources
 * https://hashcat.net/hashcat/
 * [thc-hydra](https://github.com/vanhauser-thc/thc-hydra) Number one of the biggest security holes are passwords, as every password security study shows. This tool is a proof of concept code, to give researchers and security consultants the possibility to show how easy it would be to gain unauthorized access from remote to a system.
 * [ncrack](https://github.com/nmap/ncrack) Ncrack network authentication tool - [Deprecation Notice](https://nmap.org/ncrack/)
+* [responder](https://github.com/lgandx/Responder) Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.
+  * [Kali responder tool documentation](https://www.kali.org/tools/responder/)
+* [Ettercap](https://www.ettercap-project.org/) Ettercap is a comprehensive suite for man in the middle attacks. It features sniffing of live connections, content filtering on the fly and many other interesting tricks. It supports active and passive dissection of many protocols and includes many features for network and host analysis.
+* [Bettercap](https://www.bettercap.org/) The Swiss Army knife for WiFi, Bluetooth Low Energy, wireless HID hijacking, CAN-bus and IPv4 and IPv6 networks reconnaissance and MITM attacks.
+* [Wireshark](https://www.wireshark.org/) Wireshark is the world's foremost network protocol analyzer. It lets you see what's happening on your network at a microscopic level. It is the de facto (and often de jure) standard across many industries and educational institutions.
+* [tcpdump](https://www.tcpdump.org/) tcpdump prints out a description of the contents of packets on a network interface that match the Boolean expression (see pcap-filter(7) for the expression syntax); the description is preceded by a time stamp, printed, by default, as hours, minutes, seconds, and fractions of a second since midnight. It can also be run with the -w flag, which causes it to save the packet data to a file for later analysis, and/or with the -r flag, which causes it to read from a saved packet file rather than to read packets from a network interface. It can also be run with the -V flag, which causes it to read a list of saved packet files. In all cases, only packets that match expression will be processed by tcpdump
+* [Ophcrack](https://ophcrack.sourceforge.io/) also offers rainbow tables for download
+* [L0phtcrack](https://www.l0phtcrack.com/)
     
 # Webshell
 * [BlackArch Webshells](https://github.com/BlackArch/webshells) Various webshells. We accept pull requests for additions to this collection.
@@ -168,6 +176,7 @@ multiple public resources
 # Assessment
 * [tenable one}(https://www.tenable.com/products/tenable-one) The world’s only AI-powered exposure management platform - Tenable One radically unifies security visibility, insight and action across the attack surface, equipping modern organizations to isolate and eradicate priority cyber exposures from IT infrastructure to cloud environments to critical infrastructure and everywhere in between.
 * [Redscan](https://www.redscan.com/)
+
 
 # (Windows) Authentication
 * [Kerberos Authentication Explained | A deep dive](https://www.youtube.com/watch?v=5N242XcKAsM) Kerberos explained in easy to understand terms with intuitive diagrams. Starting with a high-level overview and then a deep dive into all the messages that are passed between the User, Authentication Server, Ticket Granting Server and the Service. Including the contents of messages, Authenticators, the encryption used and the validation that is performed to achieve mutual authentication. 
