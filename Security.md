@@ -169,6 +169,9 @@ multiple public resources
 * [tcpdump](https://www.tcpdump.org/) tcpdump prints out a description of the contents of packets on a network interface that match the Boolean expression (see pcap-filter(7) for the expression syntax); the description is preceded by a time stamp, printed, by default, as hours, minutes, seconds, and fractions of a second since midnight. It can also be run with the -w flag, which causes it to save the packet data to a file for later analysis, and/or with the -r flag, which causes it to read from a saved packet file rather than to read packets from a network interface. It can also be run with the -V flag, which causes it to read a list of saved packet files. In all cases, only packets that match expression will be processed by tcpdump
 * [Ophcrack](https://ophcrack.sourceforge.io/) also offers rainbow tables for download
 * [L0phtcrack](https://www.l0phtcrack.com/)
+* [pwdump](https://www.openwall.com/passwords/windows-pwdump) This handy utility dumps the password database of an NT machine that is held in the NT registry (under HKEY_LOCAL_MACHINE\SECURITY\SAM\Domains\Account\Users) into a valid smbpasswd format file (which is understood by practically all Windows password security auditing tools).
+
+
     
 # Webshell
 * [BlackArch Webshells](https://github.com/BlackArch/webshells) Various webshells. We accept pull requests for additions to this collection.
