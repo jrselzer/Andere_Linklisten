@@ -83,7 +83,8 @@ Materialien zur digitalen Selbstverteidigung
     * [GuerrillaMail](https://www.guerrillamail.com/) (HTTPS, Session-Cookies erforderlich, E-Mails können gelöscht werden)
 * Yahoo bietet das Einrichten von Wegwerfadressen nach dem Format ```<freiWaehlbareZeichenkette>-<variablerZusatz>@yahoo.com``` an.
 * Gmail bietet die Möglichkeit, die vorhandene Adresse um einen mit einem Pluszeichen abgetrennten Zusatz zu erweitern, zum Beispiel ```<meinName>+<variablerZusatz>@gmail.com```. Das Pluszeichen wird allerdings von einigen Webformularen nicht anerkannt. Darüber hinaus ist der Trick natürlich bekannt, so dass sich leicht von einer dergestalt aufgebauten Mailadresse auf die eigentliche Hauptadresse schließen lässt.
-
+* Firefox-Relay bietet die Möglichkeit der Einrichtung von Wegwerf-Mailadressen
+* [anonbox](https://unbox.at/) Mit der kostenlosen Open Source Lösung unbox.at schützt du deinen Posteingang mit E-Mail-Aliasnamen. Antworte anonym auf weitergeleitete E-Mails. Der Absender erhält die E-Mail so, als käme sie von deinem Alias. Oder starte eine Konversation direkt von deinem Alias aus.
 ## Datenträgerverschlüsselung
 * [Veracrypt](https://veracrypt.fr/) verschlüsselt wahlweise ganze Datenträger oder erstellt verschlüsselte virtuelle Laufwerke in frei wählbarer Größe.
 * [Cryptomator](https://cryptomator.org/) With Cryptomator, the key to your data is in your hands. Cryptomator encrypts your data quickly and easily. Afterwards you upload them protected to your favorite cloud service.
