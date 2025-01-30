@@ -150,6 +150,7 @@ multiple public resources
 # Pentest
 * [BlackArch Linux](https://github.com/BlackArch) lackArch Linux is an Arch Linux-based distribution for penetration testers and security researchers.
 * [Kali Linux](https://www.kali.org/) Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering.
+* [Parrot](https://parrotsec.org/) Parrot Security provides a huge arsenal of tools, utilities and libraries that IT and security professionals can use to test and assess the security of their assets in a reliable, compliant and reproducible way. From information gathering to the final report. The Parrot system gets you covered with the most flexible environment.
 
 # Password recovery
 * [Cain and Abel](https://web.archive.org/web/20190603235413/http://www.oxid.it/cain.html) Cain and Abel (often abbreviated to Cain) was a password recovery tool for Microsoft Windows. It could recover many kinds of passwords using methods such as network packet sniffing, cracking various password hashes by using methods such as dictionary attacks, brute force and cryptanalysis attacks.[1] Cryptanalysis attacks were done via rainbow tables which could be generated with the winrtgen.exe program provided with Cain and Abel.[2] Cain and Abel was maintained by Massimiliano Montoro[3] and Sean Babcock.
@@ -170,6 +171,7 @@ multiple public resources
 * [Ophcrack](https://ophcrack.sourceforge.io/) also offers rainbow tables for download
 * [L0phtcrack](https://www.l0phtcrack.com/)
 * [pwdump](https://www.openwall.com/passwords/windows-pwdump) This handy utility dumps the password database of an NT machine that is held in the NT registry (under HKEY_LOCAL_MACHINE\SECURITY\SAM\Domains\Account\Users) into a valid smbpasswd format file (which is understood by practically all Windows password security auditing tools).
+* [fgdump](https://sectools.org/tool/fgdump/) fgdump is a newer version of the pwdump tool for extracting NTLM and LanMan password hashes from Windows. It is also capable of displaying password histories if they are available. It outputs the data in L0phtCrack-compatible form, and can write to an output file. fgdump attempts to disable antivirus software before running. It then runs pwdump, cachedump (cached credentials dump), and pstgdump (protected storage dump). For downloads and more information, visit the [fgdump homepage](http://swamp.foofus.net/fizzgig/fgdump/).
 
 
     
