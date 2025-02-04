@@ -195,36 +195,48 @@ Es gibt mehrere Gratis-Programme, die versprechen, in Windows datenschutzrelevan
 * [Das Authentifzierungsspiel](https://auth-game.fly.dev/) In diesem Spiel wollen wir euch zeigen, wie einfach es ist, einen Passwortmanager zu benutzen und auch, vor welchen Bedrohungen euch dieser schützen kann. Hierfür benötigt ihr am besten ein fertig eingerichteten Passwortmanager oder ein Notizbuch. Beides kann genutzt werden, um eure Passwörter an einem wiederfindbaren Ort zu sammeln. 
  
 ## Alternative Messenger
+### Signal
 * [Signal](https://signal.org/)
-    * [veröffentlichter Server-Quellcode](https://github.com/signalapp/Signal-Server)
-    * [Signal-cli](https://github.com/AsamK/signal-cli/releases/tag/v0.8.4.1) Signal auf Kommandozeile
-    * [Signal FOSS](https://www.twinhelix.com/apps/signal-foss/) Signal ohne Google-Bibliotheken
-    * Spektrum.de [Mythos Signal: Licht und Schatten beim nicht kommerziellen Messenger](https://www.spektrum.de/news/mythos-signal-licht-und-schatten-beim-nicht-kommerziellen-messenger/2190072) Lange galt Signal als Wunderwaffe gegen Überwachung. Teile der Tech-Community und der digitalen Zivilgesellschaft kritisieren die App jedoch wegen überraschender Datenflüsse, organisatorischer Intransparenz und undemokratischer Machtverhältnisse.
-    * [Why not Signal](https://dessalines.github.io/essays/why_not_signal.html) Während dieser Text sehr ausführlich die Nachteile Signals beschreibt, geht er leider händewedelnd über die Nachteile der aufgeführten Alternativen hinweg, beispielsweise den Umstand, dass die bei Matrix anfallenden Metadaten nicht gelöscht werden können oder dass Briar nicht nur kräftig die Akkulaufzeit verringert, sondern auch ständig online sein muss, um eventuell eintreffende Nachrichten zu empfangen, die anderfalls stillschweigend verloren gehen. Die lobenswerte Sorgfalt, die bei der Aufzählung der Signal-Mängel angewandt wurde, hätte der Analyse der Alternativen gut getan.
-    * [Signal: Unsere Push-Benachrichtigungen zeigen Spionen nichts](https://www.heise.de/news/Signal-Unsere-Push-Benachrichtigungen-sind-sicher-vor-Spionage-9573116.html) Geheimdienste sammeln Daten aus Push-Benachrichtigungen von Android und iPhone. Beim Signal-Messenger ist da wenig zu holen, sagt die Stiftung.​
-    * [mollyim-android-unifiedpush](https://github.com/mollyim/mollyim-android-unifiedpush) Molly is a hardened version of Signal for Android, the fast simple yet secure messaging app by Signal Foundation. Back in 2018, Signal allowed the user to set a passphrase to secure the local message database. But this option was removed with the introduction of file-based encryption on Android. Molly brings it back again with additional security features. Molly connects to the Signal server, so you can chat with your Signal contacts seamlessly. Please remember to review the Signal Terms & Privacy Policy before signing up. We update Molly every two weeks to include the latest features and bug fixes from Signal. The exceptions are security issues, which are patched as soon as fixes become available.
+* [veröffentlichter Server-Quellcode](https://github.com/signalapp/Signal-Server)
+* [Signal-cli](https://github.com/AsamK/signal-cli/releases/tag/v0.8.4.1) Signal auf Kommandozeile
+* [Signal FOSS](https://www.twinhelix.com/apps/signal-foss/) Signal ohne Google-Bibliotheken
+* Spektrum.de [Mythos Signal: Licht und Schatten beim nicht kommerziellen Messenger](https://www.spektrum.de/news/mythos-signal-licht-und-schatten-beim-nicht-kommerziellen-messenger/2190072) Lange galt Signal als Wunderwaffe gegen Überwachung. Teile der Tech-Community und der digitalen Zivilgesellschaft kritisieren die App jedoch wegen überraschender Datenflüsse, organisatorischer Intransparenz und undemokratischer Machtverhältnisse.
+* [Why not Signal](https://dessalines.github.io/essays/why_not_signal.html) Während dieser Text sehr ausführlich die Nachteile Signals beschreibt, geht er leider händewedelnd über die Nachteile der aufgeführten Alternativen hinweg, beispielsweise den Umstand, dass die bei Matrix anfallenden Metadaten nicht gelöscht werden können oder dass Briar nicht nur kräftig die Akkulaufzeit verringert, sondern auch ständig online sein muss, um eventuell eintreffende Nachrichten zu empfangen, die anderfalls stillschweigend verloren gehen. Die lobenswerte Sorgfalt, die bei der Aufzählung der Signal-Mängel angewandt wurde, hätte der Analyse der Alternativen gut getan.
+* [Signal: Unsere Push-Benachrichtigungen zeigen Spionen nichts](https://www.heise.de/news/Signal-Unsere-Push-Benachrichtigungen-sind-sicher-vor-Spionage-9573116.html) Geheimdienste sammeln Daten aus Push-Benachrichtigungen von Android und iPhone. Beim Signal-Messenger ist da wenig zu holen, sagt die Stiftung.​
+* [mollyim-android-unifiedpush](https://github.com/mollyim/mollyim-android-unifiedpush) Molly is a hardened version of Signal for Android, the fast simple yet secure messaging app by Signal Foundation. Back in 2018, Signal allowed the user to set a passphrase to secure the local message database. But this option was removed with the introduction of file-based encryption on Android. Molly brings it back again with additional security features. Molly connects to the Signal server, so you can chat with your Signal contacts seamlessly. Please remember to review the Signal Terms & Privacy Policy before signing up. We update Molly every two weeks to include the latest features and bug fixes from Signal. The exceptions are security issues, which are patched as soon as fixes become available.
+* [How to: Use Signal](https://ssd.eff.org/module/how-to-use-signal) Signal is a free and open-source application for Android, iOS, and desktop that employs end-to-end encryption  to keep communications safe. Signal has certified to courts that it only maintains two types of user data  available to law enforcement: timestamps of when each account was created and the date that each account last connected to the Signal service.
+
+### Threema
 * [Threema](https://threema.ch/)
+
+### Wire
 * [Wire](https://wire.com/)
+
+### Element
 * [Element](https://element.io/) ([Matrix](https://matrix.org/docs/projects/client/element))
     * [Fluffy](https://fluffychat.im/) [Google Playstore](https://play.google.com/store/apps/details?id=chat.fluffy.fluffychat)
     * [Ein Fehler in der Matrix](https://www.cr-online.de/blog/2022/06/02/ein-fehler-in-der-matrix/) 
 Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende-verschlüsselten Messengerdienst mit dem üblichen Funktionsumfang auf eigenem Metall zu betreiben. Unter Kontrollgesichtspunkten ist das erstmal super. Die öffentliche Verwaltung in Frankreich setzt deshalb künftig komplett auf dieses Konzept.1 Alles gut? Leider nicht ganz.
+### Omemo
 * OMEMO (XMPP)
     * [Dino](https://dino.im/)
     * [Gajim](https://gajim.org)
     * [Conversations](https://conversations.im/)
+### Briar
 * [Briar](https://briarproject.org/) versendet Nachrichten über das Tor-Netz und kann im Extremfall komplett ohne Internet Daten via Bluetooth übertragen
+### Delta Chat
 * [Delta Chat](https://delta.chat/) (SMTP)
+### Ricochet
 * [Ricochet Refresh](https://www.ricochetrefresh.net/) Ricochet Refresh is a peer-to-peer messenger app that uses Tor to connect clients. When you start Ricochet Refresh it creates a Tor hidden service on your computer. The address of this hidden service is your anonymous identity on the Tor network and how others will be able to communicate with you. Ricochet Refresh uses the original Ricochet open-source software but has improved on it substantially, such as upgrading its security and making it compatible with Tor Onion Services v3 instead of the older v2.
-* Messenger-Vergleiche
-    * [Freie Messenger](https://www.freie-messenger.de/)
-    * [Messenger-Matrix von Mike Kuketz](https://www.messenger-matrix.de)
-    * [Vergleichstabelle 1](https://www.picflash.org/viewer.php?img=p9NCOGXNV05TY.png)
-    * [Vergleichstabelle 2](https://www.cryptoparty.in/cryptopartykbn/messenger)
-    * [Vergleichstabelle 3](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU/htmlview) als Google-Doc
-    * [Secure messaging apps in comparison](https://www.securemessagingapps.com/)
-    * [Whatsapp-Alternativen - Messenger im Überblick](https://www.verbraucherzentrale.de/wissen/digitale-welt/datenschutz/whatsappalternativen-messenger-im-ueberblick-13055)
-    * [Neue WhatsApp-Datenschutzrichtlinie: Messengerdienste im Vergleich](https://netzpolitik.org/2021/neue-whatsapp-datenschutzrichtlinie-messengerdienste-im-vergleich/#)
+### Messenger-Vergleiche
+* [Freie Messenger](https://www.freie-messenger.de/)
+* [Messenger-Matrix von Mike Kuketz](https://www.messenger-matrix.de)
+* [Vergleichstabelle 1](https://www.picflash.org/viewer.php?img=p9NCOGXNV05TY.png)
+* [Vergleichstabelle 2](https://www.cryptoparty.in/cryptopartykbn/messenger)
+* [Vergleichstabelle 3](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU/htmlview) als Google-Doc
+* [Secure messaging apps in comparison](https://www.securemessagingapps.com/)
+* [Whatsapp-Alternativen - Messenger im Überblick](https://www.verbraucherzentrale.de/wissen/digitale-welt/datenschutz/whatsappalternativen-messenger-im-ueberblick-13055)
+* [Neue WhatsApp-Datenschutzrichtlinie: Messengerdienste im Vergleich](https://netzpolitik.org/2021/neue-whatsapp-datenschutzrichtlinie-messengerdienste-im-vergleich/#)
 * c't-Artikel zu Whatsapp-Alternativen
     * [Immer wieder WhatsApp? Eine Übersicht über Messenger-Dienste](https://www.heise.de/ct/artikel/Immer-wieder-WhatsApp-Eine-Uebersicht-ueber-Messenger-Dienste-4416561.html)
     * [Sieben Messenger gegen WhatsApp](https://www.heise.de/select/ct/2019/11/1558438610171788)
@@ -235,16 +247,23 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
 * [FBI über Messenger: An welche Daten von WhatsApp & Co. US-Strafverfolger kommen ](https://www.heise.de/news/FBI-ueber-Messenger-An-welche-Daten-von-WhatsApp-Co-US-Strafverfolger-kommen-6282456.html)
 * [Goldbug](http://goldbug.sourceforge.net/)
 * heise+: [Messenger-IDs: Warum Messenger nach Ihrer Telefonnummer fragen](https://www.heise.de/hintergrund/Messenger-IDs-Warum-Messenger-nach-Ihrer-Telefonnummer-fragen-5066901.html?seite=all)
+### SimpleX
 * [SimpleX Chat](https://github.com/simplex-chat) Der Messenger wirbt mit Dezentralität sowie Vermeidung von Metadaten. Allerdings befindet sich das Projekt noch in einem sehr frühen Entwicklungsstadium und eignet sich nur für Technikaffine. Wer uns testweise kontaktieren möchte, kann dies unter [dieser Adresse:](https://simplex.chat/contact/#/?v=1&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2Fif9WJLaxuFXDC61EK6jzdw2vS8ufy_VK%23MCowBQYDK2VuAyEAGPjf6hkFpUronsxUOAlkJ-qjUy3muP58CmhjGwqhT1o%3D))
 * [Link Previews: How a Simple Feature Can Have Privacy and Security Risks](https://www.mysk.blog/2020/10/25/link-previews/)
+### Session
 * [Don't use Session (Signal fork)](https://soatok.blog/2025/01/14/dont-use-session-signal-fork/) The main reason I said to avoid [Session](https://getsession.org/), all those months ago, was simply due to their [decision to remove forward secrecy](https://web.archive.org/web/20241225131654/https://getsession.org/session-protocol-explained) (which is an important security property of cryptographic protocols they inherited for free when they forked libsignal). Lack of forward secrecy puts you in the scope of [Key Compromise Impersonation (KCI) attacks](https://www.cryptologie.net/article/372/key-compromise-impersonation-attacks-kci/), which serious end-to-end encryption apps should prevent if they want to sit at the adults table. This is why I [don’t recommend Tox](https://github.com/TokTok/c-toxcore/issues/426).
+### Tox
 * [Tox Handshake Vulnerable to KCI](https://github.com/TokTok/c-toxcore/issues/426) [(Link to Tox messsenger)](https://tox.chat/)I found this source code confusingly written (and downright scary at times) and the specification woefully underspecified and inexplicit, so it's entirely possible my understanding of the handshake is inaccurate. But on the off-chance that 5 minutes of source code review at 4am yielded something accurate, here is my understanding of the handshake.
+### Berty
 * [Berty](https://berty.tech/) kommuniziert über ein P2P-Netz. Leider gelingt es nicht zuverlässig, sich miteinander zu verknüpfen. Das gegenseitige Scannen von QR-Codes scheint noch halbwegs zu funktionieren, aber der Einladungslink führt zu einer Fehlermeldung. Auch der Nachrichtenaustausch schlägt häufig fehl. In unseren Tests gingen drei Viertel der Testnachrichten verloren.
+### Zulip
 * [Zulip](https://zulip.com/) Organized chat for distributed teams
+### Telegram
+* heise: [Faktencheck: Telegram ist weniger privat als andere Messenger](https://www.heise.de/hintergrund/Faktencheck-Telegram-ist-weniger-privat-als-andere-Messenger-9860521.html) Die Annahme, Telegram sei besonders sicher, scheint sich hartnäckig zu halten. Fakt ist: In puncto Verschlüsselung ist Telegram der Konkurrenz unterlegen.​ 
+### Allgemein
 * [Messenger- und Video-Dienste: Bundeskartellamt zu Datenschutz, Transparenz und Interoperabilität](https://www.bundeskartellamt.de/SharedDocs/Meldung/DE/Pressemitteilungen/2023/17_05_2023_SU_MD.html) [PDF](https://www.bundeskartellamt.de/SharedDocs/Publikation/DE/Sektoruntersuchungen/Sektoruntersuchung_MessengerVideoDienste.pdf?__blob=publicationFile&v=4)
   * heise: [Bundeskartellamt: Messenger-Dienste verletzen Verbraucherrechte ](https://www.heise.de/news/Bundeskartellamt-Messenger-Dienste-verletzen-Verbraucherrechte-9058967.html) Die deutschen Kartellwächter haben eine umfangreiche Untersuchung zu Video- und Messengerdiensten vorgelegt. Fazit: Datenschutz ist vielen zu unwichtig. "Ebenfalls verbraucherrechtlich heikel sei, dass Dienste beim Synchronisieren von Kontakten auch jene Personen erfassen, die bisher nicht bei dem jeweiligen Dienst registriert sind. Das könnten Verstöße gegen die DSGVO sein, wenn die Daten dauerhaft gespeichert würden. Dies gelte auch dann, wenn die Telefonnummern verschlüsselt dargestellt werden. Einige Dienste könnten die Verbraucher besser darüber informieren, wie die Sicherheit der Kommunikation gewährleistet wird, zum Beispiel mit Ende-zu-Ende-Verschlüsselung, meint das Bundeskartellamt."
 * Der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit [Messenger-Dienste in der Kinder- und Jugendarbeit](https://datenschutz-hamburg.de/fileadmin/user_upload/HmbBfDI/Datenschutz/Informationen/240724_HmbBfDI_Messenger_Dienste_Kinder_und_Jugendlicharbeit.pdf) Messenger-Dienste können eine Chance sein, in der Kinder-, Jugend- und Familienhilfe die jeweiligen Zielgruppen zu erreichen und jungen Menschen die Teilhabe zu vielfältigen, kostenlosen und nichtkommerziellen Kinder- und Jugendangeboten zu ermöglichen. Der Auftrag, sowohl zur Teilhabe zu befähigen als auch vor Risiken zu schützen, leitet sich aus der UN-Kinderrechtskonvention und aus dem Sozialgesetzbuch VIII ab.
-* heise: [Faktencheck: Telegram ist weniger privat als andere Messenger](https://www.heise.de/hintergrund/Faktencheck-Telegram-ist-weniger-privat-als-andere-Messenger-9860521.html) Die Annahme, Telegram sei besonders sicher, scheint sich hartnäckig zu halten. Fakt ist: In puncto Verschlüsselung ist Telegram der Konkurrenz unterlegen.​ 
 
 ## Alternative Suchmaschinen
 * [YaCy](https://yacy.net/) - eine verteilte Suchmaschine
@@ -504,6 +523,10 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
 * SRF: [Cookie-Banner - So teilen die grössten Schweizer Webseiten Ihre heiklen Daten](https://www.srf.ch/news/schweiz/cookie-banner-so-teilen-die-groessten-schweizer-webseiten-ihre-heiklen-daten) Alter, Standort, Vorlieben – wer Online liest wird mitgelesen. SRF zeigt, wie gross das Geschäft mit den Daten ist und welche Webseiten besonders heikle Daten teilen.
 * envanto tuts+ [How to Self-Host Google Fonts on Your Own Server](https://webdesign.tutsplus.com/how-to-self-host-google-fonts--cms-34775t) Hosting Google Fonts locally on your own server has many advantages, such as better privacy and security, offline availability, and improved performance. In this tutorial, we show you how to self-host Google Fonts instead of pulling them from Google’s CDN.
 * [Security Education Companion](https://www.securityeducationcompanion.org/) SEC is a resource for people teaching digital security to their friends and neighbors. If you’d like to help your community learn about digital security but aren’t sure where to start, these articles, lesson plans, and teaching materials are for you!
+* Surveillance Self-Defense (EFF)
+  * [Attending a Protest](https://ssd.eff.org/module/attending-protest) Protecting your electronic devices and digital assets  before, during, and after a protest is vital to keeping yourself and your information safe, as well as getting your message out. Theft, damage, confiscation, or forced deletion of media can disrupt your ability to publish your experiences. At the same time, those engaging in protest may be subject to search or arrest, or have their movements and associations surveilled.
+  * [How to: Use Signal](https://ssd.eff.org/module/how-to-use-signal) Signal is a free and open-source application for Android, iOS, and desktop that employs end-to-end encryption  to keep communications safe. Signal has certified to courts that it only maintains two types of user data  available to law enforcement: timestamps of when each account was created and the date that each account last connected to the Signal service.
+  * [Want a security starter pack?](https://ssd.eff.org/playlist/want-security-starter-pack) Surveillance impacts all of us, no matter where we live or what we do. While some of us might be directly affected, others may simply want to know what measures they can take to protect their communications and data  from spying. This introductory playlist will help you discover how to assess your personal risk , protect your most cherished communications and information, and start thinking about incorporating privacy-enhancing tools into your daily routine.
     
 ## Schnitzeljagd
 Unter https://cloud.datenburg.org/s/csXbXDseep7Qo6N findest Du die Keepass-Datenbank Netzwaerts.kdbx. Um sie öffnen zu können, brauchst Du ein Passwort. Suche hierzu im Netz nach einem Zitat von Alan Moore, das mit “People shouldn't be afraid of their government." beginnt. Der _zweite_ Satz (mit Groß- und Kleinschreibung, Freizeichen und Punkt, aber ohne Anführungsstriche) ist das Passwort, mit dem Du die Keepass-Datei geöffnet bekommst. Du findest dort einen einzigen Eintrag. Dieser Eintrag hat ein Kommentarfeld mit weiteren Anweisungen. Viel Erfolg!)
