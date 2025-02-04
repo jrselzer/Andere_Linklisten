@@ -14,3 +14,4 @@ tags: Materialliste, Fake News, Falschnachrichten, Linkliste
 ## Links
 * The Glass Room: [Misinformation](https://www.theglassroom.org/en/misinformation-edition/exhibits/we-all-share-opinions-connect/) Everyone shares—though some more than others. Do we always know the true nature of the content we like, endorse or forward?
 * bpb: [#StopFakeNews - Fake News erkennen](https://www.bpb.de/themen/medien-journalismus/stopfakenews/) Fake or Fact? In Sozialen Medien kursieren immer mehr Falschmeldungen über das Coronavirus. Hier finden Sie Tipps, wie man Fake News erkennt und wie sich diese bekämpfen lassen.
+* metager.de [Fakten-Prüfung contra Fake-News](https://metager.de/hilfe/faktencheck)
