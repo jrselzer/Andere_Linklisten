@@ -528,6 +528,13 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
   * [How to: Use Signal](https://ssd.eff.org/module/how-to-use-signal) Signal is a free and open-source application for Android, iOS, and desktop that employs end-to-end encryption  to keep communications safe. Signal has certified to courts that it only maintains two types of user data  available to law enforcement: timestamps of when each account was created and the date that each account last connected to the Signal service.
   * [Want a security starter pack?](https://ssd.eff.org/playlist/want-security-starter-pack) Surveillance impacts all of us, no matter where we live or what we do. While some of us might be directly affected, others may simply want to know what measures they can take to protect their communications and data  from spying. This introductory playlist will help you discover how to assess your personal risk , protect your most cherished communications and information, and start thinking about incorporating privacy-enhancing tools into your daily routine.
   * [Databroker Files: Sieben Wege, um deinen Standort vor Databrokern zu schützen](https://netzpolitik.org/2025/databroker-files-sieben-wege-um-deinen-standort-vor-databrokern-zu-schuetzen/) Databroker verkaufen die Handy-Standortdaten von Millionen Menschen weltweit. Zehntausende App sind betroffen, wie Veröffentlichungen von netzpolitik.org und Recherche-Partnern aus sechs Ländern zeigen. Das kannst du tun, um dich zu schützen.
+    * Mobile Advertising ID abschalten
+    * Apps den Standort-Zugriff entziehen
+    * Ortungs-Technologien abschalten
+    * Ortung via IP-Adresse eindämmen
+    * Tracking ablehnen, wo es nur geht
+    * Umsatteln auf Tracking-freie Alternativen
+    * Sich für politische Lösungen starkmachen
     
 ## Schnitzeljagd
 Unter https://cloud.datenburg.org/s/csXbXDseep7Qo6N findest Du die Keepass-Datenbank Netzwaerts.kdbx. Um sie öffnen zu können, brauchst Du ein Passwort. Suche hierzu im Netz nach einem Zitat von Alan Moore, das mit “People shouldn't be afraid of their government." beginnt. Der _zweite_ Satz (mit Groß- und Kleinschreibung, Freizeichen und Punkt, aber ohne Anführungsstriche) ist das Passwort, mit dem Du die Keepass-Datei geöffnet bekommst. Du findest dort einen einzigen Eintrag. Dieser Eintrag hat ein Kommentarfeld mit weiteren Anweisungen. Viel Erfolg!)
