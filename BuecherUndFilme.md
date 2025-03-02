@@ -28,6 +28,7 @@
 - William Gibson: [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer)
 - Philip K Dick: [Do Androids Dream of Electric Sheep?](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)
 - Marc Elsberg: [Blackout](https://marcelsberg.com/buecher?isbn=9783442380299)
+- Marc Elsberf: [ZERO - Sie wissen, was du tust](ZERO - Sie wissen, was du tust)
 
 ## Filme - Dokumentationen
 - Alles ist Eins - außer der 0.
