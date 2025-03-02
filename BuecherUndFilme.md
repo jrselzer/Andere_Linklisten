@@ -28,7 +28,7 @@
 - William Gibson: [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer)
 - Philip K Dick: [Do Androids Dream of Electric Sheep?](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)
 - Marc Elsberg: [Blackout](https://marcelsberg.com/buecher?isbn=9783442380299)
-- Marc Elsberf: [ZERO - Sie wissen, was du tust](https://marcelsberg.com/buecher?isbn=9783734100932)
+- Marc Elsberg: [ZERO - Sie wissen, was du tust](https://marcelsberg.com/buecher?isbn=9783734100932)
 
 ## Filme - Dokumentationen
 - Alles ist Eins - außer der 0.
@@ -36,6 +36,7 @@
 - Democracy - im Rausch der Daten
 - Zero Days
 - Pre Crime
+- The Great Hack
 
 ## Spielfilme und Serien
 - Who am I?
@@ -43,6 +44,7 @@
 - Snowden
 - 23 - nichts ist so wie es scheint
 - Mr Robot
+- Wargames
 - [Hackers - boot up or shut up](https://en.wikipedia.org/wiki/Hackers_(film))
 
 ## Vorträge
