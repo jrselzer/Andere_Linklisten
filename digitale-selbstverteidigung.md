@@ -597,6 +597,7 @@ Allgemein werden Dienste, welche die automatische Löschung der eigenen Daten be
 * [Shennina - Automating Host Exploitation with AI](https://github.com/mazen160/shennina) Shennina is an automated host exploitation framework. The mission of the project is to fully automate the scanning, vulnerability scanning/analysis, and exploitation using Artificial Intelligence. Shennina is integrated with Metasploit and Nmap for performing the attacks, as well as being integrated with an in-house Command-and-Control Server for exfiltrating data from compromised machines automatically.
 * [Portmaster](https://safing.io/) is a free and open-source application firewall that does the heavy lifting for you. Restore privacy and take back control over all your computer's network activity.
 * Netzpolitik.org: [Jetzt testen: Wurde mein Handy-Standort verkauft?](https://netzpolitik.org/2024/databroker-files-jetzt-testen-wurde-mein-handy-standort-verkauft/) Unsere Recherche mit dem BR zeigt: Datenhändler verkaufen die Standortdaten von Millionen Menschen in Deutschland. Uns liegt ein Datensatz mit Kennungen von bis zu 11 Millionen Geräten vor. Mit diesem Databroker-Checker kannst du jetzt testen, ob auch dein Gerät getrackt wurde.
+* [Ausweiskopie - My identity card copy](https://github.com/Varbin/ausweiskopie) Easily watermark and hide information in copies of your (german) identity card! Ausweiskopien schwärzen und einfach kenntlich machen.
 
 ### OSINT
 * [Empfehlungsecke: OSINT-Tools](https://www.kuketz-blog.de/empfehlungsecke-osint-tools/)
