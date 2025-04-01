@@ -130,7 +130,7 @@ Es gibt mehrere Gratis-Programme, die versprechen, in Windows datenschutzrelevan
 * [O & O Shutup](https://www.oo-software.com/de/shutup10)
 * [Donotspy](https://pxc-coding.com/donotspy11/)
 * [W10privacy](https://www.w10privacy.de/)
-* [Windows 10 Privaxy.exe}(https://wiki.piratenpartei.de/WIN)
+* [Windows 10 Privaxy.exe](https://wiki.piratenpartei.de/WIN)
  ### Android
  ### iOS
 
