@@ -85,6 +85,7 @@ Materialien zur digitalen Selbstverteidigung
 * Gmail bietet die Möglichkeit, die vorhandene Adresse um einen mit einem Pluszeichen abgetrennten Zusatz zu erweitern, zum Beispiel ```<meinName>+<variablerZusatz>@gmail.com```. Das Pluszeichen wird allerdings von einigen Webformularen nicht anerkannt. Darüber hinaus ist der Trick natürlich bekannt, so dass sich leicht von einer dergestalt aufgebauten Mailadresse auf die eigentliche Hauptadresse schließen lässt.
 * Firefox-Relay bietet die Möglichkeit der Einrichtung von Wegwerf-Mailadressen
 * [anonbox](https://unbox.at/) Mit der kostenlosen Open Source Lösung unbox.at schützt du deinen Posteingang mit E-Mail-Aliasnamen. Antworte anonym auf weitergeleitete E-Mails. Der Absender erhält die E-Mail so, als käme sie von deinem Alias. Oder starte eine Konversation direkt von deinem Alias aus.
+
 ## Datenträgerverschlüsselung
 * [Veracrypt](https://veracrypt.fr/) verschlüsselt wahlweise ganze Datenträger oder erstellt verschlüsselte virtuelle Laufwerke in frei wählbarer Größe.
 * [Cryptomator](https://cryptomator.org/) With Cryptomator, the key to your data is in your hands. Cryptomator encrypts your data quickly and easily. Afterwards you upload them protected to your favorite cloud service.
@@ -126,13 +127,16 @@ Die hier beschriebenen Werkzeuge arbeiten vor allem auf mechanischen Festplatten
 * [Datenschutz: utiq-Tracking in drei Schritten deaktivieren/verhindern(https://www.kuketz-blog.de/datenschutz-utiq-tracking-in-drei-schritten-deaktivieren-verhindern/) Das neue Tracking-Verfahren nutzt das Wissen der Telekommunikationskonzerne darüber, wem welcher Internetanschluss gehört, um Websites und Online-Werbung zu personalisieren. Die Methode wird von den Machern bewusst als europäische und datenschutzfreundliche Alternative in der AdTech-Branche positioniert. „Utiq ist der authentische Einwilligungs-Service, der verantwortungsvolles digitales Marketing ermöglicht.“
 * Mike Kuketz [Für Anfänger/Bequeme: Werbung und Tracker unter iOS/Android systemweit verbannen](https://www.kuketz-blog.de/fuer-anfaenger-bequeme-werbung-und-tracker-unter-ios-android-systemweit-verbannen/) Die meisten Apps aus den Stores von Google und Apple beinhalten Software-Bausteine von Drittanbietern, die dem Nutzer Werbung einblenden oder seine Aktivität auf Schritt und Tritt verfolgen. Als Nutzer hat man allerdings keinen Einblick in die App bzw. sieht ihr von »außen« nicht an, wie sehr die Werbe- und Trackingbausteine die Sicherheit und den Datenschutz gefährden. Nachfolgend möchte ich eine einfache Lösung für Android- und iOS-Nutzer vorstellen, um sich vor dieser (größtenteils rechtswidrigen) Datensammlung zu schützen. Zunächst wird kurz erläutert, wie der Schutz vor Werbung und Trackern technisch funktioniert. Anschließend wird für beide Plattformen eine bebilderte Anleitung bereitgestellt, um die Schutzmaßnahme umzusetzen. Nach erfolgter Umsetzung werden Werbung, Tracker und Co. sowohl beim Surfen im Internet (via Browser) als auch in allen Apps gefiltert/blockiert.
 * [Smartphone, don't spy!](https://smartphone-dont-spy.de/en) This checklist is designed to help you check your smartphone security in a fun way with specific tips. Points and levels in different categories should encourage you to tick off as many things as possible.
+
 ### Windows
 Es gibt mehrere Gratis-Programme, die versprechen, in Windows datenschutzrelevante Einstellungen zu verbessern. Die Erwartungen an die Leistungsfähigkeit dieser Programme sollten nicht zu hoch angesetzt werden, meint ein [Test in der c't](https://www.heise.de/select/ct/2017/1/1483282098626844) hinter einer Bezahlschranke. Getestet wurde
 * [O & O Shutup](https://www.oo-software.com/de/shutup10)
 * [Donotspy](https://pxc-coding.com/donotspy11/)
 * [W10privacy](https://www.w10privacy.de/)
 * [Windows 10 Privaxy.exe](https://wiki.piratenpartei.de/WIN)
+ 
  ### Android
+ 
  ### iOS
 
 ## Passwortverwaltung
@@ -260,7 +264,10 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
 ### Zulip
 * [Zulip](https://zulip.com/) Organized chat for distributed teams
 ### Telegram
-* heise: [Faktencheck: Telegram ist weniger privat als andere Messenger](https://www.heise.de/hintergrund/Faktencheck-Telegram-ist-weniger-privat-als-andere-Messenger-9860521.html) Die Annahme, Telegram sei besonders sicher, scheint sich hartnäckig zu halten. Fakt ist: In puncto Verschlüsselung ist Telegram der Konkurrenz unterlegen.​ 
+* heise: [Faktencheck: Telegram ist weniger privat als andere Messenger](https://www.heise.de/hintergrund/Faktencheck-Telegram-ist-weniger-privat-als-andere-Messenger-9860521.html) Die Annahme, Telegram sei besonders sicher, scheint sich hartnäckig zu halten. Fakt ist: In puncto Verschlüsselung ist Telegram der Konkurrenz unterlegen.​
+### Volla
+* [Messenger-Alternative: Volla Messages mit großen Versprechungen ](https://www.heise.de/news/Messenger-Alternative-Volla-Messages-mit-grossen-Versprechungen-10352561.html) Die angebliche "WhatsApp- und Telegram-Alternative" Volla Messages wird mit Lob überhäuft, kann aber noch(?) kaum echte Vorteile ins Feld führen.
+  
 ### Allgemein
 * [Messenger- und Video-Dienste: Bundeskartellamt zu Datenschutz, Transparenz und Interoperabilität](https://www.bundeskartellamt.de/SharedDocs/Meldung/DE/Pressemitteilungen/2023/17_05_2023_SU_MD.html) [PDF](https://www.bundeskartellamt.de/SharedDocs/Publikation/DE/Sektoruntersuchungen/Sektoruntersuchung_MessengerVideoDienste.pdf?__blob=publicationFile&v=4)
   * heise: [Bundeskartellamt: Messenger-Dienste verletzen Verbraucherrechte ](https://www.heise.de/news/Bundeskartellamt-Messenger-Dienste-verletzen-Verbraucherrechte-9058967.html) Die deutschen Kartellwächter haben eine umfangreiche Untersuchung zu Video- und Messengerdiensten vorgelegt. Fazit: Datenschutz ist vielen zu unwichtig. "Ebenfalls verbraucherrechtlich heikel sei, dass Dienste beim Synchronisieren von Kontakten auch jene Personen erfassen, die bisher nicht bei dem jeweiligen Dienst registriert sind. Das könnten Verstöße gegen die DSGVO sein, wenn die Daten dauerhaft gespeichert würden. Dies gelte auch dann, wenn die Telefonnummern verschlüsselt dargestellt werden. Einige Dienste könnten die Verbraucher besser darüber informieren, wie die Sicherheit der Kommunikation gewährleistet wird, zum Beispiel mit Ende-zu-Ende-Verschlüsselung, meint das Bundeskartellamt."
