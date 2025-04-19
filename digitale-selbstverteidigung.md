@@ -246,12 +246,14 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
     * [Immer wieder WhatsApp? Eine Übersicht über Messenger-Dienste](https://www.heise.de/ct/artikel/Immer-wieder-WhatsApp-Eine-Uebersicht-ueber-Messenger-Dienste-4416561.html)
     * [Sieben Messenger gegen WhatsApp](https://www.heise.de/select/ct/2019/11/1558438610171788)
     * [Grundlagen sicherer privater Kommunikation](https://www.heise.de/select/ct/2019/11/1558438564072031)
+    * [Sechs sichere Messenger im Vergleich](https://www.heise.de/ratgeber/Sechs-sichere-Messenger-im-Vergleich-10297137.html) Schlicht oder verspielt, aber jedenfalls sicher? Wir vergleichen sechs Ende-zu-Ende-verschlüsselte Messenger mit unterschiedlichen Prioritäten und Konzepten. 
 * [Datenschutzfreundliche und sichere WhatsApp-Alternativen](https://www.kuketz-blog.de/datenschutzfreundliche-und-sichere-whatsapp-alternativen/)
 * [Messenger-Apps auf dem Smartphone – Digitaler Schutzschild Teil6](https://www.kuketz-blog.de/messenger-apps-auf-dem-smartphone-digitaler-schutzschild-teil6/)
 * [Internes Dokument verrät, welche Daten das FBI von welchem Messenger erhält](https://www.derstandard.at/story/2000131585109/internes-dokument-verraet-welche-daten-das-fbi-von-welchem-messenger)
 * [FBI über Messenger: An welche Daten von WhatsApp & Co. US-Strafverfolger kommen ](https://www.heise.de/news/FBI-ueber-Messenger-An-welche-Daten-von-WhatsApp-Co-US-Strafverfolger-kommen-6282456.html)
 * [Goldbug](http://goldbug.sourceforge.net/)
 * heise+: [Messenger-IDs: Warum Messenger nach Ihrer Telefonnummer fragen](https://www.heise.de/hintergrund/Messenger-IDs-Warum-Messenger-nach-Ihrer-Telefonnummer-fragen-5066901.html?seite=all)
+  
 ### SimpleX
 * [SimpleX Chat](https://github.com/simplex-chat) Der Messenger wirbt mit Dezentralität sowie Vermeidung von Metadaten. Allerdings befindet sich das Projekt noch in einem sehr frühen Entwicklungsstadium und eignet sich nur für Technikaffine. Wer uns testweise kontaktieren möchte, kann dies unter [dieser Adresse:](https://simplex.chat/contact/#/?v=1&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2Fif9WJLaxuFXDC61EK6jzdw2vS8ufy_VK%23MCowBQYDK2VuAyEAGPjf6hkFpUronsxUOAlkJ-qjUy3muP58CmhjGwqhT1o%3D))
 * [Link Previews: How a Simple Feature Can Have Privacy and Security Risks](https://www.mysk.blog/2020/10/25/link-previews/)
