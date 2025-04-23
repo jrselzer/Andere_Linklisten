@@ -328,6 +328,8 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
         1. Vertraue niemandem
         1. Sicherheitsstufe einstellen
         1. Tails benutzen
+* [Is Tor Trustworthy and Safe?](https://cyberinsider.com/tor/) There is a lot of misinformation being promoted in various privacy circles about Tor. This article will examine some facts about Tor and assess whether it is the infallible privacy tool it’s made out to be by some.
+#### Entanonymisierung im Tor-Netz
 * Simplified Privacy: [How you can be deanonymized through Tor](https://simplifiedprivacy.com/how-you-can-be-deanonymized-through-tor/) Tor is an excellent tool for privacy, and we do not recommend you avoid it.  However, there are many limitations to be aware of and ways of using it that can compromise your anonymity on Tor.  This article will discuss just a few of the ways, but there may be others that the public is unaware of.  For example in 2017, the FBI dropped a case against a school worker accused of downloading child pornography because the FBI would have rather let him go than reveal the source code for how they deanonymitized him through Tor.  [1] If you really want to get your privacy game to the next level, consider subscribing for free to our new content by email, by Session messenger, RSS feed, or Nostr.
    1. JavaScript based attacks
    1. Cookies
@@ -336,7 +338,6 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
    1. Compromised Entrance Guards
    1. Opening Files Outside Tor
    1. Ultrasonic Sounds
-#### Entanonymisierung im Tor-Netz
  * [Operation Liberty Lane (LE Running Gaurd and middle nodes to deanonymize HS users) ](https://www.reddit.com/r/TOR/comments/19benkx/operation_liberty_lane_le_running_gaurd_and/) Operation Liberty Lane (FBI/DHS joint operation) is a multi-national law enforcement operation that involves the United States, Brazil, Germany, and the United Kingdom, and targets users of illegal hidden services. It appears this once theoretical attack has been operationalized and has unmasked thousands of users. The NCA and FBI have jointly developed a software program called "Good Listener" that involves LE spinning up as many guard and middle nodes as possible, and then using a timing attack to correlate the IP at the malicious gaurd to the timing at the illegal HS. It appears that this is only possible once the HS has been identified and the traffic to it can be interecepted and fed into the program.There was a few posts previously about cases where users using TAILS and WHONIX were caught so a NIT was ruled out, we now have our answer. This next part is only a guess, but it's likely KAX17 was run by the German government in support of this operation.
  * heise: [Boystown-Ermittlungen: Mit der Stoppuhr auf Täterfang im Darknet](https://www.heise.de/news/Boystown-Ermittlungen-Mit-der-Stoppuhr-auf-Taeterfang-im-Darknet-9885038.html) Die Ermittlungsakte zum Boystown-Prozess enthält Hinweise auf eine Timing-Analyse, mit der Tor-Nutzer deanonymisiert werden können. Abhilfe ist nicht in Sicht.
  * DLF Kultur: [Tor-Netzwerk- Auch das Darknet kann überwacht werden](https://www.deutschlandfunkkultur.de/tor-netzwerk-auch-das-darknet-kann-ueberwacht-werden-dlf-kultur-231662a1-100.html) 
