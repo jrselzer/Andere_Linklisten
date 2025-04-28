@@ -627,6 +627,7 @@ Allgemein werden Dienste, welche die automatische Löschung der eigenen Daten be
 * [Raspberry Pi als Hacking-Werkzeug für SSL- und Man-in-the-Middle-Angriffe](https://www.heise.de/select/ct/2016/10/1463049049556018)
 * [Eblocker](https://eblocker.org/) Die weltweit erste Plug & Play-Lösung für werbefreies, anonymes Surfen und Jugendschutz auf allen Geräten.
 * [Pi-hole](https://pi-hole.net/) The Pi-hole® is a DNS sinkhole that protects your devices from unwanted content, without installing any client-side software.
+* [Adguard Home](https://adguard.com/en/adguard-home/overview.html) AdGuard Home is a network-wide software for blocking ads & tracking. After you set it up, it’ll cover ALL your home devices, and you don’t need any client-side software for that. With the rise of Internet-Of-Things and connected devices, it becomes more and more important to be able to control your whole network. [How to set up](https://github.com/AdguardTeam/AdGuardHome#getting-started)
 ### Kali Linux
 * [Kali Linux](https://www.kali.org/) is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering.
     * [Learn About the Best Features of Kali Linux](https://www.debugpoint.com/kali-linux-features/) Learn what the key best features and tools about Kali Linux and why it is so popular in the information security industry.
