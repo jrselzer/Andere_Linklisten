@@ -2,6 +2,7 @@
 ## TL,DR
 nein
 ## Langfassung
+- [Das Security-Märchen: Warum teure Antiviren-Abos überflüssig sind](https://winfuture.de/faq/304) Für viele Nutzer besteht der hauptsächliche Einsatz für die Si­cher­heit privater Rechner und Smartphones immer noch da­rin, ein Abo ei­ner An­ti­vi­ren-Soft­ware zu er­wer­ben. Aber auch, wenn es die Bran­che nicht gern hört: Das ist nicht der beste Weg.
 - [Das Privacy-Handbuch zu Virenscannern](https://www.privacy-handbuch.de/handbuch_90a1.htm)
 Für 90% der Windows Nutzer ist ein Virenscanner ein unverzichtbares Sicherheitstool aber nur 7% der Security Experten halten Virenscanner für sinnvoll. Warum sind Sicherheits­experten so skeptisch und bezeichnen diese Produktgruppe als [Schlangenöl](https://de.wikipedia.org/wiki/Schlangen%C3%B6l)?
 - [Schutz oder Schlangenöl? Erneute Diskussion über die Daseinsberechtigung von Anti-Viren-Software](https://www.heise.de/select/ct/2017/5/1488560529789980)
