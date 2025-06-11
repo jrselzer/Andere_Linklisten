@@ -1,4 +1,5 @@
 # Künstliche Intelligenz
+* [Tinker With a Neural Network Right Here in Your Browser.](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.25732&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) Don’t Worry, You Can’t Break It. We Promise.
 * [Geospy AI](https://geospy.ai/) Welcome to GeoSpy Public Demo. Photo location prediction using AI. Take a picture or select an existing one.
 * [Quillbot](https://quillbot.com/) QuillBot's AI-powered paraphrasing tool will enhance your writing
 * [GPT minus 1](https://www.gptminus1.com/) Fool GPT by randomly replacing words with synonyms in your text. Diese Seite wird von einigen Scannern als Malware gelistet. Bitte mit Vorsicht nutzen
