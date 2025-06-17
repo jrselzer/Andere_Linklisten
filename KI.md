@@ -71,6 +71,519 @@
 * DNIP: [Was der Turing-Test für die Gesellschaft bedeutet](https://dnip.ch/2024/07/18/was-der-turing-test-fuer-die-gesellschaft-bedeutet/) Vor einem knappen Jahrhundert hat sich Alan Turing mit den Fundamenten der heutigen Informatik beschäftigt: Kryptographie, Komplexität/Rechenaufwand, aber auch, ob und wie wir erkennen könnten, ob Computer „intelligent“ seien.
 * Deutschlandfunk: [Allgemeine KI -Wie weit noch bis zur Superintelligenz?](https://www.deutschlandfunk.de/wie-weit-noch-bis-zur-superintelligenz-dlf-a11e4806-100.html) Selbst Fachleute sind erstaunt über Fähigkeiten von KI, die in großen Sprachmodellen entstehen, ohne dass sie hineinprogrammiert wurden. Was passiert da gerade? Sind wir auf dem Weg in die maschinelle Superintelligenz – und muss uns das beunruhigen?
 * Heise: [KI-Update Deep-Dive: Was versteht KI?](https://www.heise.de/news/KI-Update-Deep-Dive-Was-versteht-KI-10008028.html) Die Philosophieprofessorin Sybille Krämer erklärt, wie sich das Sprachverständnis von Mensch und Maschine unterscheidet und warum wir uns trotzdem verstehen.
+ps://www.heise.de/news/KI-hilft-Historikern-Groesste-Erweiterung-antiker-Textquellen-seit-100-Jahren-10223401.html
+16:26
+
+https://www.tagesschau.de/wirtschaft/kuenstliche-intelligenz-industrie-klopapier-100.html
+21:22
+
+Fr., 3. Jan.
+
+https://rodneybrooks.com/predictions-scorecard-2025-january-01/
+14:46
+
+Sa., 4. Jan.
+
+https://www.heise.de/news/Hoechst-peinliche-Einfuehrung-von-KI-Redaktion-von-Wissenschaftsmagazin-kuendigt-10223994.html
+8:52
+
+https://www.mimikama.org/mimikama-bilderraetsel-echt-oder-ki/
+12:53
+
+So., 5. Jan.
+
+https://www.tagesspiegel.de/politik/umstrittener-text-in-der-welt-am-sonntag-wurde-elon-musks-pro-afd-artikel-von-einer-ki-geschrieben-12953668.html
+7:27
+
+Mo., 6. Jan.
+
+https://techcrunch.com/2025/01/05/openai-is-beginning-to-turn-its-attention-to-superintelligence/
+7:27
+
+Mi., 8. Jan.
+
+https://www.bsi.bund.de/dok/1121150
+9:58
+
+https://qz.com/john-deere-driverless-tractors-labor-shortages-1851733496
+10:46
+
+Do., 9. Jan.
+
+https://www.dropsitenews.com/p/new-dc-think-tank-staffed-entirely
+21:17
+
+Di., 14. Jan.
+
+https://t3n.de/news/weltwirtschaftsforum-so-massiv-wird-ki-die-joblage-veraendern-1668077/
+14:47
+
+Do., 16. Jan.
+
+https://www.theverge.com/2025/1/15/24343794/google-workspace-ai-features-free
+5:55
+
+Fr., 17. Jan.
+
+https://www.az-online.de/uelzen/stadt-uelzen/ki-wacht-nun-ueber-biomuell-im-landkreis-uelzen-93468223.html
+13:03
+
+Di., 21. Jan.
+
+https://www.spiegel.de/netzwelt/trump-streicht-vorgaben-fuer-kontrolle-von-kuenstlicher-intelligenz-a-fbed93e3-fe70-46f3-ab1e-891d7b81714f?sara_ref=re-so-app-sh
+13:05
+
+Do., 23. Jan.
+
+https://www.spiegel.de/netzwelt/apps/klage-in-kalifornien-linkedin-soll-privatnachrichten-von-millionen-nutzern-fuer-ki-training-verwendet-haben-a-e495c960-f4a0-45bf-a6e1-0a059b245d5e?sara_ref=re-so-app-sh
+11:40
+
+Di., 28. Jan.
+
+https://www.heise.de/news/Fragwuerdige-Forschung-aus-generativer-KI-bei-Google-Scholar-10258426.html
+5:50
+
+https://www.dw.com/de/datenarbeiter-verlierer-der-ki/video-71405645
+11:19
+
+Do., 30. Jan.
+
+https://arstechnica.com/tech-policy/2025/01/ai-haters-build-tarpits-to-trap-and-trick-ai-scrapers-that-ignore-robots-txt/
+6:27
+
+https://datenschutz-hamburg.de/news/ki-vo-diese-pflichten-und-verbote-gelten-ab-februar-2025
+10:21
+
+https://www.heise.de/news/DeepSeek-Malware-und-Betrueger-nutzen-den-Hype-Datenbank-offen-im-Netz-10261616.html
+10:44
+
+https://www.heise.de/news/Keine-KI-im-Spiel-US-Schriftstellerorganisation-vergibt-Guetesiegel-10263918.html
+22:40
+
+Di., 4. Feb.
+
+https://www.computerwoche.de/article/3812425/verdummt-durch-generative-ki.html
+8:52
+
+Fr., 7. Feb.
+
+https://github.com/ImagineAILab/ai-by-hand-excel
+7:55
+
+Sa., 8. Feb.
+
+https://www.spiegel.de/kultur/kino/oscars-und-kuenstliche-intelligenz-nach-kontroverse-um-emilia-perez-the-brutalist-oscar-academy-erwaegt-regelaenderung-a-1f82f9a2-27d4-4b12-b19e-d67db240154b?sara_ref=re-so-app-sh
+15:31
+
+Mo., 10. Feb.
+
+https://www.spiegel.de/ausland/kuenstliche-intelligenz-frankreich-will-mehr-als-100-milliarden-euro-investieren-a-6acc64a3-9a8f-4cda-a882-f00d51cb399e
+8:22
+
+Di., 11. Feb.
+
+https://www.heise.de/news/Frankreich-Hiatus-Koalition-ruft-zum-Widerstand-gegen-KI-auf-10275819.html
+7:32
+
+Mi., 12. Feb.
+
+https://www.heise.de/news/BBC-warnt-vor-fehlerhaften-KI-Nachrichtenzusammenfassungen-10278955.html
+9:52
+
+So., 16. Feb.
+
+https://t3n.de/news/deepseek-datenschuetzer-alarmiert-1672615/
+6:13
+
+https://decrypt.co/305878/new-open-source-ai-model-rivals-deepseeks-performance-with-far-less-training-data
+16:51
+
+Mo., 17. Feb.
+
+https://www.spiegel.de/netzwelt/netzpolitik/deepseek-suedkorea-sperrt-chinesischen-chatbot-wegen-datenschutzbedenken-a-09a11aa5-d61e-47ba-a95c-97c5798429f3?sara_ref=re-so-app-sh
+18:47
+
+Mo., 24. Feb.
+
+https://www.derstandard.de/story/3000000258526/musks-ki-chatbot-grok-schlug-todesstrafe-fuer-musk-und-trump-vor
+11:12
+
+https://www1.wdr.de/nachrichten/doctolib-arzttermine-praxen-patientendaten-ki-100.amp
+15:11
+
+Di., 25. Feb.
+
+https://dnip.ch/2023/12/11/marcel-pendelt-ki-und-vertrauen/
+8:08
+
+https://flowingdata.com/projects/dishonest-charts/
+13:05
+
+Mi., 26. Feb.
+
+https://futurism.com/microsoft-ceo-ai-generating-no-value
+20:27
+
+Do., 27. Feb.
+
+https://apnews.com/article/israel-palestinians-ai-technology-737bc17af7b03e98c29cec4e15d0f108
+13:20
+
+Sa., 1. März
+
+https://www.youtube.com/watch?v=rAEqP9VEhe8
+7:45
+
+https://www.youtube.com/watch?v=160F8F8mXlo
+7:52
+
+So., 2. März
+
+https://www.youtube.com/watch?v=xnGimEqnyBE
+10:40
+
+Do., 6. März
+
+https://www.heise.de/news/Turing-Award-Gewinner-warnen-vor-aktuellen-KI-Entwicklungen-10306408.html
+12:55
+
+Fr., 7. März
+
+https://t3n.de/news/google-ki-60-stunden-woche-1676532/
+10:05
+
+https://arstechnica.com/google/2025/03/google-is-expanding-ai-overviews-and-testing-ai-only-search-results/
+12:06
+
+Mo., 17. März
+
+https://www.zeit.de/digital/2024-05/kuenstliche-intelligenz-meredith-whittaker-fortschritt-ueberwachung/komplettansicht
+5:47
+
+Di., 18. März
+
+https://www.heise.de/news/Trainingdaten-vergiften-Russische-Propaganda-fuer-KI-Modelle-10317280.html
+5:28
+
+https://www.spiegel.de/netzwelt/apps/windows-update-microsoft-deinstalliert-aus-versehen-copilot-app-a-8e4b931e-aa4b-4969-9a56-acc102c95314
+6:32
+
+Mi., 19. März
+
+https://www.spiegel.de/kultur/kuenstliche-intelligenz-il-foglio-veroeffentlicht-ki-geschriebene-ausgabe-a-5056b1b2-b7e7-4be3-825a-75dcb4debda5?sara_ref=re-so-app-sh
+6:28
+
+https://electrek.co/2025/03/17/tesla-fans-exposes-shadiness-defend-autopilot-crash/
+16:56
+
+https://www.forbes.com/sites/cyrusfarivar/2025/03/17/power-hungry-ai-data-centers-seek-more-quick-and-dirty-mobile-gas-turbines/
+17:23
+
+Mo., 24. März
+
+https://www.heise.de/news/WTF-KI-Upscaling-macht-80er-Jahre-Sitcom-bei-Netflix-zur-Gruselshow-10325521.html
+7:34
+
+https://www.nature.com/articles/s41746-025-01512-6
+16:00
+
+Mi., 26. März
+
+https://www.faz.net/aktuell/feuilleton/medien/ki-gewinnt-essay-wettbewerb-in-estland-110376583.html
+12:12
+
+https://www.spiegel.de/netzwelt/web/google-neues-feature-uebersicht-mit-ki-wird-fuer-alle-ausgerollt-a-ade81f52-1a41-4e1f-83e1-1007e4b6238b?sara_ref=re-so-app-sh
+15:16
+
+Fr., 28. März
+
+https://www.technologyreview.com/2025/03/26/1113802/china-ai-data-centers-unused/
+6:24
+
+Sa., 29. März
+
+https://www.spiegel.de/netzwelt/web/chatgpt-generiert-bilder-im-studio-ghibli-stil-was-daran-problematisch-ist-a-90be3c7e-ce4f-43f1-96e5-06ba6009417b?sara_ref=re-so-app-sh
+7:27
+
+KI-Bildgenerator von ChatGPT: Diese Frau gibt es nicht | ZEIT ONLINE
+archive.ph
+28. März 2025
+
+https://archive.ph/2025.03.28-092524/https://www.zeit.de/digital/internet/2025-03/ki-bildgenerator-chat-gpt-4o-realitaet/komplettansicht
+
+„Seit dieser Woche kann der KI-Chatbot nicht nur Bilder erschaffen – sondern hoch realistische Bilder erschaffen.“
+10:25
+
+So., 30. März
+
+https://www.heise.de/news/KI-am-Arbeitsplatz-Mehrheit-der-Bundesbuerger-haelt-sich-fuer-unersetzlich-10333052.html
+0:22
+
+https://www.spiegel.de/panorama/digitale-schulen-forderung-nach-ki-im-unterricht-a-1c6e6418-9d80-437e-802e-717df4223bc3
+11:41
+
+Fr., 4. Apr.
+
+https://engineeringprompts.substack.com/p/ai-energy-use
+5:59
+
+Sa., 5. Apr.
+
+https://www.youtube.com/watch?v=AqJnK9Dh-eQ
+8:34
+
+
+Mo., 7. Apr.
+
+https://www.theguardian.com/us-news/2025/apr/06/signal-group-chat-leak-how-it-happened
+15:37
+
+Di., 8. Apr.
+
+https://www.heise.de/news/Trainingdaten-vergiften-Russische-Propaganda-fuer-KI-Modelle-10317280.html
+
+https://www.newsguardrealitycheck.com/p/a-well-funded-moscow-based-global
+8:02
+
+https://techcrunch.com/2025/04/07/google-is-allegedly-paying-some-ai-staff-to-do-nothing-for-a-year-rather-than-join-rivals/
+
+https://www.heise.de/news/Meta-schummelt-bei-Benchmark-von-Llama-4-10343869.html
+
+https://www.heise.de/news/Prognoseautomat-Wie-KI-die-Reiseinformation-bei-der-Bahn-verbessern-soll-10343289.html
+
+https://techcrunch.com/2025/04/08/waymo-may-use-interior-camera-data-to-train-generative-ai-models-sell-ads/
+16:50
+
+Mi., 9. Apr.
+
+https://germany.representation.ec.europa.eu/news/milliarden-initiative-soll-europa-zu-einem-ki-kontinent-machen-2025-02-11_de
+6:44
+
+https://www.theguardian.com/uk-news/2025/apr/08/uk-creating-prediction-tool-to-identify-people-most-likely-to-kill
+10:57
+
+Fr., 11. Apr.
+
+https://dhl-freight-connections.com/de/trends/chatgpt-co-kuenstliche-intelligenz-in-der-logistik/
+7:07
+
+So., 13. Apr.
+
+https://www.heise.de/news/Verdacht-auf-DSGVO-Verstoesse-Irische-Datenschuetzer-pruefen-Musks-KI-Modell-Grok-10350106.html
+16:41
+
+Fr., 18. Apr.
+
+https://www.spiegel.de/netzwelt/apps/netflix-so-steht-der-streamingdienst-zu-kuenstlicher-intelligenz-a-a32f1a75-f740-49f9-8d98-31d013229170?sara_ref=re-so-app-sh
+18:52
+
+Mo., 21. Apr.
+
+https://www.reuters.com/business/autos-transportation/china-bans-smart-autonomous-driving-terms-vehicle-ads-2025-04-17/
+14:44
+
+Di., 22. Apr.
+
+https://futurism.com/google-ceo-congress-electricity-ai-superintelligence
+12:53
+
+15:04
+
+https://www.spiegel.de/netzwelt/web/ebay-trainiert-ki-ab-jetzt-mit-nutzerdaten-so-koennen-sie-widerspruch-einlegen-a-cd52490f-1f63-4fa6-b28b-f627f25df365?sara_ref=re-so-app-sh
+16:08
+
+Fr., 25. Apr.
+
+https://www.spiegel.de/netzwelt/apps/whatsapp-fuehrt-schutz-fuer-vertrauliche-chats-ein-a-aaba7cfe-61b2-4c41-93ef-4d2dcfefbc4f
+6:10
+
+So., 27. Apr.
+
+https://www.youtube.com/watch?v=cqrHmjGD1ds
+10:12
+
+https://www.wsj.com/tech/ai/how-ai-thinks-356969f8
+17:55
+
+Mi., 30. Apr.
+
+https://www.heise.de/news/20-Jahre-Hommingberger-Gepardenforelle-die-besten-KI-Bilder-zum-Jubilaeum-10363957.html
+7:24
+
+Fr., 2. Mai
+
+https://www.heise.de/news/Unerwuenschtes-KI-Experiment-auf-Reddit-Massive-Kritik-an-Forschungsgruppe-10365507.html
+6:31
+
+https://infosec.exchange/@masek/114427622908370083
+7:43
+
+Sa., 3. Mai
+
+https://podcastaddict.com/der-rest-ist-geschichte/episode/156849569
+13:34
+
+Fr., 9. Mai
+
+
+Sa., 10. Mai
+
+https://t3n.de/news/ki-version-getoeteter-gericht-1686289/
+9:44
+
+Mo., 12. Mai
+
+https://t3n.de/news/ki-halluzinationen-zunehmen-chatbot-knappe-antworten-1686755/
+Senden gescheitert
+
+Di., 13. Mai
+
+https://t3n.de/news/ki-halluzinationen-zunehmen-chatbot-knappe-antworten-1686755/
+
+https://www.heise.de/news/Faul-und-inkompetent-KI-Nutzung-schadet-dem-Image-im-Buero-10381152.html
+
+16:19
+
+Mi., 14. Mai
+
+https://www.heise.de/news/TikTok-kann-mit-KI-aus-vorgegebenen-Bildern-kurze-Videos-erstellen-10382628.html
+11:24
+
+Do., 15. Mai
+
+https://www.zdf.de/nachrichten/wissen/kuenstliche-intelligenz-ki-ertrinken-rettung-100.html
+9:06
+
+Mo., 19. Mai
+
+[Breitband] KI und Kirche - Warum selbst der Papst über Künstliche Intelligenz nachdenkt #breitband https://podcastaddict.com/breitband/episode/198625954 via @PodcastAddict
+
+[Breitband] KI-Training - Wie Meta versucht, die EU zu überrumpeln #breitband https://podcastaddict.com/breitband/episode/197184646 via @PodcastAddict
+12:52
+
+Di., 20. Mai
+
+6:53
+
+heart
+
+https://daniel.haxx.se/blog/2024/01/02/the-i-in-llm-stands-for-intelligence/
+8:23
+
+https://www.spiegel.de/wissenschaft/lausanne-chatgpt-ueberzeugender-als-menschen-a-4479d4cc-ac28-4efa-8a0a-e257bb209de1?sara_ref=re-so-app-sh
+
+https://www.spiegel.de/ausland/chatgpt-und-perplexity-ai-russland-manipuliert-westliche-chatbots-fuer-seine-propaganda-a-7e276236-cac3-4f35-8ad4-40eaba1c8caf?sara_ref=re-so-app-sh
+
+https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-chatgpt-besteht-turing-test-zu-menschlichem-verhalten-a-0af83891-e0ce-46cc-baf5-e0dae4caadee?sara_ref=re-so-app-sh
+
+https://www.spiegel.de/netzwelt/web/chatgpt-chatbot-antworten-beeinflussen-moralische-entscheidungen-a-fbe41f1f-1602-44f1-961d-3d7904cebcbe?sara_ref=re-so-app-sh
+19:17
+
+Do., 22. Mai
+
+Zunehmende Halluzinationen bei KI: Wie geht es weiter bei Meta, OpenAI und Google?
+Meta, Open AI und Google investieren Milliarden in die KI. Doch Halluzinationen häufen sich, die Kosten explodieren, und der erhoffte Leistungssprung bleibt aus. Wie geht es weiter, wenn die alte Erfolgsformel nicht mehr funktioniert?
+www.faz.net
+
+https://www.faz.net/pro/digitalwirtschaft/kuenstliche-intelligenz/zunehmende-halluzinationen-bei-ki-wie-geht-es-weiter-bei-meta-openai-und-google-110484377.html
+11:52
+
+https://www.freepik.com/
+
+https://slidesgo.com/
+
+https://dezgo.com/
+15:22
+
+https://www.youtube.com/watch?v=GAbGopcoa4c
+15:51
+
+https://en.wikipedia.org/wiki/Generative_adversarial_network
+16:05
+
+https://github.com/Kubenew/ChaosGPT
+
+https://t3n.de/news/chaosgpt-will-welt-beherrschen-1546981/
+
+https://the-decoder.de/chaosgpt-ist-der-erste-konkrete-versuch-mit-ki-die-menschheit-zu-vernichten/
+16:23
+
+Fr., 23. Mai
+
+https://www.spiegel.de/netzwelt/netzpolitik/meta-ki-verbraucherschuetzer-scheitern-mit-eil-klage-vor-oberlandesgericht-koeln-a-41176a44-8e1b-4251-981c-8ce424035d50?sara_ref=re-so-app-sh
+15:36
+
+https://de.pinterest.com/VoltPaperScissors/ai-generated-origami-art/?invite_code=9d874a2f5b744e8eb5608b0944de01e3&sender=612419386736763691
+
+17:12
+
+Sa., 24. Mai
+
+https://tldr.nettime.org/@asrg/113867412641585520
+
+https://nightshade.cs.uchicago.edu/whatis.html
+
+https://blog.campact.de/2025/05/ki-randaliert-im-netz-admins-halten-dagegen/
+6:45
+
+Di., 27. Mai
+
+https://www.tagesschau.de/wirtschaft/verbraucher/bahn-kira-verkehr-100.html
+7:12
+
+https://tldr.nettime.org/@aramba/114561861459406413
+
+https://dnip.ch/2025/05/13/dnip-briefing-24-habemus-abhaengigkeit/#:~:text=Den%20Preis%20f%C3%BCr%20den%20sinnfreisten%20AI%2DEinsatz%20eines%20LLMs%20hat%20letzte%20Woche%20ein%20Entwickler%20gewonnen%2C%20der%20ein%20LLM%20mit%20dem%20Livestream%20von%20der%20sixtinischen%20Kapelle%20f%C3%BCtterte%2C%20um%20zu%20erkennen%2C%20ob%20weisser%20Rauch%20aufsteigt
+
+https://github.com/Calvin-LL/is-even-ai
+8:01
+
+Mi., 28. Mai
+
+https://www.heise.de/news/Nick-Clegg-Zustimmung-von-Kuenstlern-wuerde-KI-toeten-10399119.html
+8:13
+
+Fr., 30. Mai
+
+https://www.bfdi.bund.de/SharedDocs/Downloads/DE/DokumenteBfDI/AccessForAll/2025/KI-Fragenkatalog.pdf?__blob=publicationFile&v=1
+9:27
+
+https://netzpolitik.org/2025/training-kuenstlicher-intelligenz-strukturwandel-des-oeffentlichen/
+17:35
+
+Sa., 31. Mai
+
+https://logbuch-netzpolitik.de/lnp524-die-besten-datenkraken-haben-keine-logs
+13:40
+
+Mo., 2. Juni
+
+https://www.heise.de/news/Interne-Dokumente-Meta-laesst-kuenftig-lieber-die-KI-Risiken-bewerten-10421987.html
+12:14
+
+Di., 3. Juni
+
+https://www.heise.de/news/Vorwurf-Hinter-KI-Chatbot-steckten-in-Wirklichkeit-700-indische-Programmierer-10422912.html
+16:34
+
+https://www.heise.de/news/Studie-Fuer-positives-Feedback-raet-KI-anfaelligen-Menschen-auch-mal-zu-Drogen-10421886.html
+16:37
+
+Mi., 4. Juni
+
+https://www.heise.de/news/ChatGPT-statt-Recherche-Gericht-sanktioniert-Anwalt-10424419.html
+7:39
+
+Do., 5. Juni
+
+Kristian Köhntopp erklärt, warum das Bannen eines Hashtags auf Tiktok nicht den erwarteten Erfolg haben wird https://infosec.exchange/@isotopp/114623702472769181
+7:50
+
+Fr., 6. Juni
+
+https://www.heise.de/news/Amazon-trainiert-angeblich-humanoide-Roboter-fuer-die-Paketzustellung-10435144.html
+
+
 ### 10.6.
 * https://www.tagesschau.de/inland/innenpolitik/dobrindt-ki-sabotage-100.html
 ### 12.6.
