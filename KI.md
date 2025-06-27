@@ -71,8 +71,8 @@
 * DNIP: [Was der Turing-Test für die Gesellschaft bedeutet](https://dnip.ch/2024/07/18/was-der-turing-test-fuer-die-gesellschaft-bedeutet/) Vor einem knappen Jahrhundert hat sich Alan Turing mit den Fundamenten der heutigen Informatik beschäftigt: Kryptographie, Komplexität/Rechenaufwand, aber auch, ob und wie wir erkennen könnten, ob Computer „intelligent“ seien.
 * Deutschlandfunk: [Allgemeine KI -Wie weit noch bis zur Superintelligenz?](https://www.deutschlandfunk.de/wie-weit-noch-bis-zur-superintelligenz-dlf-a11e4806-100.html) Selbst Fachleute sind erstaunt über Fähigkeiten von KI, die in großen Sprachmodellen entstehen, ohne dass sie hineinprogrammiert wurden. Was passiert da gerade? Sind wir auf dem Weg in die maschinelle Superintelligenz – und muss uns das beunruhigen?
 * Heise: [KI-Update Deep-Dive: Was versteht KI?](https://www.heise.de/news/KI-Update-Deep-Dive-Was-versteht-KI-10008028.html) Die Philosophieprofessorin Sybille Krämer erklärt, wie sich das Sprachverständnis von Mensch und Maschine unterscheidet und warum wir uns trotzdem verstehen.
-ps://www.heise.de/news/KI-hilft-Historikern-Groesste-Erweiterung-antiker-Textquellen-seit-100-Jahren-10223401.html
-16:26
+* Heise: [Ist der Turing-Test nach Lamda noch aktuell?](https://www.heise.de/hintergrund/Ist-der-Turing-Test-nach-Lamda-noch-aktuell-7163399.html) Wenn ein Experte einem Chatbot ein Bewusstsein zuschreibt, ist der Turing-Test damit bestanden? Und wenn ja, warum interessiert das keinen?
+* Heise: [KI hilft Historikern: Größte Erweiterung antiker Textquellen seit 100 Jahren](https://www.heise.de/news/KI-hilft-Historikern-Groesste-Erweiterung-antiker-Textquellen-seit-100-Jahren-10223401.html) Künstliche Intelligenz gilt als Hoffnungsträger für Historiker weltweit. Bei einigen Projekten hat sie bereits zu enormen Fortschritten verholfen.
 
 https://www.tagesschau.de/wirtschaft/kuenstliche-intelligenz-industrie-klopapier-100.html
 21:22
