@@ -621,6 +621,10 @@ Allgemein werden Dienste, welche die automatische Löschung der eigenen Daten be
 * Netzpolitik.org: [Jetzt testen: Wurde mein Handy-Standort verkauft?](https://netzpolitik.org/2024/databroker-files-jetzt-testen-wurde-mein-handy-standort-verkauft/) Unsere Recherche mit dem BR zeigt: Datenhändler verkaufen die Standortdaten von Millionen Menschen in Deutschland. Uns liegt ein Datensatz mit Kennungen von bis zu 11 Millionen Geräten vor. Mit diesem Databroker-Checker kannst du jetzt testen, ob auch dein Gerät getrackt wurde.
 * [Ausweiskopie - My identity card copy](https://github.com/Varbin/ausweiskopie) Easily watermark and hide information in copies of your (german) identity card! Ausweiskopien schwärzen und einfach kenntlich machen.
 
+### Internetzensur
+* [OONI Probe](https://ooni.org/install/)
+  * [OONI Measurement Aggregation Toolkit (MAT)](https://explorer.ooni.org/chart/mat) Create charts based on aggregate views of real-time OONI data from around the world
+
 ### OSINT
 * [Empfehlungsecke: OSINT-Tools](https://www.kuketz-blog.de/empfehlungsecke-osint-tools/)
 * [Awesome OSINT](https://github.com/jivoi/awesome-osint?tab=readme-ov-file) A curated list of amazingly awesome open source intelligence tools and resources. Open-source intelligence (OSINT) is intelligence collected from publicly available sources. In the intelligence community (IC), the term "open" refers to overt, publicly available sources (as opposed to covert or clandestine sources)
