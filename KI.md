@@ -605,3 +605,4 @@ Renommierte Experten und Expertinnen wie die MIT-Professorin Sherry Turkle, die 
 
 ### 15.7.
 * Zeit: [Mr. Bot, wir haben ein Problem](https://www.zeit.de/digital/2025-07/ki-agenten-hype-arbeitsplatz-software-alltag/komplettansicht) Künstliche Intelligenz soll uns Arbeit abnehmen. Aber sie scheitert an einfachen Aufgaben – und Menschen müssen ihre Fehler ausbügeln. Endet der Hype langsam? Von Eva Wolfangel
+* Heise: [Studie: Therapie-Chatbots sind oft schlechte Berater bei psychischen Problemen](https://www.heise.de/news/Studie-KI-Therapie-Bots-geben-moerderische-Tipps-und-verletzen-Leitlinien-10485464.html) Beliebte Chatbots sind kein guter Ersatz für menschliche Therapeuten. Forscher mahnen zu mehr Fingerspitzengefühl beim Einsatz von ChatGPT & Co. als Berater.
