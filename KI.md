@@ -39,13 +39,14 @@
 * [Wie funktioniert ChatGPT ganz genau? - Froscon 2024](https://www.youtube.com/watch?v=T7K2SmqlzOI) Eine Zeitreise durch Theorie und Funktionsweise von Sprachmodellen. Vortrag von Michael Christen bei der FrOSCon 2024. In diesem Vortrag wird die Funktionsweise von ChatGPT bis ins kleinste Detail beleuchtet. Wir bleiben dabei nicht auf einer oberflächigen Ebene sondern gehen vollständig ins Detail, bleiben aber allgemein verständlich.  Ausgehend von den historischen Wurzeln der KI-Forschung – wie den Arbeiten von Markov (Markov-Ketten für Textgenerierung) und Claude Shannon (Informationstheorie) – wird die Entwicklung moderner Sprachmodelle nachgezeichnet. Der Fokus liegt auf den bahnbrechenden Transformer-Architekturen und deren Schlüsselkomponenten: Embeddings, Attention (Bengio), Self-Attention und Multi-Head-Attention. Es wird gezeigt, wie neuronale Netze durch Backpropagation und Autoencoder (Hinton) lernen, Bedeutungszusammenhänge in hochdimensionalen Vektorräumen abzubilden. Die Rolle von Softmax-Aktivierung, Positional Encoding und Feedforward-Netzen wird ebenso erläutert wie der Übergang von reinen Textgeneratoren (GPT-3) zu dialogfähigen Systemen (ChatGPT) durch Instruct-Tuning und Reinforcement Learning. Ein besonderes Augenmerk gilt der Frage, ob solche Modelle tatsächlich „Verständnis“ entwickeln – diskutiert anhand des chinesischen Zimmers (Searle) und der These, dass Intelligenz auf Kompression beruht (Hutter, Hinton). Abschließend wird ein Ausblick auf zukünftige Entwicklungen wie planende KI-Systeme gegeben.
 * Heise: [AI Act tritt in Kraft: Was Sie zur KI-Verordnung wissen müssen](https://www.heise.de/hintergrund/AI-Act-tritt-in-Kraft-Was-Sie-zur-KI-Verordnung-wissen-muessen-9819063.html) Mit 1. August 2024 gilt der AI Act, KI wird in der EU reguliert. Der Fahrplan für die Regulierungen sieht jedoch weitere Termine vor. Eine FAQ.
 * Heise: [Conni im Kreuzfeuer: Rechtslage zu Memes um Deutschlands bekannteste Freundin](https://www.heise.de/hintergrund/Conni-im-Kreuzfeuer-Rechtslage-zu-Memes-um-Deutschlands-bekannteste-Freundin-10486739.html) Aufregung um Conni: Das Urheberrecht erlaubt Pastiches mit der Figur aus Büchern des Carlsen Verlags. Aber nicht alle, erklärt heise-Justiziar Jörg Heidrich.
+* Mitbestimmungsportal: [Der mitbestimmte Algorithmus](https://www.mitbestimmung.de/html/der-mitbestimmte-algorithmus-42789.html) Was ist bekannt und was ist neu an der sogenannten „künstlichen Intelligenz“? Inwieweit muss Mitbestimmung hinzulernen? Laut unserem Autor benötigt „der mitbestimmte Algorithmus“ ergänzende Kompetenzen und Handlungsbausteine in der Mitbestimmung.
 ### 22.10.
 * https://www.theregister.com/2024/10/20/asia_tech_news_roundup/
 * https://www.heise.de/news/Von-KI-und-Freiheit-Hannah-Arendt-Tage-2024-in-Hannover-9989213.html
 * https://t3n.de/news/ki-als-mediator-studie-1652682/
-* https://www.youtube.com/watch?v=0fq1jlWcUv8
+* [#ChatGPT & Co – wie intelligent ist KI? | Harald Lesch, Marco Smolla & Hannah Bast](https://www.youtube.com/watch?v=0fq1jlWcUv8)
 * https://arstechnica.com/tech-policy/2024/10/bytedance-intern-fired-for-planting-malicious-code-in-ai-models/
-* https://youtu.be/pOuBCk8XMC8?si=tSJHgpG06uc6DnV0
+* [Why AI Is Tech's Latest Hoax](https://youtu.be/pOuBCk8XMC8?si=tSJHgpG06uc6DnV0) Tech is a sector unlike any other - it’s an industry where individuals can turn into billionaires overnight, ideas supersede fundamentals, and leaders are rewarded for showmanship.  In today’s Silicon Valley, innovation is crowned and not earned.  Venture capitalists and founders are symbiotic. Unprofitable companies are kept alive with injections of capital, gamed valuations, and manufactured hype with the goal of surviving long enough to IPO. Starting in the early 2010s, Silicon Valley had championed big data as a revolutionary technology that could unearth deep insights, hidden patterns, and innovation from massive amounts of data. Yet the market started to question in the early 2020s if any of these promises had even been real as nearly all consumer and SaaS startups were still bleeding nearly a decade later. Out of nowhere, ChatGPT was released and AI became Silicon Valley’s next big thing.  Every tech company is now an “AI company”, every Fortune 500 needs an “AI strategy”, VCs are only investing in AI startups, and every product is an “AI” product.  This is a deep dive into how artificial intelligence is just the latest tale spun by Silicon Valley to sweep prior failed trends under the rug, keep valuations high, and outlook positive. Before AI, there was crypto, web3, blockchain, virtual reality, big data, IoT, and wearables - all supposedly revolutionary technologies that have never lived up to the hype.    In this episode, we’ll dive into the market dynamics that push companies and individuals to jump headfirst into tech trends, how this all started with big data, and why AI is ultimately just another pump-and-dump.
 * https://www.spiegel.de/netzwelt/30-jahre-spiegel-de-ein-blick-ins-jahr-2054-a-b79b8ee3-f5b9-4438-884d-ef49d2c12c1f
 * https://newrepublic.com/article/187203/ai-radiology-geoffrey-hinton-nobel-prediction
 * https://www.heise.de/news/Vision-Language-Modelle-versagen-bei-einfachen-Bildtests-9995946.html
@@ -54,7 +55,7 @@
 * https://www.heise.de/news/Apple-Studie-Logisches-Denken-von-KI-kaum-nachweissbar-und-sehr-fragil-9980855.html
 * https://www.giga.de/tech/externe-festplatte-fuers-gehirn-forscher-entdecken-revolutionaeres-system-0--01JAZ3MBBDZ3XREWG260XVDX04
 * https://marketoonist.com/2024/03/potential-of-ai.html
-* https://www.youtube.com/watch?v=fmwOu-C1AmI
+* [Can Ai Really Review Ghostbusters??? | Ai | Movie Reviews](https://www.youtube.com/watch?v=fmwOu-C1AmI) 🚨 Who ya gonna call? 🚨 Our digital duo tackles the paranormal classic Ghostbusters! Watch as they break down everything from proton packs to possessed librarians, trying to compute just how Bill Murray made slacking off look so good. But did they capture the supernatural charm of this 80s masterpiece? Ever wonder if AI can detect comedic timing? Or understand why crossing the streams is bad? Our robotic reviewers are putting their processors to the test! But we need your take - did they get what makes Ghostbusters a cultural phenomenon, or are human critics still the ones who ain't afraid of no ghosts? Share your favorite Ghostbusters review in the comments! Let's see if flesh-and-blood critics still have the edge when it comes to bustin' movies! 🎬 Don't get slimed - Subscribe now for more AI movie reviews! #Ghostbusters #AIMovieReview #MovieCritics #80sClassics #WhoYaGonnaCall
 * https://www.spiegel.de/auto/frankreich-vorsicht-vor-den-neuen-super-radarfallen-a-1b703b19-22f7-4baf-89e8-72d43c0d1203
 * https://www.upi.com/Top_News/World-News/2024/11/01/Ireland-AI-fake-Halloween-parade-hoax/2311730467734/
 * https://ebildungslabor.de/blog/fuenf-erkundungen-zur-neuen-such-funktion-von-chatgpt/
@@ -231,17 +232,13 @@ Do., 27. Feb.
 https://apnews.com/article/israel-palestinians-ai-technology-737bc17af7b03e98c29cec4e15d0f108
 13:20
 
-Sa., 1. März
+### Sa., 1. März
+* [Generative AI's Greatest Flaw - Computerphile](https://www.youtube.com/watch?v=rAEqP9VEhe8) Described as GenAIs greatest flaw, indirect prompt injection is a big problem, Mike Pound from University of Nottingham explains how it is like SQL Injection, except not... 
+* [Why Can’t ChatGPT Draw a Full Glass of Wine?](https://www.youtube.com/watch?v=160F8F8mXlo) ChatGPT can’t draw a glass of wine full to the brim. Why? And what might it have to do with David Hume and the missing shade of blue?
 
-https://www.youtube.com/watch?v=rAEqP9VEhe8
-7:45
+### So., 2. März
 
-https://www.youtube.com/watch?v=160F8F8mXlo
-7:52
-
-So., 2. März
-
-https://www.youtube.com/watch?v=xnGimEqnyBE
+* [ChatGPT Mistakes](https://www.youtube.com/watch?v=xnGimEqnyBE)
 10:40
 
 Do., 6. März
@@ -302,14 +299,12 @@ Fr., 28. März
 https://www.technologyreview.com/2025/03/26/1113802/china-ai-data-centers-unused/
 6:24
 
-Sa., 29. März
+### Sa., 29. März
 
 https://www.spiegel.de/netzwelt/web/chatgpt-generiert-bilder-im-studio-ghibli-stil-was-daran-problematisch-ist-a-90be3c7e-ce4f-43f1-96e5-06ba6009417b?sara_ref=re-so-app-sh
 7:27
 
-KI-Bildgenerator von ChatGPT: Diese Frau gibt es nicht | ZEIT ONLINE
-archive.ph
-28. März 2025
+* [KI-Bildgenerator von ChatGPT: Diese Frau gibt es nicht | ZEIT ONLINE](https://www.zeit.de/digital/internet/2025-03/ki-bildgenerator-chat-gpt-4o-realitaet)
 
 https://archive.ph/2025.03.28-092524/https://www.zeit.de/digital/internet/2025-03/ki-bildgenerator-chat-gpt-4o-realitaet/komplettansicht
 
@@ -329,10 +324,9 @@ Fr., 4. Apr.
 https://engineeringprompts.substack.com/p/ai-energy-use
 5:59
 
-Sa., 5. Apr.
+### Sa., 5. Apr.
 
-https://www.youtube.com/watch?v=AqJnK9Dh-eQ
-8:34
+* [Ai Will Try to Cheat & Escape (aka Rob Miles was Right!) - Computerphile](https://www.youtube.com/watch?v=AqJnK9Dh-eQ) As Large Language Models improve, the tokens they predict form ever more complicated and nuanced outcomes. Rob Miles and Ryan Greenblatt discuss "Alignment Faking" a paper Ryan's team created - ideas about which Rob made a series of videos on Computerphile in 2017.
 
 
 Mo., 7. Apr.
@@ -399,10 +393,9 @@ Fr., 25. Apr.
 https://www.spiegel.de/netzwelt/apps/whatsapp-fuehrt-schutz-fuer-vertrauliche-chats-ein-a-aaba7cfe-61b2-4c41-93ef-4d2dcfefbc4f
 6:10
 
-So., 27. Apr.
+### So., 27. Apr.
 
-https://www.youtube.com/watch?v=cqrHmjGD1ds
-10:12
+* [AI is Permanently Rewriting History](https://www.youtube.com/watch?v=cqrHmjGD1ds)
 
 https://www.wsj.com/tech/ai/how-ai-thinks-356969f8
 17:55
