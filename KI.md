@@ -42,7 +42,33 @@
 * Heise: [AI Act tritt in Kraft: Was Sie zur KI-Verordnung wissen müssen](https://www.heise.de/hintergrund/AI-Act-tritt-in-Kraft-Was-Sie-zur-KI-Verordnung-wissen-muessen-9819063.html) Mit 1. August 2024 gilt der AI Act, KI wird in der EU reguliert. Der Fahrplan für die Regulierungen sieht jedoch weitere Termine vor. Eine FAQ.
 * Heise: [Conni im Kreuzfeuer: Rechtslage zu Memes um Deutschlands bekannteste Freundin](https://www.heise.de/hintergrund/Conni-im-Kreuzfeuer-Rechtslage-zu-Memes-um-Deutschlands-bekannteste-Freundin-10486739.html) Aufregung um Conni: Das Urheberrecht erlaubt Pastiches mit der Figur aus Büchern des Carlsen Verlags. Aber nicht alle, erklärt heise-Justiziar Jörg Heidrich.
 * Mitbestimmungsportal: [Der mitbestimmte Algorithmus]([https://www.mitbestimmung.de/html/der-mitbestimmte-algorithmus-42789.html](https://www.mitbestimmung.de/html/der-mitbestimmte-algorithmus-42789.html?code=18d28100608df6f1cebfefb6a312ca16&c=&cmsid=) Was ist bekannt und was ist neu an der sogenannten „künstlichen Intelligenz“? Inwieweit muss Mitbestimmung hinzulernen? Laut unserem Autor benötigt „der mitbestimmte Algorithmus“ ergänzende Kompetenzen und Handlungsbausteine in der Mitbestimmung.
- 
+
+## Einige generative künstliche Intelligenzen
+*   Text
+    *   [ChatGPT](https://chatgpt.com/)
+    *   [Mistral](https://chat.mistral.ai/)
+    *   [Claude](https://claude.ai/login)
+    *   [Meta](https://www.meta.ai/)
+*       Websuche
+    *   [Perplexity](https://www.perplexity.ai/)
+*       Notizen
+    *   [Notebooklm (inkl. Podcastversion)](https://notebooklm.google/)
+*       Bild
+    *    Direkt in [ChatGPT](https://chatgpt.com/)
+    *   [Stablediffusion](https://stablediffusionweb.com/)
+    *   Pro: [Midjourney](https://www.midjourney.com/)
+    *   [Leonardo](https://app.leonardo.ai/image-generation) (mit Anmeldung)
+    *   [Remaker face swap](https://remaker.ai/face-swap-free/)
+*       Musik
+    *   [Udio](https://www.udio.com/)
+    *   [Suno](https://app.suno.ai) 
+    *   [Mureka](https://www.mureka.ai)
+*       Video
+    *   [Lumalabs](https://lumalabs.ai/)
+    *   Pro (Diverse Modelle, Battle Mode oder Direct)
+    *    [Lmarena](https://lmarena.ai/)
+
+## Nach Datum sortiert, muss noch thematisch sortiert werden
 ### 22.10.
 * https://www.theregister.com/2024/10/20/asia_tech_news_roundup/
 * https://www.heise.de/news/Von-KI-und-Freiheit-Hannah-Arendt-Tage-2024-in-Hannover-9989213.html
