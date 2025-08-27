@@ -56,6 +56,7 @@ Materialien zur digitalen Selbstverteidigung
 * [Librewolf](https://librewolf.net/)
 * [Mullvad](https://mullvad.net/en/browser)
 * [Privacytest](https://privacytests.org/) vergleicht die gängigen Browser in einer übersichtlichen Tabelle auf ihre Privatsphäreneinstellungen
+  * [Test my browser](https://privacytests.org/me.html) den eigenen Browser auf Privatsphäre testen
 
 ## Browser absichern
 [Mehr Sicherheit und Anonymität in Firefox über »about:config« erreichen](https://gnulinux.ch/mehr-sicherheit-und-anonymitaet-in-firefox-%C3%BCber-about-config-erreichen)
