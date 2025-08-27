@@ -55,11 +55,14 @@ Materialien zur digitalen Selbstverteidigung
 * Bromite
 * [Librewolf](https://librewolf.net/)
 * [Mullvad](https://mullvad.net/en/browser)
-* [Privacytest](https://privacytests.org/) vergleicht die gängigen Browser in einer übersichtlichen Tabelle auf ihre Privatsphäreneinstellungen
-  * [Test my browser](https://privacytests.org/me.html) den eigenen Browser auf Privatsphäre testen
 
-## Browser absichern
-[Mehr Sicherheit und Anonymität in Firefox über »about:config« erreichen](https://gnulinux.ch/mehr-sicherheit-und-anonymitaet-in-firefox-%C3%BCber-about-config-erreichen)
+## Browser absichern, Browservergleiche
+* [Mehr Sicherheit und Anonymität in Firefox über »about:config« erreichen](https://gnulinux.ch/mehr-sicherheit-und-anonymitaet-in-firefox-%C3%BCber-about-config-erreichen)
+* [Privacytest](https://privacytests.org/) vergleicht die gängigen Browser in einer übersichtlichen Tabelle auf ihre Privatsphäreneinstellungen
+* [Test my browser](https://privacytests.org/me.html) den eigenen Browser auf Privatsphäre testen
+* heise: [So testen Sie Ihren Browser auf Datenschutz](https://www.heise.de/ratgeber/So-testen-Sie-Ihren-Browser-auf-Datenschutz-10501682.html?seite=all) Mit diesen Tools finden Sie heraus, wie gut Ihr Browser vor Tracking und Werbung schützt und wo Sie nachbessern sollten.
+* heise: [Wie Sie nervige Werbung und Tracking auf dem Desktop ausradieren](https://www.heise.de/ratgeber/Wie-Sie-nervige-Werbung-und-Tracking-auf-dem-Desktop-ausradieren-10501692.html?seite=all) Wir zeigen Ihnen, wie diskret gängige Browser von Haus aus sind und wie Sie Ihre Privatsphäre auf Ihrem Desktop-PC zusätzlich schützen.
+* heise: [Ungestört surfen mit Smartphone und Tablet](https://www.heise.de/ratgeber/Ungestoert-surfen-mit-Smartphone-und-Tablet-10501700.html?seite=all) Mit den passenden Browsern, Erweiterungen und Apps werden Sie Werbung und Tracker auf Android und iOS nachhaltig los.
 
 ## Mailverschlüsselung
 * [Thunderbird](https://www.thunderbird.net/)
@@ -385,6 +388,7 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
     * [Schemeflood](https://schemeflood.com/) erkennt einen Computer browserübergreifend anhand der installierten Programme
     * [FPmon](https://github.com/fpmon/fingerprinting-monitor) für Chrome zeigt an, ob und wenn ja welche Fingerprinting-Techniken eine Webseite nutzt
     * [fingerprint.com](https://fingerprint.com/) Powered by the most accurate device fingerprinting technology, Fingerprint enables engineers to prevent fraud, improve user experiences, and better understand their traffic.
+    * [CreepJS](https://abrahamjuliot.github.io/creepjs/)
 * [Tribler](https://www.tribler.org/)
 * [I2P](https://geti2p.net/de/)
 * [Freenet](https://freenetproject.org/)
@@ -410,6 +414,7 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
 * [ProtonVPN](https://protonvpn.com/), Android, iOS, Linux, macOS, Windows
     * [All Proton VPN apps are now open source and audited (2020)](https://protonvpn.com/blog/open-source/)
     * [Proton VPN’s no-logs policy confirmed by an external audit (April 2022)](https://protonvpn.com/blog/no-logs-audit/)
+  * [VPN leak test](https://www.astrill.com/de/vpn-leak-test)
 
 ## Alternative Betriebssysteme für Android-Telefone
 * [Lineage](https://lineageos.org/)
