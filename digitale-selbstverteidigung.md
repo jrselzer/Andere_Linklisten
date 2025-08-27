@@ -627,6 +627,7 @@ Allgemein werden Dienste, welche die automatische Löschung der eigenen Daten be
 * [Portmaster](https://safing.io/) is a free and open-source application firewall that does the heavy lifting for you. Restore privacy and take back control over all your computer's network activity.
 * Netzpolitik.org: [Jetzt testen: Wurde mein Handy-Standort verkauft?](https://netzpolitik.org/2024/databroker-files-jetzt-testen-wurde-mein-handy-standort-verkauft/) Unsere Recherche mit dem BR zeigt: Datenhändler verkaufen die Standortdaten von Millionen Menschen in Deutschland. Uns liegt ein Datensatz mit Kennungen von bis zu 11 Millionen Geräten vor. Mit diesem Databroker-Checker kannst du jetzt testen, ob auch dein Gerät getrackt wurde.
 * [Ausweiskopie - My identity card copy](https://github.com/Varbin/ausweiskopie) Easily watermark and hide information in copies of your (german) identity card! Ausweiskopien schwärzen und einfach kenntlich machen.
+* [ReVanced](https://revanced.app/) Customize your mobile experience through ReVanced by applying patches to your applications. Bereinigt eine App vor dem Herunterladen von Tracking- und Werbefunktionen. Bewegt sich in einer rechtlichen Grauzone.
 
 ### Internetzensur
 * [OONI Probe](https://ooni.org/install/)
