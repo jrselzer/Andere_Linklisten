@@ -564,6 +564,7 @@ Mit Matrix gibt es ein Open-Source-Projekt, das es gestattet, einen Ende-zu-Ende
     * Tracking ablehnen, wo es nur geht
     * Umsatteln auf Tracking-freie Alternativen
     * Sich für politische Lösungen starkmachen
+* [Privacy Guides](https://www.privacyguides.org/en/) is a not-for-profit, volunteer-run project that hosts online communities and publishes news and recommendations surrounding privacy and security tools, services, and knowledge.
     
 ## Schnitzeljagd
 Unter https://cloud.datenburg.org/s/csXbXDseep7Qo6N findest Du die Keepass-Datenbank Netzwaerts.kdbx. Um sie öffnen zu können, brauchst Du ein Passwort. Suche hierzu im Netz nach einem Zitat von Alan Moore, das mit “People shouldn't be afraid of their government." beginnt. Der _zweite_ Satz (mit Groß- und Kleinschreibung, Freizeichen und Punkt, aber ohne Anführungsstriche) ist das Passwort, mit dem Du die Keepass-Datei geöffnet bekommst. Du findest dort einen einzigen Eintrag. Dieser Eintrag hat ein Kommentarfeld mit weiteren Anweisungen. Viel Erfolg!)
