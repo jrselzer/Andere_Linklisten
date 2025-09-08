@@ -158,6 +158,7 @@ Es gibt mehrere Gratis-Programme, die versprechen, in Windows datenschutzrelevan
     * [Syncthing: KeePass-Datenbank zwischen PC und Android synchronisieren – Passwörter Teil3](https://www.kuketz-blog.de/syncthing-keepass-datenbank-zwischen-pc-und-android-synchronisieren-passwoerter-teil3/)
     * [Bitwarden](https://bitwarden.com/) verwaltet Passwörter zentral auf einem Server und gleicht die lokalen Kopien damit ab. Bei Bedarf kann auch ein eigener Server zum Speichern der Passwortdatenbank genommen werden. Zur bequemen Anbindung gibt es eine ganze Reihe Browser-Plugins. Bitwarden beherrscht inzwischen auch Passkeys.
         * Unter Ubuntu ließ sich das Appimage nicht starten und stürzte mit einem Coredump ab. Abhilfe schaffte die Installation zweier Pakete mittels ```sudo apt install qt6-wayland``` sowie ```sudo apt install xcb```.
+    * [Vaultwarden](https://github.com/dani-garcia/vaultwarden) An alternative server implementation of the Bitwarden Client API, written in Rust and compatible with official Bitwarden clients, for self-hosted deployment where running the official resource-heavy service might not be ideal.
     * [Passwortmanager-Apps im Privacy-Check](https://www.heise.de/ratgeber/Passwortmanager-Apps-im-Privacy-Check-5050304.html)
     * t3n: [Sicher im Netz: Diese 7 Passwortmanager musst du kennen ](https://t3n.de/news/passwortmanager-sicherheit-1634480/) Eine alte Information-Security-Weisheit lautet: Ein Passwortmanager ist besser als kein Passwortmanager. Wir stellen sieben beliebte Optionen vor. 
 * Passkeys
