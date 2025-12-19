@@ -167,9 +167,10 @@ Es gibt mehrere Gratis-Programme, die versprechen, in Windows datenschutzrelevan
   * [Passkeys: Die passende Schlüsselverwaltung auswählen](https://www.heise.de/ratgeber/Passkeys-Die-passende-Schluesselverwaltung-auswaehlen-9660336.html?seite=all) Wer seine Internetkonten per Passkey absichern möchte, muss eine Variante der Schlüsselverwaltung bemühen. Wir zeigen, welche für Sie die richtige ist.
   * [FAQ: Fragen und Antworten zu Passkeys](https://www.heise.de/ratgeber/FAQ-Fragen-und-Antworten-zu-Passkeys-9756135.html) Der Passwort-Nachfolger Passkeys soll das Einloggen im Netz so einfach machen, wie nie – wir beantworten die häufigsten Leserfragen zum Thema.
   * [Passkey Revolution: Google Syncs Passkeys to Apple & Windows Devices](https://www.corbado.com/blog/google-passkeys-sync-windows-macos) Google Password Manager now syncs passkeys across Chrome on Windows, macOS and Android, which is ground-breaking as Google solves cross-platform passkey issues.
+  * Firstyear: [Yep, Passkeys Still Have Problems](https://fy.blackhats.net.au/blog/2025-12-17-yep-passkeys-still-have-problems/)
 *  Bin ich von einem Datenleck betroffen?
     * [Have I been pwned?](https://haveibeenpwned.com/)
-      * [See your identity pieced together from stolen data](https://www.abc.net.au/news/2023-05-18/data-breaches-your-identity-interactive/102175688)
+      * [See your identity pieced together from stolen data](https://www.abc.net.au/news/2023-05-18/data-breaches-your-identity-interactive/102175688) It's now late into 2025, and just over a year since I wrote my last post on Passkeys. The prevailing dialogue that I see from thought leaders is "addressing common misconceptions" around Passkeys, the implication being that "you just don't understand it correctly" if you have doubts. Clearly I don't understand Passkeys in that case. And yet, I am here to once again say - yep, it's 2025 and Passkeys still have all the issues I've mentioned before, and a few new ones I've learnt! Let's round up the year together then.
     * [HPI Identity Leak Checker](https://sec.hpi.de/ilc/)
 * Zwei-Faktor-Authentifizierung
     * tOTP
