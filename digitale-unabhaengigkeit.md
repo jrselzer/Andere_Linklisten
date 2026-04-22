@@ -1,4 +1,4 @@
-# Linkliste zur digitaöen Unabhängigkeit
+# Linkliste zur digitalen Unabhängigkeit
 - [Veranstaltungsseite zum Digitale-Unabhängigkeitstag](https://di.day)
 - https://get.alternative.to/
 - [Uneingelöstes Versprechen auf digitale Souveränität: 
