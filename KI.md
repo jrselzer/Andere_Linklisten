@@ -50,6 +50,7 @@
     *   [Mistral](https://chat.mistral.ai/)
     *   [Claude](https://claude.ai/login)
     *   [Meta](https://www.meta.ai/)
+    * [ NotebookLM](https://notebooklm.google.com)
 *       Websuche
     *   [Perplexity](https://www.perplexity.ai/)
 *       Notizen
