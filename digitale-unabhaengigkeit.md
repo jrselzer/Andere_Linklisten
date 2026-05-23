@@ -11,6 +11,7 @@ Europäischer Bezahldienst Wero nutzt Amazon-Server](https://netzpolitik.org/202
 - [Libre Office](https://www.libreoffice.org/)
 - [Collabora Office](https://www.collaboraonline.com/collabora-office/)
 - [Only Office](https://www.onlyoffice.com/)
+- [Euro Office](https://github.com/Euro-Office) 
 ### Cloud
 - [Seafile](https://www.seafile.com/)
 - [Nextcloud](https://nextcloud.com/)
