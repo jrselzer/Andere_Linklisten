@@ -632,3 +632,6 @@ Renommierte Experten und Expertinnen wie die MIT-Professorin Sherry Turkle, die 
 * Heise: [Studie: Therapie-Chatbots sind oft schlechte Berater bei psychischen Problemen](https://www.heise.de/news/Studie-KI-Therapie-Bots-geben-moerderische-Tipps-und-verletzen-Leitlinien-10485464.html) Beliebte Chatbots sind kein guter Ersatz für menschliche Therapeuten. Forscher mahnen zu mehr Fingerspitzengefühl beim Einsatz von ChatGPT & Co. als Berater.
 * Heise: [Alles Muzak? Wie KI-Generatoren die Musikindustrie umkrempeln](https://www.heise.de/hintergrund/Alles-Muzak-Wie-KI-Generatoren-die-Musikindustrie-umkrempeln-10459858.html) KI-Generatoren wie Suno erzeugen Songs ohne Komponisten und Künstler. Musiker stehen vor der Frage: Was bleibt, wenn Maschinen ihre Songs produzieren?
 * Deutschlandfunk: [KI und Privatsphäre: Warum man ChatGPT nicht alles erzählen sollte](https://www.deutschlandfunk.de/ki-privatsphaere-datenschutz-chatgpt-100.html) Chatbots sind für viele Menschen längst Berater in Beziehungs-, Rechts- und Gewissensfragen. So gelangen auch ganz private Informationen in die Hände großer Tech-Konzerne – meist ohne unser Wissen. Gibt es einen Schutz davor?
+
+### 12.6.2026
+* [Rent A Human9(https://rentahuman.ai/) Let our humans take it from here. Your AI can't touch grass. Rent a human when you need someone in the real world.
