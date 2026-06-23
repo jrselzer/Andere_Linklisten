@@ -589,6 +589,7 @@ Unter https://cloud.datenburg.org/s/csXbXDseep7Qo6N findest Du die Keepass-Daten
     * [Nextcloud](https://nextcloud.com/) eine klassische Weboberfläche mit vielen Erweiterungsmöglichkeiten, beispielsweise ein kollaboratives Office
 * [Hetzner](https://www.hetzner.com/de/storage/storage-share) Nextlcoud-Hosting in Deutschland, ADV
 * [Mailbox.org](https://mailbox.org/de/produkte#cloudspeicher) Mindestkosten 1 € pro Monat. wIm Standardaccount Cloud-Speicher für 3 € pro Monat. Andere Zugriffsberechtigte müssen ebenfalls ein Mailbox-Konto haben. Firmenstandort Deutschland, ADV wird angeboten.
+* [Lucky Cloud](https://luckycloud.de/en/) Whether domain, email, video meetings, chat, or cloud storage from Germany: get everything from a single provider – GDPR-compliant, flexible and intuitive to book, with an extra level of security and personal support. 
 
 ## Soziale Medien
 ### Fediverse
